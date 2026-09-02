@@ -1,0 +1,524 @@
+[
+  {
+    "no": 1,
+    "class": "Department",
+    "id": "Depa001",
+    "name": "가천대_중국어문학과",
+    "sort": "어문학",
+    "eYear": 1988,
+    "homepageURL": "https://www.gachon.ac.kr/sites/zhongwen/index.do"
+  },
+  {
+    "no": 2,
+    "class": "Department",
+    "id": "Depa002",
+    "name": "가톨릭대_중국언어문화학과",
+    "sort": "어문학",
+    "eYear": 1979,
+    "homepageURL": "https://cn.catholic.ac.kr/cn/index.do"
+  },
+  {
+    "no": 3,
+    "class": "Department",
+    "id": "Depa003",
+    "name": "강남대_중국콘텐츠비즈니스학과",
+    "sort": "콘텐츠학",
+    "eYear": 2004,
+    "homepageURL": "https://kcc.kangnam.ac.kr/menu/0f9152ddde49f58b93e7f3f39e7485dc.do"
+  },
+  {
+    "no": 4,
+    "class": "Department",
+    "id": "Depa004",
+    "name": "건국대_중어중문학과",
+    "sort": "어문학",
+    "eYear": 1981,
+    "homepageURL": "https://www.konkuk.ac.kr/sites/china/index.do"
+  },
+  {
+    "no": 5,
+    "class": "Department",
+    "id": "Depa005",
+    "name": "경북대_중어중문학과",
+    "sort": "어문학",
+    "eYear": 1979,
+    "homepageURL": "https://home.knu.ac.kr/HOME/humanities/sub.htm?nav_code=hum1623213510"
+  },
+  {
+    "no": 6,
+    "class": "Department",
+    "id": "Depa006",
+    "name": "경상국립대_중어중문학과",
+    "sort": "어문학",
+    "eYear": 1979,
+    "homepageURL": "https://www.gnu.ac.kr/china/main.do"
+  },
+  {
+    "no": 7,
+    "class": "Department",
+    "id": "Depa007",
+    "name": "경성대_중국학과",
+    "sort": "중국학",
+    "eYear": 1980,
+    "homepageURL": "https://kscms.ks.ac.kr/china/Main.do"
+  },
+  {
+    "no": 8,
+    "class": "Department",
+    "id": "Depa008",
+    "name": "경희대_중국어학과",
+    "sort": "언어학",
+    "eYear": 1972,
+    "homepageURL": "https://zhongwen.khu.ac.kr/zhongwen/user/main/view.do"
+  },
+  {
+    "no": 9,
+    "class": "Department",
+    "id": "Depa009",
+    "name": "계명대_중국어중국학과",
+    "sort": "어문학, 중국학",
+    "eYear": 1979,
+    "homepageURL": "https://chinesechina.kmu.ac.kr/sites/chinesechina/index.do"
+  },
+  {
+    "no": 10,
+    "class": "Department",
+    "id": "Depa010",
+    "name": "고려대_중어중문학과",
+    "sort": "어문학",
+    "eYear": 1972,
+    "homepageURL": "https://kuchinese.korea.ac.kr/kuchinese/index.do"
+  },
+  {
+    "no": 11,
+    "class": "Department",
+    "id": "Depa011",
+    "name": "국립강릉원주대_중어중문학과",
+    "sort": "어문학",
+    "eYear": 1994,
+    "homepageURL": null
+  },
+  {
+    "no": 12,
+    "class": "Department",
+    "id": "Depa012",
+    "name": "국립공주대_중어중문학과",
+    "sort": "어문학",
+    "eYear": 1982,
+    "homepageURL": "https://chinese.kongju.ac.kr/sites/ZB0240/index.do"
+  },
+  {
+    "no": 13,
+    "class": "Department",
+    "id": "Depa013",
+    "name": "국립군산대_중어중문학과",
+    "sort": "어문학",
+    "eYear": 1994,
+    "homepageURL": "https://www.kunsan.ac.kr/chinese/index.kunsan"
+  },
+  {
+    "no": 14,
+    "class": "Department",
+    "id": "Depa014",
+    "name": "국립부경대_중국학과",
+    "sort": "중국학",
+    "eYear": 1997,
+    "homepageURL": "https://chinese.pknu.ac.kr/chinese/1"
+  },
+  {
+    "no": 15,
+    "class": "Department",
+    "id": "Depa015",
+    "name": "국립창원대_중국학과",
+    "sort": "중국학",
+    "eYear": 1993,
+    "homepageURL": "https://www.changwon.ac.kr/china/main.do"
+  },
+  {
+    "no": 16,
+    "class": "Department",
+    "id": "Depa016",
+    "name": "국립한밭대_중국어과",
+    "sort": "언어학",
+    "eYear": 1991,
+    "homepageURL": "https://www.hanbat.ac.kr/chinese/index.do"
+  },
+  {
+    "no": 17,
+    "class": "Department",
+    "id": "Depa017",
+    "name": "동국대_중어중문학과",
+    "sort": "어문학",
+    "eYear": 1995,
+    "homepageURL": "https://china.dongguk.edu/main"
+  },
+  {
+    "no": 18,
+    "class": "Department",
+    "id": "Depa018",
+    "name": "동국대_중어중문학과(W)",
+    "sort": "어문학",
+    "eYear": 1979,
+    "homepageURL": "https://china.dongguk.ac.kr/HOME/china/index.htm"
+  },
+  {
+    "no": 19,
+    "class": "Department",
+    "id": "Depa019",
+    "name": "동서대_중국어학과",
+    "sort": "언어학",
+    "eYear": "개설 정보 없음",
+    "homepageURL": "https://uni.dongseo.ac.kr/chinese/"
+  },
+  {
+    "no": 20,
+    "class": "Department",
+    "id": "Depa020",
+    "name": "동아대_중국학과",
+    "sort": "중국학",
+    "eYear": 1982,
+    "homepageURL": "https://cms.donga.ac.kr/chinastudies/Main.do"
+  },
+  {
+    "no": 21,
+    "class": "Department",
+    "id": "Depa021",
+    "name": "동의대_중어중국학과",
+    "sort": "어문학, 중국학",
+    "eYear": 1983,
+    "homepageURL": "https://china.deu.ac.kr/chi/index.do"
+  },
+  {
+    "no": 22,
+    "class": "Department",
+    "id": "Depa022",
+    "name": "부산대_중어중문학과",
+    "sort": "어문학",
+    "eYear": 1979,
+    "homepageURL": "https://china.pusan.ac.kr/china/index.do"
+  },
+  {
+    "no": 23,
+    "class": "Department",
+    "id": "Depa023",
+    "name": "서강대_중국문화학과",
+    "sort": "어문학",
+    "eYear": 1993,
+    "homepageURL": "https://china.sogang.ac.kr/china/index_new.html"
+  },
+  {
+    "no": 24,
+    "class": "Department",
+    "id": "Depa024",
+    "name": "서울대_중어중문학과",
+    "sort": "어문학",
+    "eYear": 1946,
+    "homepageURL": "https://snucll.snu.ac.kr/"
+  },
+  {
+    "no": 25,
+    "class": "Department",
+    "id": "Depa025",
+    "name": "서울시립대_중국어문화학과",
+    "sort": "어문학",
+    "eYear": 2007,
+    "homepageURL": "https://liberalarts.uos.ac.kr/liberalarts/main.do?cate_id2=000011580&identified=anonymous"
+  },
+  {
+    "no": 26,
+    "class": "Department",
+    "id": "Depa026",
+    "name": "서울신학대_중국언어문화콘텐츠학과",
+    "sort": "콘텐츠학",
+    "eYear": 2005,
+    "homepageURL": "https://china.stu.ac.kr/"
+  },
+  {
+    "no": 27,
+    "class": "Department",
+    "id": "Depa027",
+    "name": "서울여자대_중어중문학과",
+    "sort": "어문학",
+    "eYear": 1992,
+    "homepageURL": "https://www.swu.ac.kr/www/liberale_1.html"
+  },
+  {
+    "no": 28,
+    "class": "Department",
+    "id": "Depa028",
+    "name": "성결대_중어중문학과",
+    "sort": "어문학",
+    "eYear": 1998,
+    "homepageURL": "https://www.sungkyul.ac.kr/sites/skuchina/index.do"
+  },
+  {
+    "no": 29,
+    "class": "Department",
+    "id": "Depa029",
+    "name": "성균관대_중어중문학과",
+    "sort": "어문학",
+    "eYear": 1955,
+    "homepageURL": "https://skb.skku.edu/chinese/index.do"
+  },
+  {
+    "no": 30,
+    "class": "Department",
+    "id": "Depa030",
+    "name": "성신여자대_중국어문·문화학과",
+    "sort": "어문학",
+    "eYear": 1981,
+    "homepageURL": "https://www.sungshin.ac.kr/chinese/index..do"
+  },
+  {
+    "no": 31,
+    "class": "Department",
+    "id": "Depa031",
+    "name": "숙명여자대_중어중문학부",
+    "sort": "어문학",
+    "eYear": 1972,
+    "homepageURL": "http://chinese.sookmyung.ac.kr/"
+  },
+  {
+    "no": 32,
+    "class": "Department",
+    "id": "Depa032",
+    "name": "순천향대_중국학과",
+    "sort": "중국학",
+    "eYear": 2017,
+    "homepageURL": "https://home.sch.ac.kr/china/"
+  },
+  {
+    "no": 33,
+    "class": "Department",
+    "id": "Depa033",
+    "name": "숭실대_중어중문학과",
+    "sort": "어문학",
+    "eYear": 1992,
+    "homepageURL": "https://chilan.ssu.ac.kr/"
+  },
+  {
+    "no": 34,
+    "class": "Department",
+    "id": "Depa034",
+    "name": "안양대_중국언어문화학과",
+    "sort": "어문학",
+    "eYear": 1998,
+    "homepageURL": "https://www.anyang.ac.kr/chinese/index.do"
+  },
+  {
+    "no": 35,
+    "class": "Department",
+    "id": "Depa035",
+    "name": "연세대_중어중문학과",
+    "sort": "어문학",
+    "eYear": 1974,
+    "homepageURL": "https://ycll.yonsei.ac.kr/yonseicll/index.do"
+  },
+  {
+    "no": 36,
+    "class": "Department",
+    "id": "Depa036",
+    "name": "영남대_중국언어문화학과",
+    "sort": "어문학",
+    "eYear": 1976,
+    "homepageURL": "https://www.yu.ac.kr/china/index.do"
+  },
+  {
+    "no": 37,
+    "class": "Department",
+    "id": "Depa037",
+    "name": "용인대_중국학과",
+    "sort": "중국학",
+    "eYear": 1996,
+    "homepageURL": "https://www.instagram.com/yiu_china"
+  },
+  {
+    "no": 38,
+    "class": "Department",
+    "id": "Depa038",
+    "name": "이화여자대_중어중문학과",
+    "sort": "어문학",
+    "eYear": 1981,
+    "homepageURL": "https://zhongwen.ewha.ac.kr/zhongwen/index.do"
+  },
+  {
+    "no": 39,
+    "class": "Department",
+    "id": "Depa039",
+    "name": "인천대_중어중국학과",
+    "sort": "중국학",
+    "eYear": 2002,
+    "homepageURL": "https://inuchina.inu.ac.kr/sites/inuchina/index.do?epTicket=LOG"
+  },
+  {
+    "no": 40,
+    "class": "Department",
+    "id": "Depa040",
+    "name": "인하대_중국학과",
+    "sort": "중국학",
+    "eYear": 1980,
+    "homepageURL": "https://chinese.inha.ac.kr/chinese/index.do"
+  },
+  {
+    "no": 41,
+    "class": "Department",
+    "id": "Depa041",
+    "name": "전남대_중어중문학과",
+    "sort": "어문학",
+    "eYear": 1979,
+    "homepageURL": "https://china.jnu.ac.kr/sites/china/index.do"
+  },
+  {
+    "no": 42,
+    "class": "Department",
+    "id": "Depa042",
+    "name": "전북대_중어중문학과",
+    "sort": "어문학",
+    "eYear": 1979,
+    "homepageURL": "https://chinese.jbnu.ac.kr/sites/chinese1/index.do"
+  },
+  {
+    "no": 43,
+    "class": "Department",
+    "id": "Depa043",
+    "name": "전주대_중국어중국학과",
+    "sort": "중국학",
+    "eYear": 1995,
+    "homepageURL": "https://chinese.jj.ac.kr/chinese/index.do"
+  },
+  {
+    "no": 44,
+    "class": "Department",
+    "id": "Depa044",
+    "name": "제주대_중어중문학과",
+    "sort": "어문학",
+    "eYear": 1992,
+    "homepageURL": "https://chinese.jejunu.ac.kr/"
+  },
+  {
+    "no": 45,
+    "class": "Department",
+    "id": "Depa045",
+    "name": "창신대_중국비즈니스학과",
+    "sort": "통상학",
+    "eYear": 2013,
+    "homepageURL": "https://chinese.cs.ac.kr/main"
+  },
+  {
+    "no": 46,
+    "class": "Department",
+    "id": "Depa046",
+    "name": "충남대_중어중문학과",
+    "sort": "어문학",
+    "eYear": 1977,
+    "homepageURL": "https://cnucn.cnu.ac.kr/cnuch/index.do"
+  },
+  {
+    "no": 47,
+    "class": "Department",
+    "id": "Depa047",
+    "name": "충북대_중어중문학과",
+    "sort": "어문학",
+    "eYear": 1980,
+    "homepageURL": "https://humanum.chungbuk.ac.kr/chinese/index.do"
+  },
+  {
+    "no": 48,
+    "class": "Department",
+    "id": "Depa048",
+    "name": "한국교원대_중국어교육과",
+    "sort": "교육학",
+    "eYear": 2015,
+    "homepageURL": "https://www.knue.ac.kr/chinese/index.do"
+  },
+  {
+    "no": 49,
+    "class": "Department",
+    "id": "Depa049",
+    "name": "국립한국교통대_중국어학과",
+    "sort": "언어학",
+    "eYear": 1996,
+    "homepageURL": "https://www.ut.ac.kr/chinese.do"
+  },
+  {
+    "no": 50,
+    "class": "Department",
+    "id": "Depa050",
+    "name": "한남대_중국경제통상학과",
+    "sort": "통상학",
+    "eYear": 1997,
+    "homepageURL": "https://china.hannam.ac.kr/"
+  },
+  {
+    "no": 51,
+    "class": "Department",
+    "id": "Depa051",
+    "name": "한림대_중국학과",
+    "sort": "중국학",
+    "eYear": 1985,
+    "homepageURL": "https://www.hallym.ac.kr/sites/china/index.do"
+  },
+  {
+    "no": 52,
+    "class": "Department",
+    "id": "Depa052",
+    "name": "한서대_항공외국어학과",
+    "sort": "통상학",
+    "eYear": 2024,
+    "homepageURL": "https://global.hanseo.ac.kr/main.do"
+  },
+  {
+    "no": 53,
+    "class": "Department",
+    "id": "Depa053",
+    "name": "한세대_중국어학과",
+    "sort": "언어학",
+    "eYear": 2014,
+    "homepageURL": "https://www.hansei.ac.kr/kor/507/subview.do"
+  },
+  {
+    "no": 54,
+    "class": "Department",
+    "id": "Depa054",
+    "name": "한신대_중국어문화콘텐츠학",
+    "sort": "콘텐츠학",
+    "eYear": "개설 정보 없음",
+    "homepageURL": "https://www.hs.ac.kr/kor/5085/subview.do"
+  },
+  {
+    "no": 55,
+    "class": "Department",
+    "id": "Depa055",
+    "name": "한신대_동아시아통상학",
+    "sort": "통상학",
+    "eYear": "개설 정보 없음",
+    "homepageURL": "https://www.hs.ac.kr/sites/eact/index.do"
+  },
+  {
+    "no": 56,
+    "class": "Department",
+    "id": "Depa056",
+    "name": "한양대_중어중문학과",
+    "sort": "어문학",
+    "eYear": 1981,
+    "homepageURL": "https://humanities.hanyang.ac.kr/-01-4-2a"
+  },
+  {
+    "no": 57,
+    "class": "Department",
+    "id": "Depa057",
+    "name": "협성대_중국어문화학과",
+    "sort": "어문학",
+    "eYear": 1997,
+    "homepageURL": "https://www.uhs.ac.kr/uhs/384/subview.do"
+  },
+  {
+    "no": 58,
+    "class": "Department",
+    "id": "Depa058",
+    "name": "호서대_중국학과",
+    "sort": "중국학",
+    "eYear": 1991,
+    "homepageURL": "https://china.hoseo.ac.kr/Home/Main.mbz"
+  }
+]

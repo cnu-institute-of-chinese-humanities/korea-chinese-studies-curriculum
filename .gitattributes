@@ -1,0 +1,19 @@
+# 줄바꿈은 LF로 통일합니다. 윈도우/맥/리눅스에서 같은 파일을 열어도
+# 전체 행이 변경된 것처럼 보이는 문제를 막습니다.
+* text=auto eol=lf
+
+# 데이터 파일 — 텍스트로 취급해 변경 이력을 행 단위로 볼 수 있게 합니다.
+*.csv  text eol=lf
+*.tsv  text eol=lf
+*.json text eol=lf
+*.md   text eol=lf
+
+# 바이너리 — git이 내용을 비교하려 들지 않도록 명시합니다.
+*.xlsx binary
+*.xls  binary
+*.docx binary
+*.hwp  binary
+*.pdf  binary
+*.png  binary
+*.jpg  binary
+*.gephi binary

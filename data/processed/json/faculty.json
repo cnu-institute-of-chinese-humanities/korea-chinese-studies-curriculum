@@ -1,0 +1,158 @@
+[
+  {
+    "no": 1,
+    "class": "Faculty",
+    "id": "Facu001",
+    "name": "경기대_글로벌어문학부"
+  },
+  {
+    "no": 2,
+    "class": "Faculty",
+    "id": "Facu002",
+    "name": "고려대_글로벌학부"
+  },
+  {
+    "no": 3,
+    "class": "Faculty",
+    "id": "Facu003",
+    "name": "국립목포대_글로벌커뮤니케이션학부"
+  },
+  {
+    "no": 4,
+    "class": "Faculty",
+    "id": "Facu004",
+    "name": "국민대_중국학부"
+  },
+  {
+    "no": 5,
+    "class": "Faculty",
+    "id": "Facu005",
+    "name": "단국대_아시아중동학부"
+  },
+  {
+    "no": 6,
+    "class": "Faculty",
+    "id": "Facu006",
+    "name": "대진대_국제학부"
+  },
+  {
+    "no": 7,
+    "class": "Faculty",
+    "id": "Facu007",
+    "name": "동국대_글로벌어문학부"
+  },
+  {
+    "no": 8,
+    "class": "Faculty",
+    "id": "Facu008",
+    "name": "동덕여자대_글로벌지역학부"
+  },
+  {
+    "no": 9,
+    "class": "Faculty",
+    "id": "Facu009",
+    "name": "명지대_아시아·중동어문학부"
+  },
+  {
+    "no": 10,
+    "class": "Faculty",
+    "id": "Facu010",
+    "name": "부산외국어대_중국학부"
+  },
+  {
+    "no": 11,
+    "class": "Faculty",
+    "id": "Facu011",
+    "name": "삼육대_항공관광외국어학부"
+  },
+  {
+    "no": 12,
+    "class": "Faculty",
+    "id": "Facu012",
+    "name": "서울신학대_아시아문화콘텐츠학부"
+  },
+  {
+    "no": 13,
+    "class": "Faculty",
+    "id": "Facu013",
+    "name": "선문대_외국어학부"
+  },
+  {
+    "no": 14,
+    "class": "Faculty",
+    "id": "Facu014",
+    "name": "성공회대_인문융합콘텐츠학부"
+  },
+  {
+    "no": 15,
+    "class": "Faculty",
+    "id": "Facu015",
+    "name": "세명대_외국어학부"
+  },
+  {
+    "no": 16,
+    "class": "Faculty",
+    "id": "Facu016",
+    "name": "영남대_글로벌통번역학부"
+  },
+  {
+    "no": 17,
+    "class": "Faculty",
+    "id": "Facu017",
+    "name": "울산대_글로벌인문학부"
+  },
+  {
+    "no": 18,
+    "class": "Faculty",
+    "id": "Facu018",
+    "name": "전남대_국제학부"
+  },
+  {
+    "no": 19,
+    "class": "Faculty",
+    "id": "Facu019",
+    "name": "조선대_아시아언어문화학부"
+  },
+  {
+    "no": 20,
+    "class": "Faculty",
+    "id": "Facu020",
+    "name": "중앙대_아시아문화학부"
+  },
+  {
+    "no": 21,
+    "class": "Faculty",
+    "id": "Facu021",
+    "name": "평택대_국제지역학부"
+  },
+  {
+    "no": 22,
+    "class": "Faculty",
+    "id": "Facu022",
+    "name": "한국외국어대_중국언어문화학부"
+  },
+  {
+    "no": 23,
+    "class": "Faculty",
+    "id": "Facu023",
+    "name": "한국외국어대_중국외교통상학부"
+  },
+  {
+    "no": 24,
+    "class": "Faculty",
+    "id": "Facu024",
+    "name": "한국외국어대_외국어교육학부"
+  },
+  {
+    "no": 25,
+    "class": "Faculty",
+    "id": "Facu025",
+    "name": "한서대_항공관광학부"
+  },
+  {
+    "no": 26,
+    "class": "Faculty",
+    "id": "Facu026",
+    "name": "한세대_언어학부"
+  }
+]

@@ -1,0 +1,793 @@
+{
+  "university": {
+    "rows": 78,
+    "columns": [
+      {
+        "key": "no",
+        "label": "연번",
+        "type": "integer",
+        "filled": 78,
+        "total": 78,
+        "missingRate": 0.0
+      },
+      {
+        "key": "class",
+        "label": "클래스",
+        "type": "string",
+        "filled": 78,
+        "total": 78,
+        "missingRate": 0.0
+      },
+      {
+        "key": "id",
+        "label": "식별자",
+        "type": "string",
+        "filled": 78,
+        "total": 78,
+        "missingRate": 0.0
+      },
+      {
+        "key": "name",
+        "label": "대표명",
+        "type": "string",
+        "filled": 78,
+        "total": 78,
+        "missingRate": 0.0
+      },
+      {
+        "key": "engname",
+        "label": "영문명",
+        "type": "string",
+        "filled": 78,
+        "total": 78,
+        "missingRate": 0.0
+      },
+      {
+        "key": "sort",
+        "label": "분류",
+        "type": "string",
+        "filled": 78,
+        "total": 78,
+        "missingRate": 0.0
+      },
+      {
+        "key": "aYear",
+        "label": "인가연도",
+        "type": "integer",
+        "filled": 78,
+        "total": 78,
+        "missingRate": 0.0
+      },
+      {
+        "key": "eYear",
+        "label": "개교연도",
+        "type": "integer",
+        "filled": 78,
+        "total": 78,
+        "missingRate": 0.0
+      }
+    ]
+  },
+  "campus": {
+    "rows": 81,
+    "columns": [
+      {
+        "key": "no",
+        "label": "연번",
+        "type": "integer",
+        "filled": 81,
+        "total": 81,
+        "missingRate": 0.0
+      },
+      {
+        "key": "class",
+        "label": "클래스",
+        "type": "string",
+        "filled": 81,
+        "total": 81,
+        "missingRate": 0.0
+      },
+      {
+        "key": "id",
+        "label": "식별자",
+        "type": "string",
+        "filled": 81,
+        "total": 81,
+        "missingRate": 0.0
+      },
+      {
+        "key": "name",
+        "label": "대표명",
+        "type": "string",
+        "filled": 81,
+        "total": 81,
+        "missingRate": 0.0
+      },
+      {
+        "key": "oYear",
+        "label": "개설연도",
+        "type": "integer",
+        "filled": 81,
+        "total": 81,
+        "missingRate": 0.0
+      },
+      {
+        "key": "hq",
+        "label": "본부소재",
+        "type": "string",
+        "filled": 81,
+        "total": 81,
+        "missingRate": 0.0
+      },
+      {
+        "key": "aDivision",
+        "label": "행정권역",
+        "type": "string",
+        "filled": 81,
+        "total": 81,
+        "missingRate": 0.0
+      },
+      {
+        "key": "aUnit",
+        "label": "행정단위",
+        "type": "string",
+        "filled": 81,
+        "total": 81,
+        "missingRate": 0.0
+      },
+      {
+        "key": "latitude",
+        "label": "위도",
+        "type": "number",
+        "filled": 81,
+        "total": 81,
+        "missingRate": 0.0
+      },
+      {
+        "key": "longitude",
+        "label": "경도",
+        "type": "number",
+        "filled": 81,
+        "total": 81,
+        "missingRate": 0.0
+      }
+    ]
+  },
+  "college": {
+    "rows": 80,
+    "columns": [
+      {
+        "key": "no",
+        "label": "연번",
+        "type": "integer",
+        "filled": 80,
+        "total": 80,
+        "missingRate": 0.0
+      },
+      {
+        "key": "class",
+        "label": "클래스",
+        "type": "string",
+        "filled": 80,
+        "total": 80,
+        "missingRate": 0.0
+      },
+      {
+        "key": "id",
+        "label": "식별자",
+        "type": "string",
+        "filled": 80,
+        "total": 80,
+        "missingRate": 0.0
+      },
+      {
+        "key": "name",
+        "label": "대표명",
+        "type": "string",
+        "filled": 80,
+        "total": 80,
+        "missingRate": 0.0
+      }
+    ]
+  },
+  "faculty": {
+    "rows": 26,
+    "columns": [
+      {
+        "key": "no",
+        "label": "연번",
+        "type": "integer",
+        "filled": 26,
+        "total": 26,
+        "missingRate": 0.0
+      },
+      {
+        "key": "class",
+        "label": "클래스",
+        "type": "string",
+        "filled": 26,
+        "total": 26,
+        "missingRate": 0.0
+      },
+      {
+        "key": "id",
+        "label": "식별자",
+        "type": "string",
+        "filled": 26,
+        "total": 26,
+        "missingRate": 0.0
+      },
+      {
+        "key": "name",
+        "label": "대표명",
+        "type": "string",
+        "filled": 26,
+        "total": 26,
+        "missingRate": 0.0
+      }
+    ]
+  },
+  "department": {
+    "rows": 58,
+    "columns": [
+      {
+        "key": "no",
+        "label": "연번",
+        "type": "integer",
+        "filled": 58,
+        "total": 58,
+        "missingRate": 0.0
+      },
+      {
+        "key": "class",
+        "label": "클래스",
+        "type": "string",
+        "filled": 58,
+        "total": 58,
+        "missingRate": 0.0
+      },
+      {
+        "key": "id",
+        "label": "식별자",
+        "type": "string",
+        "filled": 58,
+        "total": 58,
+        "missingRate": 0.0
+      },
+      {
+        "key": "name",
+        "label": "대표명",
+        "type": "string",
+        "filled": 58,
+        "total": 58,
+        "missingRate": 0.0
+      },
+      {
+        "key": "sort",
+        "label": "분류",
+        "type": "string",
+        "filled": 58,
+        "total": 58,
+        "missingRate": 0.0
+      },
+      {
+        "key": "eYear",
+        "label": "개설 연도",
+        "type": "integer",
+        "filled": 58,
+        "total": 58,
+        "missingRate": 0.0
+      },
+      {
+        "key": "homepageURL",
+        "label": "홈페이지 주소",
+        "type": "string",
+        "filled": 57,
+        "total": 58,
+        "missingRate": 0.017
+      }
+    ]
+  },
+  "major": {
+    "rows": 33,
+    "columns": [
+      {
+        "key": "no",
+        "label": "연번",
+        "type": "integer",
+        "filled": 33,
+        "total": 33,
+        "missingRate": 0.0
+      },
+      {
+        "key": "class",
+        "label": "클래스",
+        "type": "string",
+        "filled": 33,
+        "total": 33,
+        "missingRate": 0.0
+      },
+      {
+        "key": "id",
+        "label": "식별자",
+        "type": "string",
+        "filled": 33,
+        "total": 33,
+        "missingRate": 0.0
+      },
+      {
+        "key": "name",
+        "label": "대표명",
+        "type": "string",
+        "filled": 33,
+        "total": 33,
+        "missingRate": 0.0
+      },
+      {
+        "key": "sort",
+        "label": "분류",
+        "type": "string",
+        "filled": 33,
+        "total": 33,
+        "missingRate": 0.0
+      },
+      {
+        "key": "eYear",
+        "label": "개설 연도",
+        "type": "integer",
+        "filled": 33,
+        "total": 33,
+        "missingRate": 0.0
+      },
+      {
+        "key": "homepageURL",
+        "label": "홈페이지 주소",
+        "type": "string",
+        "filled": 33,
+        "total": 33,
+        "missingRate": 0.0
+      }
+    ]
+  },
+  "track": {
+    "rows": 3,
+    "columns": [
+      {
+        "key": "no",
+        "label": "연번",
+        "type": "integer",
+        "filled": 3,
+        "total": 3,
+        "missingRate": 0.0
+      },
+      {
+        "key": "class",
+        "label": "클래스",
+        "type": "string",
+        "filled": 3,
+        "total": 3,
+        "missingRate": 0.0
+      },
+      {
+        "key": "id",
+        "label": "식별자",
+        "type": "string",
+        "filled": 3,
+        "total": 3,
+        "missingRate": 0.0
+      },
+      {
+        "key": "name",
+        "label": "대표명",
+        "type": "string",
+        "filled": 3,
+        "total": 3,
+        "missingRate": 0.0
+      },
+      {
+        "key": "sort",
+        "label": "분류",
+        "type": "string",
+        "filled": 3,
+        "total": 3,
+        "missingRate": 0.0
+      },
+      {
+        "key": "eYear",
+        "label": "개설 연도",
+        "type": "integer",
+        "filled": 3,
+        "total": 3,
+        "missingRate": 0.0
+      },
+      {
+        "key": "homepageURL",
+        "label": "홈페이지 주소",
+        "type": "string",
+        "filled": 3,
+        "total": 3,
+        "missingRate": 0.0
+      }
+    ]
+  },
+  "edugoal": {
+    "rows": 88,
+    "columns": [
+      {
+        "key": "no",
+        "label": "연번",
+        "type": "integer",
+        "filled": 88,
+        "total": 88,
+        "missingRate": 0.0
+      },
+      {
+        "key": "class",
+        "label": "클래스",
+        "type": "string",
+        "filled": 88,
+        "total": 88,
+        "missingRate": 0.0
+      },
+      {
+        "key": "id",
+        "label": "식별자",
+        "type": "string",
+        "filled": 88,
+        "total": 88,
+        "missingRate": 0.0
+      },
+      {
+        "key": "name",
+        "label": "대표명",
+        "type": "string",
+        "filled": 88,
+        "total": 88,
+        "missingRate": 0.0
+      },
+      {
+        "key": "content",
+        "label": "내용",
+        "type": "string",
+        "filled": 88,
+        "total": 88,
+        "missingRate": 0.0
+      },
+      {
+        "key": "reference",
+        "label": "출처",
+        "type": "string",
+        "filled": 88,
+        "total": 88,
+        "missingRate": 0.0
+      },
+      {
+        "key": "referenceURL",
+        "label": "출처 URL",
+        "type": "array<string>",
+        "filled": 88,
+        "total": 88,
+        "missingRate": 0.0
+      }
+    ]
+  },
+  "course": {
+    "rows": 4012,
+    "columns": [
+      {
+        "key": "no",
+        "label": "연번",
+        "type": "integer",
+        "filled": 4012,
+        "total": 4012,
+        "missingRate": 0.0
+      },
+      {
+        "key": "class",
+        "label": "클래스",
+        "type": "string",
+        "filled": 4012,
+        "total": 4012,
+        "missingRate": 0.0
+      },
+      {
+        "key": "id",
+        "label": "식별자",
+        "type": "string",
+        "filled": 4012,
+        "total": 4012,
+        "missingRate": 0.0
+      },
+      {
+        "key": "curriumYear",
+        "label": "교육과정 적용 연도",
+        "type": "integer",
+        "filled": 4012,
+        "total": 4012,
+        "missingRate": 0.0
+      },
+      {
+        "key": "grade",
+        "label": "이수 학년",
+        "type": "integer",
+        "filled": 3922,
+        "total": 4012,
+        "missingRate": 0.022
+      },
+      {
+        "key": "semester",
+        "label": "이수 학기",
+        "type": "integer",
+        "filled": 3674,
+        "total": 4012,
+        "missingRate": 0.084
+      },
+      {
+        "key": "credit",
+        "label": "이수 학점",
+        "type": "number",
+        "filled": 3848,
+        "total": 4012,
+        "missingRate": 0.041
+      },
+      {
+        "key": "type",
+        "label": "중국/기타",
+        "type": "string",
+        "filled": 4012,
+        "total": 4012,
+        "missingRate": 0.0
+      },
+      {
+        "key": "sortA",
+        "label": "교직 이수 과목 여부",
+        "type": "string",
+        "filled": 258,
+        "total": 4012,
+        "missingRate": 0.936
+      },
+      {
+        "key": "sortB",
+        "label": "이수 구분(전공/교양)",
+        "type": "string",
+        "filled": 3730,
+        "total": 4012,
+        "missingRate": 0.07
+      },
+      {
+        "key": "sortC",
+        "label": "이수 구분(필수/선택)",
+        "type": "string",
+        "filled": 2734,
+        "total": 4012,
+        "missingRate": 0.319
+      },
+      {
+        "key": "sortD",
+        "label": "교과 수준(기초/심화/진로)",
+        "type": "string",
+        "filled": 620,
+        "total": 4012,
+        "missingRate": 0.845
+      },
+      {
+        "key": "name",
+        "label": "교과목명",
+        "type": "string",
+        "filled": 4012,
+        "total": 4012,
+        "missingRate": 0.0
+      },
+      {
+        "key": "categoryA",
+        "label": "분류A(어학/문학/문화/사회/기술/기타)",
+        "type": "array<string>",
+        "filled": 4012,
+        "total": 4012,
+        "missingRate": 0.0
+      },
+      {
+        "key": "categoryB",
+        "label": "분류B(실무/응용)",
+        "type": "array<string>",
+        "filled": 509,
+        "total": 4012,
+        "missingRate": 0.873
+      },
+      {
+        "key": "description",
+        "label": "교과목 개요",
+        "type": "string",
+        "filled": 2900,
+        "total": 4012,
+        "missingRate": 0.277
+      },
+      {
+        "key": "descriptionSource",
+        "label": "교과목 개요 참조 자원",
+        "type": "string",
+        "filled": 2900,
+        "total": 4012,
+        "missingRate": 0.277
+      },
+      {
+        "key": "descriptionSourceURL",
+        "label": "교과목 개요 참조 자원 URL",
+        "type": "array<string>",
+        "filled": 2900,
+        "total": 4012,
+        "missingRate": 0.277
+      },
+      {
+        "key": "referenceChannel",
+        "label": "교육과정 참조 채널",
+        "type": "string",
+        "filled": 4012,
+        "total": 4012,
+        "missingRate": 0.0
+      },
+      {
+        "key": "referenceMedia",
+        "label": "교육과정 참조 경로 및 파일",
+        "type": "string",
+        "filled": 4012,
+        "total": 4012,
+        "missingRate": 0.0
+      },
+      {
+        "key": "referenceURL",
+        "label": "교육과정 참조 URL",
+        "type": "array<string>",
+        "filled": 4011,
+        "total": 4012,
+        "missingRate": 0.0
+      },
+      {
+        "key": "note",
+        "label": "수집 메모",
+        "type": "string",
+        "filled": 5,
+        "total": 4012,
+        "missingRate": 0.999
+      },
+      {
+        "key": "previousDescription",
+        "label": "이전 교과목 해설",
+        "type": "string",
+        "filled": 16,
+        "total": 4012,
+        "missingRate": 0.996
+      }
+    ]
+  },
+  "professor": {
+    "rows": 435,
+    "columns": [
+      {
+        "key": "no",
+        "label": "연번",
+        "type": "integer",
+        "filled": 435,
+        "total": 435,
+        "missingRate": 0.0
+      },
+      {
+        "key": "class",
+        "label": "클래스",
+        "type": "string",
+        "filled": 435,
+        "total": 435,
+        "missingRate": 0.0
+      },
+      {
+        "key": "id",
+        "label": "식별자",
+        "type": "string",
+        "filled": 435,
+        "total": 435,
+        "missingRate": 0.0
+      },
+      {
+        "key": "name",
+        "label": "대표명",
+        "type": "string",
+        "filled": 435,
+        "total": 435,
+        "missingRate": 0.0
+      },
+      {
+        "key": "wideField",
+        "label": "대분류",
+        "type": "array<string>",
+        "filled": 435,
+        "total": 435,
+        "missingRate": 0.0
+      },
+      {
+        "key": "detailedField",
+        "label": "세부 전공",
+        "type": "array<string>",
+        "filled": 388,
+        "total": 435,
+        "missingRate": 0.108
+      }
+    ]
+  },
+  "edge": {
+    "rows": 5393,
+    "columns": [
+      {
+        "key": "no",
+        "label": "",
+        "type": "integer",
+        "filled": 5393,
+        "total": 5393,
+        "missingRate": 0.0
+      },
+      {
+        "key": "SourceClass",
+        "label": "",
+        "type": "string",
+        "filled": 5393,
+        "total": 5393,
+        "missingRate": 0.0
+      },
+      {
+        "key": "SourceID",
+        "label": "",
+        "type": "string",
+        "filled": 5393,
+        "total": 5393,
+        "missingRate": 0.0
+      },
+      {
+        "key": "SourceName",
+        "label": "",
+        "type": "string",
+        "filled": 5393,
+        "total": 5393,
+        "missingRate": 0.0
+      },
+      {
+        "key": "TargetClass",
+        "label": "",
+        "type": "string",
+        "filled": 5393,
+        "total": 5393,
+        "missingRate": 0.0
+      },
+      {
+        "key": "TargetID",
+        "label": "",
+        "type": "string",
+        "filled": 5393,
+        "total": 5393,
+        "missingRate": 0.0
+      },
+      {
+        "key": "TargetName",
+        "label": "",
+        "type": "string",
+        "filled": 5393,
+        "total": 5393,
+        "missingRate": 0.0
+      },
+      {
+        "key": "Relationship",
+        "label": "",
+        "type": "string",
+        "filled": 5393,
+        "total": 5393,
+        "missingRate": 0.0
+      },
+      {
+        "key": "description",
+        "label": "",
+        "type": "string",
+        "filled": 5393,
+        "total": 5393,
+        "missingRate": 0.0
+      }
+    ]
+  }
+}

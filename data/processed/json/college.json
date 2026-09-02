@@ -1,0 +1,482 @@
+[
+  {
+    "no": 1,
+    "class": "College",
+    "id": "Coll001",
+    "name": "가천대_AI인문대학"
+  },
+  {
+    "no": 2,
+    "class": "College",
+    "id": "Coll002",
+    "name": "가톨릭대_인문사회계열"
+  },
+  {
+    "no": 3,
+    "class": "College",
+    "id": "Coll003",
+    "name": "강남대_글로벌문화콘텐츠대학"
+  },
+  {
+    "no": 4,
+    "class": "College",
+    "id": "Coll004",
+    "name": "강원대_인문대학"
+  },
+  {
+    "no": 5,
+    "class": "College",
+    "id": "Coll005",
+    "name": "건국대_문과대학"
+  },
+  {
+    "no": 6,
+    "class": "College",
+    "id": "Coll006",
+    "name": "경기대_인문대학"
+  },
+  {
+    "no": 7,
+    "class": "College",
+    "id": "Coll007",
+    "name": "경북대_인문대학"
+  },
+  {
+    "no": 8,
+    "class": "College",
+    "id": "Coll008",
+    "name": "경상국립대_인문대학"
+  },
+  {
+    "no": 9,
+    "class": "College",
+    "id": "Coll009",
+    "name": "경성대_인문사회대학"
+  },
+  {
+    "no": 10,
+    "class": "College",
+    "id": "Coll010",
+    "name": "경희대_외국어대학"
+  },
+  {
+    "no": 11,
+    "class": "College",
+    "id": "Coll011",
+    "name": "계명대_인문국제대학"
+  },
+  {
+    "no": 12,
+    "class": "College",
+    "id": "Coll012",
+    "name": "고려대_문과대학"
+  },
+  {
+    "no": 13,
+    "class": "College",
+    "id": "Coll013",
+    "name": "고려대_글로벌비즈니스대학"
+  },
+  {
+    "no": 14,
+    "class": "College",
+    "id": "Coll014",
+    "name": "국립강릉원주대_인문대학"
+  },
+  {
+    "no": 15,
+    "class": "College",
+    "id": "Coll015",
+    "name": "국립공주대_인문사회과학대학"
+  },
+  {
+    "no": 16,
+    "class": "College",
+    "id": "Coll016",
+    "name": "국립군산대_인문콘텐츠융합대학"
+  },
+  {
+    "no": 17,
+    "class": "College",
+    "id": "Coll017",
+    "name": "국립목포대_인문대학"
+  },
+  {
+    "no": 18,
+    "class": "College",
+    "id": "Coll018",
+    "name": "국립부경대_인문사회과학대학"
+  },
+  {
+    "no": 19,
+    "class": "College",
+    "id": "Coll019",
+    "name": "국립순천대_애니메이션문화콘텐츠스쿨"
+  },
+  {
+    "no": 20,
+    "class": "College",
+    "id": "Coll020",
+    "name": "국립창원대_사회과학대학"
+  },
+  {
+    "no": 21,
+    "class": "College",
+    "id": "Coll021",
+    "name": "국립한밭대_인문사회대학"
+  },
+  {
+    "no": 22,
+    "class": "College",
+    "id": "Coll022",
+    "name": "국민대_글로벌인문·지역대학"
+  },
+  {
+    "no": 23,
+    "class": "College",
+    "id": "Coll023",
+    "name": "단국대_외국어대학"
+  },
+  {
+    "no": 24,
+    "class": "College",
+    "id": "Coll024",
+    "name": "대진대_글로벌산업통상대학"
+  },
+  {
+    "no": 25,
+    "class": "College",
+    "id": "Coll025",
+    "name": "덕성여자대_글로벌융합대학"
+  },
+  {
+    "no": 26,
+    "class": "College",
+    "id": "Coll026",
+    "name": "동국대_문과대학"
+  },
+  {
+    "no": 27,
+    "class": "College",
+    "id": "Coll027",
+    "name": "동국대_글로컬문화융합대학"
+  },
+  {
+    "no": 28,
+    "class": "College",
+    "id": "Coll028",
+    "name": "동덕여자대_인문대학"
+  },
+  {
+    "no": 29,
+    "class": "College",
+    "id": "Coll029",
+    "name": "동서대_글로벌관광대학"
+  },
+  {
+    "no": 30,
+    "class": "College",
+    "id": "Coll030",
+    "name": "동아대_국제대학"
+  },
+  {
+    "no": 31,
+    "class": "College",
+    "id": "Coll031",
+    "name": "동의대_인문사회과학대학"
+  },
+  {
+    "no": 32,
+    "class": "College",
+    "id": "Coll032",
+    "name": "명지대_인문대학"
+  },
+  {
+    "no": 33,
+    "class": "College",
+    "id": "Coll033",
+    "name": "부산대_인문대학"
+  },
+  {
+    "no": 34,
+    "class": "College",
+    "id": "Coll034",
+    "name": "부산외국어대_아시아대학"
+  },
+  {
+    "no": 35,
+    "class": "College",
+    "id": "Coll035",
+    "name": "삼육대_창의융합대학"
+  },
+  {
+    "no": 36,
+    "class": "College",
+    "id": "Coll036",
+    "name": "상명대_글로벌인문학부대학"
+  },
+  {
+    "no": 37,
+    "class": "College",
+    "id": "Coll037",
+    "name": "서강대_인문대학"
+  },
+  {
+    "no": 38,
+    "class": "College",
+    "id": "Coll038",
+    "name": "서울대_인문대학"
+  },
+  {
+    "no": 39,
+    "class": "College",
+    "id": "Coll039",
+    "name": "서울시립대_인문대학"
+  },
+  {
+    "no": 40,
+    "class": "College",
+    "id": "Coll040",
+    "name": "서울여자대_인문대학"
+  },
+  {
+    "no": 41,
+    "class": "College",
+    "id": "Coll041",
+    "name": "선문대_글로벌비즈니스대학"
+  },
+  {
+    "no": 42,
+    "class": "College",
+    "id": "Coll042",
+    "name": "성결대_인문대학"
+  },
+  {
+    "no": 43,
+    "class": "College",
+    "id": "Coll043",
+    "name": "성공회대_나눔융합전공대학"
+  },
+  {
+    "no": 44,
+    "class": "College",
+    "id": "Coll044",
+    "name": "성균관대_문과대학"
+  },
+  {
+    "no": 45,
+    "class": "College",
+    "id": "Coll045",
+    "name": "성신여자대_인문융합예술대학"
+  },
+  {
+    "no": 46,
+    "class": "College",
+    "id": "Coll046",
+    "name": "세명대_인문예술대학"
+  },
+  {
+    "no": 47,
+    "class": "College",
+    "id": "Coll047",
+    "name": "수원대_인문사회융합대학"
+  },
+  {
+    "no": 48,
+    "class": "College",
+    "id": "Coll048",
+    "name": "숙명여자대_문과대학"
+  },
+  {
+    "no": 49,
+    "class": "College",
+    "id": "Coll049",
+    "name": "순천향대_SCH미디어랩스"
+  },
+  {
+    "no": 50,
+    "class": "College",
+    "id": "Coll050",
+    "name": "숭실대_인문대학"
+  },
+  {
+    "no": 51,
+    "class": "College",
+    "id": "Coll051",
+    "name": "안양대_인문대학"
+  },
+  {
+    "no": 52,
+    "class": "College",
+    "id": "Coll052",
+    "name": "연세대_문과대학"
+  },
+  {
+    "no": 53,
+    "class": "College",
+    "id": "Coll053",
+    "name": "영남대_글로벌인재대학"
+  },
+  {
+    "no": 54,
+    "class": "College",
+    "id": "Coll054",
+    "name": "용인대_인문사회융합대학"
+  },
+  {
+    "no": 55,
+    "class": "College",
+    "id": "Coll055",
+    "name": "울산대_인문예술대학"
+  },
+  {
+    "no": 56,
+    "class": "College",
+    "id": "Coll056",
+    "name": "이화여자대_인문과학대학"
+  },
+  {
+    "no": 57,
+    "class": "College",
+    "id": "Coll057",
+    "name": "인천대_인문대학"
+  },
+  {
+    "no": 58,
+    "class": "College",
+    "id": "Coll058",
+    "name": "인하대_문과대학"
+  },
+  {
+    "no": 59,
+    "class": "College",
+    "id": "Coll059",
+    "name": "전남대_인문대학"
+  },
+  {
+    "no": 60,
+    "class": "College",
+    "id": "Coll060",
+    "name": "전남대_문화사회과학대학"
+  },
+  {
+    "no": 61,
+    "class": "College",
+    "id": "Coll061",
+    "name": "전북대_인문대학"
+  },
+  {
+    "no": 62,
+    "class": "College",
+    "id": "Coll062",
+    "name": "전주대_인문콘텐츠대학"
+  },
+  {
+    "no": 63,
+    "class": "College",
+    "id": "Coll063",
+    "name": "제주대_인문대학"
+  },
+  {
+    "no": 64,
+    "class": "College",
+    "id": "Coll064",
+    "name": "조선대_글로벌인문대학"
+  },
+  {
+    "no": 65,
+    "class": "College",
+    "id": "Coll065",
+    "name": "중앙대_인문대학"
+  },
+  {
+    "no": 66,
+    "class": "College",
+    "id": "Coll066",
+    "name": "창신대_스마트휴먼대학"
+  },
+  {
+    "no": 67,
+    "class": "College",
+    "id": "Coll067",
+    "name": "충남대_인문대학"
+  },
+  {
+    "no": 68,
+    "class": "College",
+    "id": "Coll068",
+    "name": "충북대_인문대학"
+  },
+  {
+    "no": 69,
+    "class": "College",
+    "id": "Coll069",
+    "name": "평택대_국제비즈니스대학"
+  },
+  {
+    "no": 70,
+    "class": "College",
+    "id": "Coll070",
+    "name": "한국교원대_제2대학"
+  },
+  {
+    "no": 71,
+    "class": "College",
+    "id": "Coll071",
+    "name": "국립한국교통대_인문대학"
+  },
+  {
+    "no": 72,
+    "class": "College",
+    "id": "Coll072",
+    "name": "한국외국어대_중국학대학"
+  },
+  {
+    "no": 73,
+    "class": "College",
+    "id": "Coll073",
+    "name": "한국외국어대_사범대학"
+  },
+  {
+    "no": 74,
+    "class": "College",
+    "id": "Coll074",
+    "name": "한남대_경상대학"
+  },
+  {
+    "no": 75,
+    "class": "College",
+    "id": "Coll075",
+    "name": "한림대_인문대학"
+  },
+  {
+    "no": 76,
+    "class": "College",
+    "id": "Coll076",
+    "name": "한신대_인문융합대학"
+  },
+  {
+    "no": 77,
+    "class": "College",
+    "id": "Coll077",
+    "name": "한신대_글로벌융합대학"
+  },
+  {
+    "no": 78,
+    "class": "College",
+    "id": "Coll078",
+    "name": "한양대_인문과학대학"
+  },
+  {
+    "no": 79,
+    "class": "College",
+    "id": "Coll079",
+    "name": "협성대_인문사회과학대학"
+  },
+  {
+    "no": 80,
+    "class": "College",
+    "id": "Coll080",
+    "name": "호서대_글로벌융합대학"
+  }
+]

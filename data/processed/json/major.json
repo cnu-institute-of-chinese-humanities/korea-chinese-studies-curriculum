@@ -1,0 +1,299 @@
+[
+  {
+    "no": 1,
+    "class": "Major",
+    "id": "Majo001",
+    "name": "강원대_중어중문학전공",
+    "sort": "어문학",
+    "eYear": 1985,
+    "homepageURL": "https://chinese.kangwon.ac.kr/chinese/index.do"
+  },
+  {
+    "no": 2,
+    "class": "Major",
+    "id": "Majo002",
+    "name": "경기대_중어중문전공",
+    "sort": "어문학",
+    "eYear": 1984,
+    "homepageURL": "https://www.kyonggi.ac.kr/u_chinese/index.do"
+  },
+  {
+    "no": 3,
+    "class": "Major",
+    "id": "Majo003",
+    "name": "고려대_중국학전공",
+    "sort": "중국학",
+    "eYear": 1980,
+    "homepageURL": "https://sejong.korea.ac.kr/sites/gchina/index.do"
+  },
+  {
+    "no": 4,
+    "class": "Major",
+    "id": "Majo004",
+    "name": "국립목포대_동아시아문화전공",
+    "sort": "중국학",
+    "eYear": 1985,
+    "homepageURL": "https://mnueastasia.mokpo.ac.kr/sites/mnueastasia/index.do"
+  },
+  {
+    "no": 5,
+    "class": "Major",
+    "id": "Majo005",
+    "name": "국립순천대_글로벌중국학전공",
+    "sort": "중국학",
+    "eYear": 1989,
+    "homepageURL": "https://www.scnu.ac.kr/china/main.do"
+  },
+  {
+    "no": 6,
+    "class": "Major",
+    "id": "Majo006",
+    "name": "국민대_중국어문전공",
+    "sort": "어문학",
+    "eYear": 1973,
+    "homepageURL": "https://cha.kookmin.ac.kr/china/intro"
+  },
+  {
+    "no": 7,
+    "class": "Major",
+    "id": "Majo007",
+    "name": "국민대_중국정경전공",
+    "sort": "중국학",
+    "eYear": "개설 정보 없음",
+    "homepageURL": "https://seais.kookmin.ac.kr/SEAIS/intro/china.do"
+  },
+  {
+    "no": 8,
+    "class": "Major",
+    "id": "Majo008",
+    "name": "단국대_중국학전공",
+    "sort": "중국학",
+    "eYear": 1981,
+    "homepageURL": "https://cms.dankook.ac.kr/web/china"
+  },
+  {
+    "no": 9,
+    "class": "Major",
+    "id": "Majo009",
+    "name": "대진대_중국학전공",
+    "sort": "중국학",
+    "eYear": 1996,
+    "homepageURL": "https://china.daejin.ac.kr/sites/china/index.do"
+  },
+  {
+    "no": 10,
+    "class": "Major",
+    "id": "Majo010",
+    "name": "덕성여자대_중어중문학전공",
+    "sort": "어문학",
+    "eYear": 1989,
+    "homepageURL": "https://www.duksung.ac.kr/chinese/main.do"
+  },
+  {
+    "no": 11,
+    "class": "Major",
+    "id": "Majo011",
+    "name": "동덕여자대_중어중국학전공",
+    "sort": "중국학",
+    "eYear": 1994,
+    "homepageURL": "https://ddchinese.dongduk.ac.kr/"
+  },
+  {
+    "no": 12,
+    "class": "Major",
+    "id": "Majo012",
+    "name": "명지대_중어중문학전공",
+    "sort": "어문학",
+    "eYear": 1980,
+    "homepageURL": "https://cll.mju.ac.kr/cll/index.do"
+  },
+  {
+    "no": 13,
+    "class": "Major",
+    "id": "Majo013",
+    "name": "부산외국어대_중국어전공",
+    "sort": "언어학",
+    "eYear": 1981,
+    "homepageURL": "https://www.bufs.ac.kr/bbs/board.php?bo_table=china_introduce"
+  },
+  {
+    "no": 14,
+    "class": "Major",
+    "id": "Majo014",
+    "name": "부산외국어대_중국지역통상전공",
+    "sort": "통상학",
+    "eYear": 2006,
+    "homepageURL": "https://www.bufs.ac.kr/bbs/board.php?bo_table=china_introduce"
+  },
+  {
+    "no": 15,
+    "class": "Major",
+    "id": "Majo015",
+    "name": "삼육대_동양어문화전공",
+    "sort": "어문학",
+    "eYear": 2020,
+    "homepageURL": "https://www.syu.ac.kr/atfl/"
+  },
+  {
+    "no": 16,
+    "class": "Major",
+    "id": "Majo016",
+    "name": "상명대_중국어권지역학전공",
+    "sort": "중국학",
+    "eYear": 1989,
+    "homepageURL": "https://smuchina.smu.ac.kr/smuchina/index.do"
+  },
+  {
+    "no": 17,
+    "class": "Major",
+    "id": "Majo017",
+    "name": "선문대_중국어문화전공",
+    "sort": "어문학, 중국학",
+    "eYear": 1993,
+    "homepageURL": "https://uem.sunmoon.ac.kr/china/main.do"
+  },
+  {
+    "no": 18,
+    "class": "Major",
+    "id": "Majo018",
+    "name": "성공회대_중어중국학전공",
+    "sort": "어문학, 중국학",
+    "eYear": 1998,
+    "homepageURL": "https://www.skhu.ac.kr/doh2024/4770/subview.do"
+  },
+  {
+    "no": 19,
+    "class": "Major",
+    "id": "Majo019",
+    "name": "세명대_중국언어문화전공",
+    "sort": "어문학",
+    "eYear": 1992,
+    "homepageURL": "https://www.semyung.ac.kr/glcc/sub01_08_02.do"
+  },
+  {
+    "no": 20,
+    "class": "Major",
+    "id": "Majo020",
+    "name": "수원대_중국언어문화",
+    "sort": "어문학",
+    "eYear": 1992,
+    "homepageURL": "https://uswchinese.modoo.ro/"
+  },
+  {
+    "no": 21,
+    "class": "Major",
+    "id": "Majo021",
+    "name": "영남대_응용중국어통번역전공",
+    "sort": "언어학",
+    "eYear": 2007,
+    "homepageURL": "https://trans.yu.ac.kr/trans/index.do"
+  },
+  {
+    "no": 22,
+    "class": "Major",
+    "id": "Majo022",
+    "name": "전남대_중국학전공",
+    "sort": "중국학",
+    "eYear": 1998,
+    "homepageURL": "https://china99.jnu.ac.kr/china99/index.do"
+  },
+  {
+    "no": 23,
+    "class": "Major",
+    "id": "Majo023",
+    "name": "조선대_중국어문화학전공",
+    "sort": "어문학",
+    "eYear": 1980,
+    "homepageURL": "https://asia.chosun.ac.kr/asia/1957/subview.do"
+  },
+  {
+    "no": 24,
+    "class": "Major",
+    "id": "Majo024",
+    "name": "중앙대_중국어문학전공",
+    "sort": "어문학",
+    "eYear": 1980,
+    "homepageURL": "https://ccll.cau.ac.kr/"
+  },
+  {
+    "no": 25,
+    "class": "Major",
+    "id": "Majo025",
+    "name": "평택대_중국학전공",
+    "sort": "중국학",
+    "eYear": 1997,
+    "homepageURL": "https://www.ptu.ac.kr/www/619/subview.do"
+  },
+  {
+    "no": 26,
+    "class": "Major",
+    "id": "Majo026",
+    "name": "한국외국어대_중국언어문화전공",
+    "sort": "어문학",
+    "eYear": 1954,
+    "homepageURL": "https://chufs1.hufs.ac.kr/sites/chufs/index.do"
+  },
+  {
+    "no": 27,
+    "class": "Major",
+    "id": "Majo027",
+    "name": "한국외국어대_차이나데이터큐레이션전공",
+    "sort": "콘텐츠학",
+    "eYear": 2022,
+    "homepageURL": "https://chufs1.hufs.ac.kr/sites/chufs/index.do"
+  },
+  {
+    "no": 28,
+    "class": "Major",
+    "id": "Majo028",
+    "name": "한국외국어대_중국외교통상전공",
+    "sort": "통상학",
+    "eYear": 1954,
+    "homepageURL": "https://chufs2.hufs.ac.kr/sites/chufs2/index.do"
+  },
+  {
+    "no": 29,
+    "class": "Major",
+    "id": "Majo029",
+    "name": "한국외국어대_중국어교육전공",
+    "sort": "교육학",
+    "eYear": 2016,
+    "homepageURL": "https://cle.hufs.ac.kr/cle/index.do"
+  },
+  {
+    "no": 30,
+    "class": "Major",
+    "id": "Majo030",
+    "name": "한신대_중국어문전공",
+    "sort": "어문학",
+    "eYear": "개설 정보 없음",
+    "homepageURL": "https://www.hs.ac.kr/chinese/index.do"
+  },
+  {
+    "no": 31,
+    "class": "Major",
+    "id": "Majo031",
+    "name": "한신대_한중콘텐츠전공",
+    "sort": "콘텐츠학",
+    "eYear": "개설 정보 없음",
+    "homepageURL": "https://www.hs.ac.kr/sites/kccc/index.do"
+  },
+  {
+    "no": 32,
+    "class": "Major",
+    "id": "Majo032",
+    "name": "서강대_문화학전공",
+    "sort": "어문학",
+    "eYear": 1993,
+    "homepageURL": "https://china.sogang.ac.kr/china/index_new.html"
+  },
+  {
+    "no": 33,
+    "class": "Major",
+    "id": "Majo033",
+    "name": "서강대_지역학전공",
+    "sort": "중국학",
+    "eYear": 1993,
+    "homepageURL": "https://china.sogang.ac.kr/china/index_new.html"
+  }
+]

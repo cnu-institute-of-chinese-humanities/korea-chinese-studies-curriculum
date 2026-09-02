@@ -1,0 +1,46 @@
+# ── 자격증명·비밀정보 (최우선) ──────────────────────
+.env
+.env.*
+*credential*
+*계정*
+*비밀번호*
+*password*
+*.pem
+*.key
+secrets/
+
+# ── 공개 불가 자료 ────────────────────────────────
+# 익명화 이전의 식별정보 포함 원자료는 저장소에 넣지 않습니다.
+data/restricted/
+*_identifiable.*
+*_원본_식별정보.*
+
+# ── OS·편집기 ────────────────────────────────────
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+.DS_Store
+.vscode/
+.idea/
+
+# ── Office 임시 파일 ──────────────────────────────
+~$*.xlsx
+~$*.docx
+~$*.pptx
+.~lock.*
+
+# ── 분석 환경 ────────────────────────────────────
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.Rhistory
+.RData
+.Rproj.user/
+venv/
+.venv/
+
+# ── 대용량 (100MB 초과 파일은 git에 들어가지 않습니다) ──
+# 필요 시 Git LFS 또는 Release 첨부를 사용하십시오.
+*.zip
+*.7z

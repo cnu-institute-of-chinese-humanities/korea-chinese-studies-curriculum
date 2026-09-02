@@ -1,0 +1,29 @@
+[
+  {
+    "no": 1,
+    "class": "Track",
+    "id": "Trac001",
+    "name": "울산대_중국어·중국학트랙",
+    "sort": "어문학, 중국학",
+    "eYear": 1985,
+    "homepageURL": "https://humanities.ulsan.ac.kr/humanities/5568"
+  },
+  {
+    "no": 2,
+    "class": "Track",
+    "id": "Trac002",
+    "name": "호서대_중국사회문화트랙",
+    "sort": "중국학",
+    "eYear": 1991,
+    "homepageURL": "https://china.hoseo.ac.kr/Home/Main.mbz"
+  },
+  {
+    "no": 3,
+    "class": "Track",
+    "id": "Trac003",
+    "name": "호서대_중국비즈니스트랙",
+    "sort": "통상학",
+    "eYear": 1991,
+    "homepageURL": "https://china.hoseo.ac.kr/Home/Main.mbz"
+  }
+]

@@ -1,0 +1,79 @@
+no,class,id,name,engname,sort,aYear,eYear
+1,University,Univ001,가천대학교,Gachon University,사립,2012,1939
+2,University,Univ002,가톨릭대학교,The Catholic University Of Korea,사립,1995,1855
+3,University,Univ003,강남대학교,Kangnam University,사립,1948,1946
+4,University,Univ004,강원대학교,Kangwon National University,국립,1970,1947
+5,University,Univ005,건국대학교,Konkuk University,사립,1931,1946
+6,University,Univ006,경기대학교,Kyonggi University,사립,1947,1947
+7,University,Univ007,경북대학교,Kyungpook National University,국립,1946,1946
+8,University,Univ008,경상국립대학교,Gyeongsang National University,국립,1910,1948
+9,University,Univ009,경성대학교,Kyungsung University,사립,1963,1955
+10,University,Univ010,경희대학교,Kyung Hee University,사립,1951,1949
+11,University,Univ011,계명대학교,Keimyung University,사립,1954,1954
+12,University,Univ012,고려대학교,Korea University,사립,1905,1905
+13,University,Univ013,국립강릉원주대학교,Gangneung Wonju National University,국립,1979,1946
+14,University,Univ014,국립공주대학교,Kongju National University,국립,1948,1948
+15,University,Univ015,국립군산대학교,Kunsan National University,국립,1979,1947
+16,University,Univ016,국립목포대학교,Mokpo National University,국립,1946,1946
+17,University,Univ017,국립부경대학교,Pukyong National University,국립,1996,1946
+18,University,Univ018,국립순천대학교,Sunchon National University,국립,1982,1935
+19,University,Univ019,국립창원대학교,Changwon National University,국립,1969,1969
+20,University,Univ020,국립한밭대학교,Hanbat National University,국립,2012,1927
+21,University,Univ021,국민대학교,Kookmin University,사립,1946,1946
+22,University,Univ022,단국대학교,Dankook University,사립,1947,1947
+23,University,Univ023,대진대학교,Daejin University,사립,1991,1992
+24,University,Univ024,덕성여자대학교,Duksung WomenS University,사립,1950,1920
+25,University,Univ025,동국대학교,Dongguk University,사립,1946,1906
+26,University,Univ026,동덕여자대학교,Dongduk WomenS University,사립,1950,1950
+27,University,Univ027,동서대학교,Dongseo University,사립,1992,1992
+28,University,Univ028,동아대학교,Dong-A University,사립,1946,1946
+29,University,Univ029,동의대학교,Dong-Eui University,사립,1979,1977
+30,University,Univ030,명지대학교,Myongji University Natural Science Campus,사립,1948,1948
+31,University,Univ031,부산대학교,Pusan National University,국립,1946,1946
+32,University,Univ032,부산외국어대학교,Busan University Of Foreign Studies,사립,1982,1981
+33,University,Univ033,삼육대학교,Sahmyook University,사립,1962,1906
+34,University,Univ034,상명대학교,Sangmyung University,사립,1965,1937
+35,University,Univ035,서강대학교,Sogang University,사립,1960,1960
+36,University,Univ036,서울대학교,Seoul National University,국립,1946,1946
+37,University,Univ037,서울시립대학교,University Of Seoul,공립,1918,1918
+38,University,Univ038,서울신학대학교,Seoul Theological University,사립,1959,1911
+39,University,Univ039,서울여자대학교,Seoul WomenS University,사립,1960,1961
+40,University,Univ040,선문대학교,Sun Moon University,사립,1986,1972
+41,University,Univ041,성결대학교,Sungkyul University,사립,1965,1962
+42,University,Univ042,성공회대학교,Sungkonghoe University,사립,1992,1914
+43,University,Univ043,성균관대학교,Sungkyunkwan University,사립,1946,1398
+44,University,Univ044,성신여자대학교,Sungshin WomenS University,사립,1965,1936
+45,University,Univ045,세명대학교,Semyung University,사립,1990,1991
+46,University,Univ046,수원대학교,The University Of Suwon,사립,1981,1982
+47,University,Univ047,숙명여자대학교,Sookmyung WomenS University,사립,1938,1906
+48,University,Univ048,순천향대학교,Soonchunhyang University,사립,1978,1978
+49,University,Univ049,숭실대학교,Soongsil University,사립,1897,1897
+50,University,Univ050,안양대학교,Anyang University,사립,1948,1948
+51,University,Univ051,연세대학교,Yonsei University,사립,1957,1885
+52,University,Univ052,영남대학교,Yeungnam University,사립,1967,1947
+53,University,Univ053,용인대학교,Yong In University,사립,1953,1953
+54,University,Univ054,울산대학교,University Of Ulsan,사립,1970,1970
+55,University,Univ055,이화여자대학교,Ewha Womans University,사립,1946,1886
+56,University,Univ056,인천대학교,Incheon National University,국립,1979,1979
+57,University,Univ057,인하대학교,Inha University,사립,1954,1954
+58,University,Univ058,전남대학교,Chonnam National University,국립,1951,1952
+59,University,Univ059,전북대학교,Jeonbuk National University,국립,1951,1947
+60,University,Univ060,전주대학교,Jeonju University,사립,1953,1964
+61,University,Univ061,제주대학교,Jeju National University,국립,1952,1952
+62,University,Univ062,조선대학교,Chosun University,사립,1946,1946
+63,University,Univ063,중앙대학교,Chung-Ang University,사립,1916,1916
+64,University,Univ064,창신대학교,Changshin University,사립,2013,1991
+65,University,Univ065,충남대학교,Chungnam National University,국립,1952,1952
+66,University,Univ066,충북대학교,Chungbuk National University,국립,1951,1951
+67,University,Univ067,평택대학교,Pyeongtaek University,사립,1990,1912
+68,University,Univ068,한국교원대학교,Korea National University Of Education,국립,1984,1984
+69,University,Univ069,국립한국교통대학교,Korea National University Of Transportation,국립,1914,1905
+70,University,Univ070,한국외국어대학교,Hankuk University Of Foreign Studies,사립,1954,1954
+71,University,Univ071,한남대학교,Hannam University,사립,1956,1956
+72,University,Univ072,한림대학교,Hallym University,사립,1982,1982
+73,University,Univ073,한서대학교,Hanseo University,사립,1991,1992
+74,University,Univ074,한세대학교,Hansei University,사립,1953,1953
+75,University,Univ075,한신대학교,Hanshin University,사립,1940,1940
+76,University,Univ076,한양대학교,Hanyang University,사립,1948,1939
+77,University,Univ077,협성대학교,Hyupsung University,사립,1983,1977
+78,University,Univ078,호서대학교,Hoseo University,사립,1980,1978

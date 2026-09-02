@@ -1,0 +1,782 @@
+[
+  {
+    "no": 1,
+    "class": "University",
+    "id": "Univ001",
+    "name": "가천대학교",
+    "engname": "Gachon University",
+    "sort": "사립",
+    "aYear": 2012,
+    "eYear": 1939
+  },
+  {
+    "no": 2,
+    "class": "University",
+    "id": "Univ002",
+    "name": "가톨릭대학교",
+    "engname": "The Catholic University Of Korea",
+    "sort": "사립",
+    "aYear": 1995,
+    "eYear": 1855
+  },
+  {
+    "no": 3,
+    "class": "University",
+    "id": "Univ003",
+    "name": "강남대학교",
+    "engname": "Kangnam University",
+    "sort": "사립",
+    "aYear": 1948,
+    "eYear": 1946
+  },
+  {
+    "no": 4,
+    "class": "University",
+    "id": "Univ004",
+    "name": "강원대학교",
+    "engname": "Kangwon National University",
+    "sort": "국립",
+    "aYear": 1970,
+    "eYear": 1947
+  },
+  {
+    "no": 5,
+    "class": "University",
+    "id": "Univ005",
+    "name": "건국대학교",
+    "engname": "Konkuk University",
+    "sort": "사립",
+    "aYear": 1931,
+    "eYear": 1946
+  },
+  {
+    "no": 6,
+    "class": "University",
+    "id": "Univ006",
+    "name": "경기대학교",
+    "engname": "Kyonggi University",
+    "sort": "사립",
+    "aYear": 1947,
+    "eYear": 1947
+  },
+  {
+    "no": 7,
+    "class": "University",
+    "id": "Univ007",
+    "name": "경북대학교",
+    "engname": "Kyungpook National University",
+    "sort": "국립",
+    "aYear": 1946,
+    "eYear": 1946
+  },
+  {
+    "no": 8,
+    "class": "University",
+    "id": "Univ008",
+    "name": "경상국립대학교",
+    "engname": "Gyeongsang National University",
+    "sort": "국립",
+    "aYear": 1910,
+    "eYear": 1948
+  },
+  {
+    "no": 9,
+    "class": "University",
+    "id": "Univ009",
+    "name": "경성대학교",
+    "engname": "Kyungsung University",
+    "sort": "사립",
+    "aYear": 1963,
+    "eYear": 1955
+  },
+  {
+    "no": 10,
+    "class": "University",
+    "id": "Univ010",
+    "name": "경희대학교",
+    "engname": "Kyung Hee University",
+    "sort": "사립",
+    "aYear": 1951,
+    "eYear": 1949
+  },
+  {
+    "no": 11,
+    "class": "University",
+    "id": "Univ011",
+    "name": "계명대학교",
+    "engname": "Keimyung University",
+    "sort": "사립",
+    "aYear": 1954,
+    "eYear": 1954
+  },
+  {
+    "no": 12,
+    "class": "University",
+    "id": "Univ012",
+    "name": "고려대학교",
+    "engname": "Korea University",
+    "sort": "사립",
+    "aYear": 1905,
+    "eYear": 1905
+  },
+  {
+    "no": 13,
+    "class": "University",
+    "id": "Univ013",
+    "name": "국립강릉원주대학교",
+    "engname": "Gangneung Wonju National University",
+    "sort": "국립",
+    "aYear": 1979,
+    "eYear": 1946
+  },
+  {
+    "no": 14,
+    "class": "University",
+    "id": "Univ014",
+    "name": "국립공주대학교",
+    "engname": "Kongju National University",
+    "sort": "국립",
+    "aYear": 1948,
+    "eYear": 1948
+  },
+  {
+    "no": 15,
+    "class": "University",
+    "id": "Univ015",
+    "name": "국립군산대학교",
+    "engname": "Kunsan National University",
+    "sort": "국립",
+    "aYear": 1979,
+    "eYear": 1947
+  },
+  {
+    "no": 16,
+    "class": "University",
+    "id": "Univ016",
+    "name": "국립목포대학교",
+    "engname": "Mokpo National University",
+    "sort": "국립",
+    "aYear": 1946,
+    "eYear": 1946
+  },
+  {
+    "no": 17,
+    "class": "University",
+    "id": "Univ017",
+    "name": "국립부경대학교",
+    "engname": "Pukyong National University",
+    "sort": "국립",
+    "aYear": 1996,
+    "eYear": 1946
+  },
+  {
+    "no": 18,
+    "class": "University",
+    "id": "Univ018",
+    "name": "국립순천대학교",
+    "engname": "Sunchon National University",
+    "sort": "국립",
+    "aYear": 1982,
+    "eYear": 1935
+  },
+  {
+    "no": 19,
+    "class": "University",
+    "id": "Univ019",
+    "name": "국립창원대학교",
+    "engname": "Changwon National University",
+    "sort": "국립",
+    "aYear": 1969,
+    "eYear": 1969
+  },
+  {
+    "no": 20,
+    "class": "University",
+    "id": "Univ020",
+    "name": "국립한밭대학교",
+    "engname": "Hanbat National University",
+    "sort": "국립",
+    "aYear": 2012,
+    "eYear": 1927
+  },
+  {
+    "no": 21,
+    "class": "University",
+    "id": "Univ021",
+    "name": "국민대학교",
+    "engname": "Kookmin University",
+    "sort": "사립",
+    "aYear": 1946,
+    "eYear": 1946
+  },
+  {
+    "no": 22,
+    "class": "University",
+    "id": "Univ022",
+    "name": "단국대학교",
+    "engname": "Dankook University",
+    "sort": "사립",
+    "aYear": 1947,
+    "eYear": 1947
+  },
+  {
+    "no": 23,
+    "class": "University",
+    "id": "Univ023",
+    "name": "대진대학교",
+    "engname": "Daejin University",
+    "sort": "사립",
+    "aYear": 1991,
+    "eYear": 1992
+  },
+  {
+    "no": 24,
+    "class": "University",
+    "id": "Univ024",
+    "name": "덕성여자대학교",
+    "engname": "Duksung WomenS University",
+    "sort": "사립",
+    "aYear": 1950,
+    "eYear": 1920
+  },
+  {
+    "no": 25,
+    "class": "University",
+    "id": "Univ025",
+    "name": "동국대학교",
+    "engname": "Dongguk University",
+    "sort": "사립",
+    "aYear": 1946,
+    "eYear": 1906
+  },
+  {
+    "no": 26,
+    "class": "University",
+    "id": "Univ026",
+    "name": "동덕여자대학교",
+    "engname": "Dongduk WomenS University",
+    "sort": "사립",
+    "aYear": 1950,
+    "eYear": 1950
+  },
+  {
+    "no": 27,
+    "class": "University",
+    "id": "Univ027",
+    "name": "동서대학교",
+    "engname": "Dongseo University",
+    "sort": "사립",
+    "aYear": 1992,
+    "eYear": 1992
+  },
+  {
+    "no": 28,
+    "class": "University",
+    "id": "Univ028",
+    "name": "동아대학교",
+    "engname": "Dong-A University",
+    "sort": "사립",
+    "aYear": 1946,
+    "eYear": 1946
+  },
+  {
+    "no": 29,
+    "class": "University",
+    "id": "Univ029",
+    "name": "동의대학교",
+    "engname": "Dong-Eui University",
+    "sort": "사립",
+    "aYear": 1979,
+    "eYear": 1977
+  },
+  {
+    "no": 30,
+    "class": "University",
+    "id": "Univ030",
+    "name": "명지대학교",
+    "engname": "Myongji University Natural Science Campus",
+    "sort": "사립",
+    "aYear": 1948,
+    "eYear": 1948
+  },
+  {
+    "no": 31,
+    "class": "University",
+    "id": "Univ031",
+    "name": "부산대학교",
+    "engname": "Pusan National University",
+    "sort": "국립",
+    "aYear": 1946,
+    "eYear": 1946
+  },
+  {
+    "no": 32,
+    "class": "University",
+    "id": "Univ032",
+    "name": "부산외국어대학교",
+    "engname": "Busan University Of Foreign Studies",
+    "sort": "사립",
+    "aYear": 1982,
+    "eYear": 1981
+  },
+  {
+    "no": 33,
+    "class": "University",
+    "id": "Univ033",
+    "name": "삼육대학교",
+    "engname": "Sahmyook University",
+    "sort": "사립",
+    "aYear": 1962,
+    "eYear": 1906
+  },
+  {
+    "no": 34,
+    "class": "University",
+    "id": "Univ034",
+    "name": "상명대학교",
+    "engname": "Sangmyung University",
+    "sort": "사립",
+    "aYear": 1965,
+    "eYear": 1937
+  },
+  {
+    "no": 35,
+    "class": "University",
+    "id": "Univ035",
+    "name": "서강대학교",
+    "engname": "Sogang University",
+    "sort": "사립",
+    "aYear": 1960,
+    "eYear": 1960
+  },
+  {
+    "no": 36,
+    "class": "University",
+    "id": "Univ036",
+    "name": "서울대학교",
+    "engname": "Seoul National University",
+    "sort": "국립",
+    "aYear": 1946,
+    "eYear": 1946
+  },
+  {
+    "no": 37,
+    "class": "University",
+    "id": "Univ037",
+    "name": "서울시립대학교",
+    "engname": "University Of Seoul",
+    "sort": "공립",
+    "aYear": 1918,
+    "eYear": 1918
+  },
+  {
+    "no": 38,
+    "class": "University",
+    "id": "Univ038",
+    "name": "서울신학대학교",
+    "engname": "Seoul Theological University",
+    "sort": "사립",
+    "aYear": 1959,
+    "eYear": 1911
+  },
+  {
+    "no": 39,
+    "class": "University",
+    "id": "Univ039",
+    "name": "서울여자대학교",
+    "engname": "Seoul WomenS University",
+    "sort": "사립",
+    "aYear": 1960,
+    "eYear": 1961
+  },
+  {
+    "no": 40,
+    "class": "University",
+    "id": "Univ040",
+    "name": "선문대학교",
+    "engname": "Sun Moon University",
+    "sort": "사립",
+    "aYear": 1986,
+    "eYear": 1972
+  },
+  {
+    "no": 41,
+    "class": "University",
+    "id": "Univ041",
+    "name": "성결대학교",
+    "engname": "Sungkyul University",
+    "sort": "사립",
+    "aYear": 1965,
+    "eYear": 1962
+  },
+  {
+    "no": 42,
+    "class": "University",
+    "id": "Univ042",
+    "name": "성공회대학교",
+    "engname": "Sungkonghoe University",
+    "sort": "사립",
+    "aYear": 1992,
+    "eYear": 1914
+  },
+  {
+    "no": 43,
+    "class": "University",
+    "id": "Univ043",
+    "name": "성균관대학교",
+    "engname": "Sungkyunkwan University",
+    "sort": "사립",
+    "aYear": 1946,
+    "eYear": 1398
+  },
+  {
+    "no": 44,
+    "class": "University",
+    "id": "Univ044",
+    "name": "성신여자대학교",
+    "engname": "Sungshin WomenS University",
+    "sort": "사립",
+    "aYear": 1965,
+    "eYear": 1936
+  },
+  {
+    "no": 45,
+    "class": "University",
+    "id": "Univ045",
+    "name": "세명대학교",
+    "engname": "Semyung University",
+    "sort": "사립",
+    "aYear": 1990,
+    "eYear": 1991
+  },
+  {
+    "no": 46,
+    "class": "University",
+    "id": "Univ046",
+    "name": "수원대학교",
+    "engname": "The University Of Suwon",
+    "sort": "사립",
+    "aYear": 1981,
+    "eYear": 1982
+  },
+  {
+    "no": 47,
+    "class": "University",
+    "id": "Univ047",
+    "name": "숙명여자대학교",
+    "engname": "Sookmyung WomenS University",
+    "sort": "사립",
+    "aYear": 1938,
+    "eYear": 1906
+  },
+  {
+    "no": 48,
+    "class": "University",
+    "id": "Univ048",
+    "name": "순천향대학교",
+    "engname": "Soonchunhyang University",
+    "sort": "사립",
+    "aYear": 1978,
+    "eYear": 1978
+  },
+  {
+    "no": 49,
+    "class": "University",
+    "id": "Univ049",
+    "name": "숭실대학교",
+    "engname": "Soongsil University",
+    "sort": "사립",
+    "aYear": 1897,
+    "eYear": 1897
+  },
+  {
+    "no": 50,
+    "class": "University",
+    "id": "Univ050",
+    "name": "안양대학교",
+    "engname": "Anyang University",
+    "sort": "사립",
+    "aYear": 1948,
+    "eYear": 1948
+  },
+  {
+    "no": 51,
+    "class": "University",
+    "id": "Univ051",
+    "name": "연세대학교",
+    "engname": "Yonsei University",
+    "sort": "사립",
+    "aYear": 1957,
+    "eYear": 1885
+  },
+  {
+    "no": 52,
+    "class": "University",
+    "id": "Univ052",
+    "name": "영남대학교",
+    "engname": "Yeungnam University",
+    "sort": "사립",
+    "aYear": 1967,
+    "eYear": 1947
+  },
+  {
+    "no": 53,
+    "class": "University",
+    "id": "Univ053",
+    "name": "용인대학교",
+    "engname": "Yong In University",
+    "sort": "사립",
+    "aYear": 1953,
+    "eYear": 1953
+  },
+  {
+    "no": 54,
+    "class": "University",
+    "id": "Univ054",
+    "name": "울산대학교",
+    "engname": "University Of Ulsan",
+    "sort": "사립",
+    "aYear": 1970,
+    "eYear": 1970
+  },
+  {
+    "no": 55,
+    "class": "University",
+    "id": "Univ055",
+    "name": "이화여자대학교",
+    "engname": "Ewha Womans University",
+    "sort": "사립",
+    "aYear": 1946,
+    "eYear": 1886
+  },
+  {
+    "no": 56,
+    "class": "University",
+    "id": "Univ056",
+    "name": "인천대학교",
+    "engname": "Incheon National University",
+    "sort": "국립",
+    "aYear": 1979,
+    "eYear": 1979
+  },
+  {
+    "no": 57,
+    "class": "University",
+    "id": "Univ057",
+    "name": "인하대학교",
+    "engname": "Inha University",
+    "sort": "사립",
+    "aYear": 1954,
+    "eYear": 1954
+  },
+  {
+    "no": 58,
+    "class": "University",
+    "id": "Univ058",
+    "name": "전남대학교",
+    "engname": "Chonnam National University",
+    "sort": "국립",
+    "aYear": 1951,
+    "eYear": 1952
+  },
+  {
+    "no": 59,
+    "class": "University",
+    "id": "Univ059",
+    "name": "전북대학교",
+    "engname": "Jeonbuk National University",
+    "sort": "국립",
+    "aYear": 1951,
+    "eYear": 1947
+  },
+  {
+    "no": 60,
+    "class": "University",
+    "id": "Univ060",
+    "name": "전주대학교",
+    "engname": "Jeonju University",
+    "sort": "사립",
+    "aYear": 1953,
+    "eYear": 1964
+  },
+  {
+    "no": 61,
+    "class": "University",
+    "id": "Univ061",
+    "name": "제주대학교",
+    "engname": "Jeju National University",
+    "sort": "국립",
+    "aYear": 1952,
+    "eYear": 1952
+  },
+  {
+    "no": 62,
+    "class": "University",
+    "id": "Univ062",
+    "name": "조선대학교",
+    "engname": "Chosun University",
+    "sort": "사립",
+    "aYear": 1946,
+    "eYear": 1946
+  },
+  {
+    "no": 63,
+    "class": "University",
+    "id": "Univ063",
+    "name": "중앙대학교",
+    "engname": "Chung-Ang University",
+    "sort": "사립",
+    "aYear": 1916,
+    "eYear": 1916
+  },
+  {
+    "no": 64,
+    "class": "University",
+    "id": "Univ064",
+    "name": "창신대학교",
+    "engname": "Changshin University",
+    "sort": "사립",
+    "aYear": 2013,
+    "eYear": 1991
+  },
+  {
+    "no": 65,
+    "class": "University",
+    "id": "Univ065",
+    "name": "충남대학교",
+    "engname": "Chungnam National University",
+    "sort": "국립",
+    "aYear": 1952,
+    "eYear": 1952
+  },
+  {
+    "no": 66,
+    "class": "University",
+    "id": "Univ066",
+    "name": "충북대학교",
+    "engname": "Chungbuk National University",
+    "sort": "국립",
+    "aYear": 1951,
+    "eYear": 1951
+  },
+  {
+    "no": 67,
+    "class": "University",
+    "id": "Univ067",
+    "name": "평택대학교",
+    "engname": "Pyeongtaek University",
+    "sort": "사립",
+    "aYear": 1990,
+    "eYear": 1912
+  },
+  {
+    "no": 68,
+    "class": "University",
+    "id": "Univ068",
+    "name": "한국교원대학교",
+    "engname": "Korea National University Of Education",
+    "sort": "국립",
+    "aYear": 1984,
+    "eYear": 1984
+  },
+  {
+    "no": 69,
+    "class": "University",
+    "id": "Univ069",
+    "name": "국립한국교통대학교",
+    "engname": "Korea National University Of Transportation",
+    "sort": "국립",
+    "aYear": 1914,
+    "eYear": 1905
+  },
+  {
+    "no": 70,
+    "class": "University",
+    "id": "Univ070",
+    "name": "한국외국어대학교",
+    "engname": "Hankuk University Of Foreign Studies",
+    "sort": "사립",
+    "aYear": 1954,
+    "eYear": 1954
+  },
+  {
+    "no": 71,
+    "class": "University",
+    "id": "Univ071",
+    "name": "한남대학교",
+    "engname": "Hannam University",
+    "sort": "사립",
+    "aYear": 1956,
+    "eYear": 1956
+  },
+  {
+    "no": 72,
+    "class": "University",
+    "id": "Univ072",
+    "name": "한림대학교",
+    "engname": "Hallym University",
+    "sort": "사립",
+    "aYear": 1982,
+    "eYear": 1982
+  },
+  {
+    "no": 73,
+    "class": "University",
+    "id": "Univ073",
+    "name": "한서대학교",
+    "engname": "Hanseo University",
+    "sort": "사립",
+    "aYear": 1991,
+    "eYear": 1992
+  },
+  {
+    "no": 74,
+    "class": "University",
+    "id": "Univ074",
+    "name": "한세대학교",
+    "engname": "Hansei University",
+    "sort": "사립",
+    "aYear": 1953,
+    "eYear": 1953
+  },
+  {
+    "no": 75,
+    "class": "University",
+    "id": "Univ075",
+    "name": "한신대학교",
+    "engname": "Hanshin University",
+    "sort": "사립",
+    "aYear": 1940,
+    "eYear": 1940
+  },
+  {
+    "no": 76,
+    "class": "University",
+    "id": "Univ076",
+    "name": "한양대학교",
+    "engname": "Hanyang University",
+    "sort": "사립",
+    "aYear": 1948,
+    "eYear": 1939
+  },
+  {
+    "no": 77,
+    "class": "University",
+    "id": "Univ077",
+    "name": "협성대학교",
+    "engname": "Hyupsung University",
+    "sort": "사립",
+    "aYear": 1983,
+    "eYear": 1977
+  },
+  {
+    "no": 78,
+    "class": "University",
+    "id": "Univ078",
+    "name": "호서대학교",
+    "engname": "Hoseo University",
+    "sort": "사립",
+    "aYear": 1980,
+    "eYear": 1978
+  }
+]

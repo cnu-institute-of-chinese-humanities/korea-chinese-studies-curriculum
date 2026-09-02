@@ -1,0 +1,5506 @@
+[
+  {
+    "no": 1,
+    "class": "Professor",
+    "id": "Prof001",
+    "name": "○○○",
+    "wideField": [
+      "중문학"
+    ],
+    "detailedField": [
+      "중국문화학",
+      "중국현대문학"
+    ]
+  },
+  {
+    "no": 2,
+    "class": "Professor",
+    "id": "Prof002",
+    "name": "○○○",
+    "wideField": [
+      "중국어학"
+    ],
+    "detailedField": [
+      "의미론"
+    ]
+  },
+  {
+    "no": 3,
+    "class": "Professor",
+    "id": "Prof003",
+    "name": "○○○",
+    "wideField": [
+      "중문학"
+    ],
+    "detailedField": [
+      "문학비평",
+      "중국고전문학"
+    ]
+  },
+  {
+    "no": 4,
+    "class": "Professor",
+    "id": "Prof004",
+    "name": "○○○",
+    "wideField": [
+      "중국어학"
+    ],
+    "detailedField": [
+      "의미론"
+    ]
+  },
+  {
+    "no": 5,
+    "class": "Professor",
+    "id": "Prof005",
+    "name": "○○○",
+    "wideField": [
+      "중문학"
+    ],
+    "detailedField": [
+      "중국고전문학",
+      "중국시"
+    ]
+  },
+  {
+    "no": 6,
+    "class": "Professor",
+    "id": "Prof006",
+    "name": "○○○",
+    "wideField": [
+      "중문학"
+    ],
+    "detailedField": [
+      "중국현대문학"
+    ]
+  },
+  {
+    "no": 7,
+    "class": "Professor",
+    "id": "Prof007",
+    "name": "○○○",
+    "wideField": [
+      "중국어학"
+    ],
+    "detailedField": [
+      "일반문자학",
+      "응용언어학"
+    ]
+  },
+  {
+    "no": 8,
+    "class": "Professor",
+    "id": "Prof008",
+    "name": "○○○",
+    "wideField": [
+      "중국어학"
+    ],
+    "detailedField": [
+      "기타중국어학",
+      "음성/음운론"
+    ]
+  },
+  {
+    "no": 9,
+    "class": "Professor",
+    "id": "Prof009",
+    "name": "○○○",
+    "wideField": [
+      "중문학"
+    ],
+    "detailedField": [
+      "중국현대문학",
+      "중국시",
+      "중국문화학"
+    ]
+  },
+  {
+    "no": 10,
+    "class": "Professor",
+    "id": "Prof010",
+    "name": "○○○",
+    "wideField": [
+      "중문학"
+    ],
+    "detailedField": [
+      "중국고전문학",
+      "중국시"
+    ]
+  },
+  {
+    "no": 11,
+    "class": "Professor",
+    "id": "Prof011",
+    "name": "○○○",
+    "wideField": [
+      "중국어교육"
+    ],
+    "detailedField": [
+      "중국어교육"
+    ]
+  },
+  {
+    "no": 12,
+    "class": "Professor",
+    "id": "Prof012",
+    "name": "○○○",
+    "wideField": [
+      "중문학"
+    ],
+    "detailedField": [
+      "중국고전문학"
+    ]
+  },
+  {
+    "no": 13,
+    "class": "Professor",
+    "id": "Prof013",
+    "name": "○○○",
+    "wideField": [
+      "중문학"
+    ],
+    "detailedField": [
+      "중국현대문학"
+    ]
+  },
+  {
+    "no": 14,
+    "class": "Professor",
+    "id": "Prof014",
+    "name": "○○○",
+    "wideField": [
+      "중국어학"
+    ],
+    "detailedField": [
+      "일반문자학",
+      "통사론",
+      "기타중국어학"
+    ]
+  },
+  {
+    "no": 15,
+    "class": "Professor",
+    "id": "Prof015",
+    "name": "○○○",
+    "wideField": [
+      "중문학"
+    ],
+    "detailedField": [
+      "중국문화학"
+    ]
+  },
+  {
+    "no": 16,
+    "class": "Professor",
+    "id": "Prof016",
+    "name": "○○○",
+    "wideField": [
+      "중국어학"
+    ],
+    "detailedField": [
+      "중국어사",
+      "고문자학",
+      "통사론",
+      "기타중국어학"
+    ]
+  },
+  {
+    "no": 17,
+    "class": "Professor",
+    "id": "Prof017",
+    "name": "○○○",
+    "wideField": [
+      "중문학"
+    ],
+    "detailedField": [
+      "중국산문",
+      "중국고전문학",
+      "중국서지학"
+    ]
+  },
+  {
+    "no": 18,
+    "class": "Professor",
+    "id": "Prof018",
+    "name": "○○○",
+    "wideField": [
+      "중국어교육",
+      "중국어학"
+    ],
+    "detailedField": [
+      "중국어교육",
+      "통사론",
+      "기타중국어학"
+    ]
+  },
+  {
+    "no": 19,
+    "class": "Professor",
+    "id": "Prof019",
+    "name": "○○○",
+    "wideField": [
+      "중문학",
+      "기타"
+    ],
+    "detailedField": [
+      "중국소설",
+      "중국고전문학",
+      "비교문학",
+      "도교"
+    ]
+  },
+  {
+    "no": 20,
+    "class": "Professor",
+    "id": "Prof020",
+    "name": "○○○",
+    "wideField": [
+      "중문학"
+    ],
+    "detailedField": [
+      "중국시"
+    ]
+  },
+  {
+    "no": 21,
+    "class": "Professor",
+    "id": "Prof021",
+    "name": "○○○",
+    "wideField": [
+      "중문학",
+      "역사일반"
+    ],
+    "detailedField": [
+      "기타중문학",
+      "사상사"
+    ]
+  },
+  {
+    "no": 22,
+    "class": "Professor",
+    "id": "Prof022",
+    "name": "○○○",
+    "wideField": [
+      "중문학"
+    ],
+    "detailedField": [
+      "중국현대문학",
+      "중국문화학"
+    ]
+  },
+  {
+    "no": 23,
+    "class": "Professor",
+    "id": "Prof023",
+    "name": "○○○",
+    "wideField": [
+      "중문학"
+    ],
+    "detailedField": [
+      "중국고전문학",
+      "비교문학"
+    ]
+  },
+  {
+    "no": 24,
+    "class": "Professor",
+    "id": "Prof024",
+    "name": "○○○",
+    "wideField": [
+      "중국어학"
+    ],
+    "detailedField": [
+      "기타중국어학",
+      "통사론"
+    ]
+  },
+  {
+    "no": 25,
+    "class": "Professor",
+    "id": "Prof025",
+    "name": "○○○",
+    "wideField": [
+      "중국어학"
+    ],
+    "detailedField": [
+      "고문자학"
+    ]
+  },
+  {
+    "no": 26,
+    "class": "Professor",
+    "id": "Prof026",
+    "name": "○○○",
+    "wideField": [
+      "중국어학"
+    ],
+    "detailedField": [
+      "음성/음운론"
+    ]
+  },
+  {
+    "no": 27,
+    "class": "Professor",
+    "id": "Prof027",
+    "name": "○○○",
+    "wideField": [
+      "중문학"
+    ],
+    "detailedField": [
+      "중국현대문학"
+    ]
+  },
+  {
+    "no": 28,
+    "class": "Professor",
+    "id": "Prof028",
+    "name": "○○○",
+    "wideField": [
+      "중문학"
+    ],
+    "detailedField": [
+      "중국희곡"
+    ]
+  },
+  {
+    "no": 29,
+    "class": "Professor",
+    "id": "Prof029",
+    "name": "○○○",
+    "wideField": [
+      "중문학"
+    ],
+    "detailedField": [
+      "중국현대문학",
+      "중국문화학"
+    ]
+  },
+  {
+    "no": 30,
+    "class": "Professor",
+    "id": "Prof030",
+    "name": "○○○",
+    "wideField": [
+      "중문학"
+    ],
+    "detailedField": [
+      "중국고전문학",
+      "중국소설"
+    ]
+  },
+  {
+    "no": 31,
+    "class": "Professor",
+    "id": "Prof031",
+    "name": "○○○",
+    "wideField": [
+      "중국어학"
+    ],
+    "detailedField": [
+      "음성/음운론"
+    ]
+  },
+  {
+    "no": 32,
+    "class": "Professor",
+    "id": "Prof032",
+    "name": "○○○",
+    "wideField": [
+      "중문학",
+      "역사일반"
+    ],
+    "detailedField": [
+      "중국고전문학",
+      "기타중문학",
+      "사상사"
+    ]
+  },
+  {
+    "no": 33,
+    "class": "Professor",
+    "id": "Prof033",
+    "name": "○○○",
+    "wideField": [
+      "정치지역학"
+    ],
+    "detailedField": [
+      "외교/안보/통일"
+    ]
+  },
+  {
+    "no": 34,
+    "class": "Professor",
+    "id": "Prof034",
+    "name": "○○○",
+    "wideField": [
+      "중문학"
+    ],
+    "detailedField": [
+      "중국현대문학",
+      "중국소설"
+    ]
+  },
+  {
+    "no": 35,
+    "class": "Professor",
+    "id": "Prof035",
+    "name": "○○○",
+    "wideField": [
+      "중국어학"
+    ],
+    "detailedField": [
+      "고문자학",
+      "기타중국어학"
+    ]
+  },
+  {
+    "no": 36,
+    "class": "Professor",
+    "id": "Prof036",
+    "name": "○○○",
+    "wideField": [
+      "중국어학"
+    ],
+    "detailedField": [
+      "사회언어학",
+      "기타중국어학"
+    ]
+  },
+  {
+    "no": 37,
+    "class": "Professor",
+    "id": "Prof037",
+    "name": "○○○",
+    "wideField": [
+      "중국어학"
+    ],
+    "detailedField": [
+      "음성/음운론"
+    ]
+  },
+  {
+    "no": 38,
+    "class": "Professor",
+    "id": "Prof038",
+    "name": "○○○",
+    "wideField": [
+      "중문학"
+    ],
+    "detailedField": [
+      "중국현대문학"
+    ]
+  },
+  {
+    "no": 39,
+    "class": "Professor",
+    "id": "Prof039",
+    "name": "○○○",
+    "wideField": [
+      "중문학"
+    ],
+    "detailedField": [
+      "중국고전문학",
+      "중국시"
+    ]
+  },
+  {
+    "no": 40,
+    "class": "Professor",
+    "id": "Prof040",
+    "name": "○○○",
+    "wideField": [
+      "중문학"
+    ],
+    "detailedField": [
+      "중국소설",
+      "중국문화학",
+      "비교문학"
+    ]
+  },
+  {
+    "no": 41,
+    "class": "Professor",
+    "id": "Prof041",
+    "name": "○○○",
+    "wideField": [
+      "영화",
+      "중문학"
+    ],
+    "detailedField": [
+      "동양/아시아영화",
+      "중국문화학"
+    ]
+  },
+  {
+    "no": 42,
+    "class": "Professor",
+    "id": "Prof042",
+    "name": "○○○",
+    "wideField": [
+      "중국어학"
+    ],
+    "detailedField": [
+      "기타중국어학"
+    ]
+  },
+  {
+    "no": 43,
+    "class": "Professor",
+    "id": "Prof043",
+    "name": "○○○",
+    "wideField": [
+      "중국어학",
+      "중국어교육"
+    ],
+    "detailedField": [
+      "기타중국어학",
+      "중국어교육",
+      "통사론"
+    ]
+  },
+  {
+    "no": 44,
+    "class": "Professor",
+    "id": "Prof044",
+    "name": "○○○",
+    "wideField": [
+      "중국어학"
+    ],
+    "detailedField": [
+      "음성/음운론",
+      "기타중국어학"
+    ]
+  },
+  {
+    "no": 45,
+    "class": "Professor",
+    "id": "Prof045",
+    "name": "○○○",
+    "wideField": [
+      "중문학"
+    ],
+    "detailedField": [
+      "중국고전문학",
+      "중국시",
+      "기타중문학"
+    ]
+  },
+  {
+    "no": 46,
+    "class": "Professor",
+    "id": "Prof046",
+    "name": "○○○",
+    "wideField": [
+      "중국어학"
+    ],
+    "detailedField": [
+      "일반문자학"
+    ]
+  },
+  {
+    "no": 47,
+    "class": "Professor",
+    "id": "Prof047",
+    "name": "○○○",
+    "wideField": [
+      "중국어학"
+    ],
+    "detailedField": [
+      "통사론"
+    ]
+  },
+  {
+    "no": 48,
+    "class": "Professor",
+    "id": "Prof048",
+    "name": "○○○",
+    "wideField": [
+      "중국어학"
+    ],
+    "detailedField": [
+      "응용언어학"
+    ]
+  },
+  {
+    "no": 49,
+    "class": "Professor",
+    "id": "Prof049",
+    "name": "○○○",
+    "wideField": [
+      "중문학",
+      "기타"
+    ],
+    "detailedField": [
+      "중국현대문학",
+      "기타인문학"
+    ]
+  },
+  {
+    "no": 50,
+    "class": "Professor",
+    "id": "Prof050",
+    "name": "○○○",
+    "wideField": [
+      "중국어학"
+    ],
+    "detailedField": [
+      "중국어사",
+      "통사론"
+    ]
+  },
+  {
+    "no": 51,
+    "class": "Professor",
+    "id": "Prof051",
+    "name": "○○○",
+    "wideField": [
+      "중국어학"
+    ],
+    "detailedField": [
+      "통사론"
+    ]
+  },
+  {
+    "no": 52,
+    "class": "Professor",
+    "id": "Prof052",
+    "name": "○○○",
+    "wideField": [
+      "중문학"
+    ],
+    "detailedField": [
+      "중국희곡"
+    ]
+  },
+  {
+    "no": 53,
+    "class": "Professor",
+    "id": "Prof053",
+    "name": "○○○",
+    "wideField": [
+      "중문학"
+    ],
+    "detailedField": [
+      "기타중문학"
+    ]
+  },
+  {
+    "no": 54,
+    "class": "Professor",
+    "id": "Prof054",
+    "name": "○○○",
+    "wideField": [
+      "역사일반",
+      "중문학"
+    ],
+    "detailedField": [
+      "사상사",
+      "중국문화학"
+    ]
+  },
+  {
+    "no": 55,
+    "class": "Professor",
+    "id": "Prof055",
+    "name": "○○○",
+    "wideField": [
+      "정치지역학",
+      "중국학"
+    ],
+    "detailedField": [
+      "기타정치외교학",
+      "중국"
+    ]
+  },
+  {
+    "no": 56,
+    "class": "Professor",
+    "id": "Prof056",
+    "name": "○○○",
+    "wideField": [
+      "중문학"
+    ],
+    "detailedField": [
+      "중국현대문학",
+      "비교문학"
+    ]
+  },
+  {
+    "no": 57,
+    "class": "Professor",
+    "id": "Prof057",
+    "name": "○○○",
+    "wideField": [
+      "중국어학"
+    ],
+    "detailedField": [
+      "통사론"
+    ]
+  },
+  {
+    "no": 58,
+    "class": "Professor",
+    "id": "Prof058",
+    "name": "○○○",
+    "wideField": [
+      "중문학"
+    ],
+    "detailedField": [
+      "비교문학"
+    ]
+  },
+  {
+    "no": 59,
+    "class": "Professor",
+    "id": "Prof059",
+    "name": "○○○",
+    "wideField": [
+      "중국어학",
+      "중문학"
+    ],
+    "detailedField": [
+      "고문자학",
+      "중국문화학"
+    ]
+  },
+  {
+    "no": 60,
+    "class": "Professor",
+    "id": "Prof060",
+    "name": "○○○",
+    "wideField": [
+      "중문학",
+      "영화"
+    ],
+    "detailedField": [
+      "중국현대문학",
+      "중국문화학",
+      "동양/아시아영화",
+      "기타중문학"
+    ]
+  },
+  {
+    "no": 61,
+    "class": "Professor",
+    "id": "Prof061",
+    "name": "○○○",
+    "wideField": [
+      "중문학"
+    ],
+    "detailedField": [
+      "중국소설",
+      "중국문화학",
+      "기타중문학"
+    ]
+  },
+  {
+    "no": 62,
+    "class": "Professor",
+    "id": "Prof062",
+    "name": "○○○",
+    "wideField": [
+      "중문학"
+    ],
+    "detailedField": [
+      "중국고전문학"
+    ]
+  },
+  {
+    "no": 63,
+    "class": "Professor",
+    "id": "Prof063",
+    "name": "○○○",
+    "wideField": [
+      "중국어학"
+    ],
+    "detailedField": [
+      "음성/음운론"
+    ]
+  },
+  {
+    "no": 64,
+    "class": "Professor",
+    "id": "Prof064",
+    "name": "○○○",
+    "wideField": [
+      "중국어학"
+    ],
+    "detailedField": [
+      "음성/음운론",
+      "응용언어학"
+    ]
+  },
+  {
+    "no": 65,
+    "class": "Professor",
+    "id": "Prof065",
+    "name": "○○○",
+    "wideField": [
+      "중문학"
+    ],
+    "detailedField": [
+      "기타중문학"
+    ]
+  },
+  {
+    "no": 66,
+    "class": "Professor",
+    "id": "Prof066",
+    "name": "○○○",
+    "wideField": [
+      "중문학"
+    ],
+    "detailedField": [
+      "중국시",
+      "중국고전문학"
+    ]
+  },
+  {
+    "no": 67,
+    "class": "Professor",
+    "id": "Prof067",
+    "name": "○○○",
+    "wideField": [
+      "중문학"
+    ],
+    "detailedField": [
+      "비교문학"
+    ]
+  },
+  {
+    "no": 68,
+    "class": "Professor",
+    "id": "Prof068",
+    "name": "○○○",
+    "wideField": [
+      "중국어학"
+    ],
+    "detailedField": [
+      "의미론"
+    ]
+  },
+  {
+    "no": 69,
+    "class": "Professor",
+    "id": "Prof069",
+    "name": "○○○",
+    "wideField": [
+      "중문학"
+    ],
+    "detailedField": [
+      "중국현대문학"
+    ]
+  },
+  {
+    "no": 70,
+    "class": "Professor",
+    "id": "Prof070",
+    "name": "○○○",
+    "wideField": [
+      "중국어학"
+    ],
+    "detailedField": [
+      "음성/음운론",
+      "일반문자학"
+    ]
+  },
+  {
+    "no": 71,
+    "class": "Professor",
+    "id": "Prof071",
+    "name": "○○○",
+    "wideField": [
+      "중문학"
+    ],
+    "detailedField": [
+      "기타중문학"
+    ]
+  },
+  {
+    "no": 72,
+    "class": "Professor",
+    "id": "Prof072",
+    "name": "○○○",
+    "wideField": [
+      "중문학"
+    ],
+    "detailedField": [
+      "중국고전문학"
+    ]
+  },
+  {
+    "no": 73,
+    "class": "Professor",
+    "id": "Prof073",
+    "name": "○○○",
+    "wideField": [
+      "중국어학"
+    ],
+    "detailedField": [
+      "통사론"
+    ]
+  },
+  {
+    "no": 74,
+    "class": "Professor",
+    "id": "Prof074",
+    "name": "○○○",
+    "wideField": [
+      "중문학"
+    ],
+    "detailedField": [
+      "중국현대문학",
+      "중국문화학"
+    ]
+  },
+  {
+    "no": 75,
+    "class": "Professor",
+    "id": "Prof075",
+    "name": "○○○",
+    "wideField": [
+      "중문학"
+    ],
+    "detailedField": [
+      "중국고전문학",
+      "기타중문학"
+    ]
+  },
+  {
+    "no": 76,
+    "class": "Professor",
+    "id": "Prof076",
+    "name": "○○○",
+    "wideField": [
+      "기타"
+    ],
+    "detailedField": [
+      "복합학",
+      "학제간연구"
+    ]
+  },
+  {
+    "no": 77,
+    "class": "Professor",
+    "id": "Prof077",
+    "name": "○○○",
+    "wideField": [
+      "중문학"
+    ],
+    "detailedField": [
+      "중국시",
+      "중국고전문학"
+    ]
+  },
+  {
+    "no": 78,
+    "class": "Professor",
+    "id": "Prof078",
+    "name": "○○○",
+    "wideField": [
+      "중문학"
+    ],
+    "detailedField": [
+      "중국시"
+    ]
+  },
+  {
+    "no": 79,
+    "class": "Professor",
+    "id": "Prof079",
+    "name": "○○○",
+    "wideField": [
+      "중국어학"
+    ],
+    "detailedField": [
+      "기타중국어학"
+    ]
+  },
+  {
+    "no": 80,
+    "class": "Professor",
+    "id": "Prof080",
+    "name": "○○○",
+    "wideField": [
+      "중문학"
+    ],
+    "detailedField": [
+      "비교문학"
+    ]
+  },
+  {
+    "no": 81,
+    "class": "Professor",
+    "id": "Prof081",
+    "name": "○○○",
+    "wideField": [
+      "중문학"
+    ],
+    "detailedField": [
+      "중국현대문학"
+    ]
+  },
+  {
+    "no": 82,
+    "class": "Professor",
+    "id": "Prof082",
+    "name": "○○○",
+    "wideField": [
+      "중문학"
+    ],
+    "detailedField": [
+      "중국산문",
+      "중국고전문학"
+    ]
+  },
+  {
+    "no": 83,
+    "class": "Professor",
+    "id": "Prof083",
+    "name": "○○○",
+    "wideField": [
+      "중문학"
+    ],
+    "detailedField": [
+      "중국시",
+      "중국고전문학"
+    ]
+  },
+  {
+    "no": 84,
+    "class": "Professor",
+    "id": "Prof084",
+    "name": "○○○",
+    "wideField": [
+      "중국어학"
+    ],
+    "detailedField": [
+      "일반문자학"
+    ]
+  },
+  {
+    "no": 85,
+    "class": "Professor",
+    "id": "Prof085",
+    "name": "○○○",
+    "wideField": [
+      "중국어학"
+    ],
+    "detailedField": [
+      "중국어사",
+      "통사론"
+    ]
+  },
+  {
+    "no": 86,
+    "class": "Professor",
+    "id": "Prof086",
+    "name": "○○○",
+    "wideField": [
+      "경제경영",
+      "중국학"
+    ],
+    "detailedField": [
+      "국제/세계경제",
+      "중국"
+    ]
+  },
+  {
+    "no": 87,
+    "class": "Professor",
+    "id": "Prof087",
+    "name": "○○○",
+    "wideField": [
+      "역사일반",
+      "철학사상"
+    ],
+    "detailedField": [
+      "중국근세사(명청)",
+      "중국철학"
+    ]
+  },
+  {
+    "no": 88,
+    "class": "Professor",
+    "id": "Prof088",
+    "name": "○○○",
+    "wideField": [
+      "중국어학"
+    ],
+    "detailedField": [
+      "어휘학",
+      "기타중국어학"
+    ]
+  },
+  {
+    "no": 89,
+    "class": "Professor",
+    "id": "Prof089",
+    "name": "○○○",
+    "wideField": [
+      "중국어학"
+    ],
+    "detailedField": [
+      "기타중국어학",
+      "대조언어"
+    ]
+  },
+  {
+    "no": 90,
+    "class": "Professor",
+    "id": "Prof090",
+    "name": "○○○",
+    "wideField": [
+      "중국학"
+    ],
+    "detailedField": [
+      "중국"
+    ]
+  },
+  {
+    "no": 91,
+    "class": "Professor",
+    "id": "Prof091",
+    "name": "○○○",
+    "wideField": [
+      "중국어학"
+    ],
+    "detailedField": [
+      "고문자학"
+    ]
+  },
+  {
+    "no": 92,
+    "class": "Professor",
+    "id": "Prof092",
+    "name": "○○○",
+    "wideField": [
+      "중국어학"
+    ],
+    "detailedField": [
+      "통사론",
+      "기타중국어학"
+    ]
+  },
+  {
+    "no": 93,
+    "class": "Professor",
+    "id": "Prof093",
+    "name": "○○○",
+    "wideField": [
+      "중국어학",
+      "중국어교육"
+    ],
+    "detailedField": [
+      "일반문자학",
+      "기타중국어학",
+      "중국어교육"
+    ]
+  },
+  {
+    "no": 94,
+    "class": "Professor",
+    "id": "Prof094",
+    "name": "○○○",
+    "wideField": [
+      "중문학",
+      "중국어교육"
+    ],
+    "detailedField": [
+      "중국산문",
+      "중국고전문학",
+      "기타중문학",
+      "중국어교육"
+    ]
+  },
+  {
+    "no": 95,
+    "class": "Professor",
+    "id": "Prof095",
+    "name": "○○○",
+    "wideField": [
+      "중문학"
+    ],
+    "detailedField": [
+      "중국현대문학",
+      "비교문학"
+    ]
+  },
+  {
+    "no": 96,
+    "class": "Professor",
+    "id": "Prof096",
+    "name": "○○○",
+    "wideField": [
+      "중문학",
+      "영화"
+    ],
+    "detailedField": [
+      "중국소설",
+      "중국현대문학",
+      "중국문화학",
+      "동양/아시아영화"
+    ]
+  },
+  {
+    "no": 97,
+    "class": "Professor",
+    "id": "Prof097",
+    "name": "○○○",
+    "wideField": [
+      "통역번역학",
+      "중국어학",
+      "중국어교육"
+    ],
+    "detailedField": [
+      "통역번역",
+      "기타중국어학",
+      "중국어교육"
+    ]
+  },
+  {
+    "no": 98,
+    "class": "Professor",
+    "id": "Prof098",
+    "name": "○○○",
+    "wideField": [
+      "중문학"
+    ],
+    "detailedField": [
+      "중국소설",
+      "중국현대문학"
+    ]
+  },
+  {
+    "no": 99,
+    "class": "Professor",
+    "id": "Prof099",
+    "name": "○○○",
+    "wideField": [
+      "중문학"
+    ],
+    "detailedField": [
+      "중국희곡",
+      "중국소설",
+      "중국문화학",
+      "기타중문학",
+      "중국현대문학",
+      "중국고전문학"
+    ]
+  },
+  {
+    "no": 100,
+    "class": "Professor",
+    "id": "Prof100",
+    "name": "○○○",
+    "wideField": [
+      "중국어학",
+      "중국어교육"
+    ],
+    "detailedField": [
+      "통사론",
+      "기타중국어학",
+      "중국어교육"
+    ]
+  },
+  {
+    "no": 101,
+    "class": "Professor",
+    "id": "Prof101",
+    "name": "○○○",
+    "wideField": [
+      "중문학"
+    ],
+    "detailedField": [
+      "중국현대문학",
+      "중국문화학"
+    ]
+  },
+  {
+    "no": 102,
+    "class": "Professor",
+    "id": "Prof102",
+    "name": "○○○",
+    "wideField": [
+      "중문학"
+    ],
+    "detailedField": [
+      "중국고전문학"
+    ]
+  },
+  {
+    "no": 103,
+    "class": "Professor",
+    "id": "Prof103",
+    "name": "○○○",
+    "wideField": [
+      "중국어학",
+      "기타"
+    ],
+    "detailedField": [
+      "기타중국어학",
+      "역사언어학"
+    ]
+  },
+  {
+    "no": 104,
+    "class": "Professor",
+    "id": "Prof104",
+    "name": "○○○",
+    "wideField": [
+      "중문학"
+    ],
+    "detailedField": [
+      "중국고전문학",
+      "중국소설",
+      "기타중문학"
+    ]
+  },
+  {
+    "no": 105,
+    "class": "Professor",
+    "id": "Prof105",
+    "name": "○○○",
+    "wideField": [
+      "중국어학"
+    ],
+    "detailedField": [
+      "중국어사",
+      "기타중국어학"
+    ]
+  },
+  {
+    "no": 106,
+    "class": "Professor",
+    "id": "Prof106",
+    "name": "○○○",
+    "wideField": [
+      "중문학"
+    ],
+    "detailedField": [
+      "중국현대문학"
+    ]
+  },
+  {
+    "no": 107,
+    "class": "Professor",
+    "id": "Prof107",
+    "name": "○○○",
+    "wideField": [
+      "중문학"
+    ],
+    "detailedField": [
+      "중국소설",
+      "기타중문학"
+    ]
+  },
+  {
+    "no": 108,
+    "class": "Professor",
+    "id": "Prof108",
+    "name": "○○○",
+    "wideField": [
+      "중문학"
+    ],
+    "detailedField": [
+      "중국소설",
+      "기타중문학"
+    ]
+  },
+  {
+    "no": 109,
+    "class": "Professor",
+    "id": "Prof109",
+    "name": "○○○",
+    "wideField": [
+      "중국어학"
+    ],
+    "detailedField": [
+      "일반문자학",
+      "기타중국어학"
+    ]
+  },
+  {
+    "no": 110,
+    "class": "Professor",
+    "id": "Prof110",
+    "name": "○○○",
+    "wideField": [
+      "중문학"
+    ],
+    "detailedField": [
+      "중국소설",
+      "중국현대문학",
+      "중국문화학"
+    ]
+  },
+  {
+    "no": 111,
+    "class": "Professor",
+    "id": "Prof111",
+    "name": "○○○",
+    "wideField": [
+      "중국어학"
+    ],
+    "detailedField": [
+      "음성/음운론"
+    ]
+  },
+  {
+    "no": 112,
+    "class": "Professor",
+    "id": "Prof112",
+    "name": "○○○",
+    "wideField": [
+      "중국어교육"
+    ],
+    "detailedField": [
+      "중국어교육"
+    ]
+  },
+  {
+    "no": 113,
+    "class": "Professor",
+    "id": "Prof113",
+    "name": "○○○",
+    "wideField": [
+      "중국어학"
+    ],
+    "detailedField": [
+      "통사론"
+    ]
+  },
+  {
+    "no": 114,
+    "class": "Professor",
+    "id": "Prof114",
+    "name": "○○○",
+    "wideField": [
+      "중문학"
+    ],
+    "detailedField": [
+      "중국희곡"
+    ]
+  },
+  {
+    "no": 115,
+    "class": "Professor",
+    "id": "Prof115",
+    "name": "○○○",
+    "wideField": [
+      "중문학"
+    ],
+    "detailedField": [
+      "기타중문학"
+    ]
+  },
+  {
+    "no": 116,
+    "class": "Professor",
+    "id": "Prof116",
+    "name": "○○○",
+    "wideField": [
+      "중문학"
+    ],
+    "detailedField": [
+      "중국희곡"
+    ]
+  },
+  {
+    "no": 117,
+    "class": "Professor",
+    "id": "Prof117",
+    "name": "○○○",
+    "wideField": [
+      "중문학",
+      "영화"
+    ],
+    "detailedField": [
+      "중국현대문학",
+      "중국문화학",
+      "동양/아시아영화",
+      "기타중문학"
+    ]
+  },
+  {
+    "no": 118,
+    "class": "Professor",
+    "id": "Prof118",
+    "name": "○○○",
+    "wideField": [
+      "중국어학"
+    ],
+    "detailedField": [
+      "중국어사"
+    ]
+  },
+  {
+    "no": 119,
+    "class": "Professor",
+    "id": "Prof119",
+    "name": "○○○",
+    "wideField": [
+      "중문학"
+    ],
+    "detailedField": [
+      "중국희곡"
+    ]
+  },
+  {
+    "no": 120,
+    "class": "Professor",
+    "id": "Prof120",
+    "name": "○○○",
+    "wideField": [
+      "중국어학"
+    ],
+    "detailedField": [
+      "중국어사"
+    ]
+  },
+  {
+    "no": 121,
+    "class": "Professor",
+    "id": "Prof121",
+    "name": "○○○",
+    "wideField": [
+      "중문학"
+    ],
+    "detailedField": [
+      "중국현대문학",
+      "중국문화학"
+    ]
+  },
+  {
+    "no": 122,
+    "class": "Professor",
+    "id": "Prof122",
+    "name": "○○○",
+    "wideField": [
+      "중국어학"
+    ],
+    "detailedField": [
+      "응용언어학"
+    ]
+  },
+  {
+    "no": 123,
+    "class": "Professor",
+    "id": "Prof123",
+    "name": "○○○",
+    "wideField": [
+      "중국어학",
+      "통역번역학"
+    ],
+    "detailedField": [
+      "응용언어학",
+      "통역번역"
+    ]
+  },
+  {
+    "no": 124,
+    "class": "Professor",
+    "id": "Prof124",
+    "name": "○○○",
+    "wideField": [
+      "중국어교육"
+    ],
+    "detailedField": [
+      "중국어교육"
+    ]
+  },
+  {
+    "no": 125,
+    "class": "Professor",
+    "id": "Prof125",
+    "name": "○○○",
+    "wideField": [
+      "중국어학"
+    ],
+    "detailedField": [
+      "통사론"
+    ]
+  },
+  {
+    "no": 126,
+    "class": "Professor",
+    "id": "Prof126",
+    "name": "○○○",
+    "wideField": [
+      "중문학"
+    ],
+    "detailedField": [
+      "중국고전문학"
+    ]
+  },
+  {
+    "no": 127,
+    "class": "Professor",
+    "id": "Prof127",
+    "name": "○○○",
+    "wideField": [
+      "중문학"
+    ],
+    "detailedField": [
+      "중국현대문학"
+    ]
+  },
+  {
+    "no": 128,
+    "class": "Professor",
+    "id": "Prof128",
+    "name": "○○○",
+    "wideField": [
+      "중국어학"
+    ],
+    "detailedField": [
+      "음성/음운론"
+    ]
+  },
+  {
+    "no": 129,
+    "class": "Professor",
+    "id": "Prof129",
+    "name": "○○○",
+    "wideField": [
+      "중문학"
+    ],
+    "detailedField": [
+      "중국소설",
+      "중국고전문학"
+    ]
+  },
+  {
+    "no": 130,
+    "class": "Professor",
+    "id": "Prof130",
+    "name": "○○○",
+    "wideField": [
+      "중문학"
+    ],
+    "detailedField": [
+      "중국현대문학"
+    ]
+  },
+  {
+    "no": 131,
+    "class": "Professor",
+    "id": "Prof131",
+    "name": "○○○",
+    "wideField": [
+      "중문학"
+    ],
+    "detailedField": [
+      "중국고전문학",
+      "중국문화학",
+      "기타중문학"
+    ]
+  },
+  {
+    "no": 132,
+    "class": "Professor",
+    "id": "Prof132",
+    "name": "○○○",
+    "wideField": [
+      "중국학"
+    ],
+    "detailedField": [
+      "중국"
+    ]
+  },
+  {
+    "no": 133,
+    "class": "Professor",
+    "id": "Prof133",
+    "name": "○○○",
+    "wideField": [
+      "중국어학",
+      "중국어교육"
+    ],
+    "detailedField": [
+      "통사론",
+      "중국어교육",
+      "기타중국어학"
+    ]
+  },
+  {
+    "no": 134,
+    "class": "Professor",
+    "id": "Prof134",
+    "name": "○○○",
+    "wideField": [
+      "중국학"
+    ],
+    "detailedField": [
+      "중국"
+    ]
+  },
+  {
+    "no": 135,
+    "class": "Professor",
+    "id": "Prof135",
+    "name": "○○○",
+    "wideField": [
+      "중국학"
+    ],
+    "detailedField": [
+      "중국"
+    ]
+  },
+  {
+    "no": 136,
+    "class": "Professor",
+    "id": "Prof136",
+    "name": "○○○",
+    "wideField": [
+      "중국어학"
+    ],
+    "detailedField": [
+      "일반문자학"
+    ]
+  },
+  {
+    "no": 137,
+    "class": "Professor",
+    "id": "Prof137",
+    "name": "○○○",
+    "wideField": [
+      "중문학"
+    ],
+    "detailedField": [
+      "중국고전문학",
+      "기타중문학"
+    ]
+  },
+  {
+    "no": 138,
+    "class": "Professor",
+    "id": "Prof138",
+    "name": "○○○",
+    "wideField": [
+      "중국어교육",
+      "기타"
+    ],
+    "detailedField": [
+      "중국어교육",
+      "일반언어학"
+    ]
+  },
+  {
+    "no": 139,
+    "class": "Professor",
+    "id": "Prof139",
+    "name": "○○○",
+    "wideField": [
+      "중국어학",
+      "중국어교육"
+    ],
+    "detailedField": [
+      "통사론",
+      "중국어교육"
+    ]
+  },
+  {
+    "no": 140,
+    "class": "Professor",
+    "id": "Prof140",
+    "name": "○○○",
+    "wideField": [
+      "중국어학"
+    ],
+    "detailedField": [
+      "통사론"
+    ]
+  },
+  {
+    "no": 141,
+    "class": "Professor",
+    "id": "Prof141",
+    "name": "○○○",
+    "wideField": [
+      "중문학"
+    ],
+    "detailedField": [
+      "사곡"
+    ]
+  },
+  {
+    "no": 142,
+    "class": "Professor",
+    "id": "Prof142",
+    "name": "○○○",
+    "wideField": [
+      "중국어학"
+    ],
+    "detailedField": [
+      "고문자학"
+    ]
+  },
+  {
+    "no": 143,
+    "class": "Professor",
+    "id": "Prof143",
+    "name": "○○○",
+    "wideField": [
+      "중문학"
+    ],
+    "detailedField": [
+      "중국소설",
+      "중국고전문학"
+    ]
+  },
+  {
+    "no": 144,
+    "class": "Professor",
+    "id": "Prof144",
+    "name": "○○○",
+    "wideField": [
+      "중문학"
+    ],
+    "detailedField": [
+      "중국현대문학"
+    ]
+  },
+  {
+    "no": 145,
+    "class": "Professor",
+    "id": "Prof145",
+    "name": "○○○",
+    "wideField": [
+      "중문학"
+    ],
+    "detailedField": [
+      "중국고전문학",
+      "중국시"
+    ]
+  },
+  {
+    "no": 146,
+    "class": "Professor",
+    "id": "Prof146",
+    "name": "○○○",
+    "wideField": [
+      "중문학"
+    ],
+    "detailedField": [
+      "중국고전문학",
+      "기타중문학"
+    ]
+  },
+  {
+    "no": 147,
+    "class": "Professor",
+    "id": "Prof147",
+    "name": "○○○",
+    "wideField": [
+      "중문학"
+    ],
+    "detailedField": [
+      "중국현대문학"
+    ]
+  },
+  {
+    "no": 148,
+    "class": "Professor",
+    "id": "Prof148",
+    "name": "○○○",
+    "wideField": [
+      "중국어학"
+    ],
+    "detailedField": [
+      "통사론",
+      "응용언어학",
+      "기타중국어학",
+      "코퍼스"
+    ]
+  },
+  {
+    "no": 149,
+    "class": "Professor",
+    "id": "Prof149",
+    "name": "○○○",
+    "wideField": [
+      "중문학"
+    ],
+    "detailedField": [
+      "중국문화학",
+      "기타중문학"
+    ]
+  },
+  {
+    "no": 150,
+    "class": "Professor",
+    "id": "Prof150",
+    "name": "○○○",
+    "wideField": [
+      "중문학"
+    ],
+    "detailedField": [
+      "중국시",
+      "중국고전문학"
+    ]
+  },
+  {
+    "no": 151,
+    "class": "Professor",
+    "id": "Prof151",
+    "name": "○○○",
+    "wideField": [
+      "중문학"
+    ],
+    "detailedField": [
+      "중국소설",
+      "중국현대문학",
+      "중국시"
+    ]
+  },
+  {
+    "no": 152,
+    "class": "Professor",
+    "id": "Prof152",
+    "name": "○○○",
+    "wideField": [
+      "중국어학"
+    ],
+    "detailedField": [
+      "고문자학"
+    ]
+  },
+  {
+    "no": 153,
+    "class": "Professor",
+    "id": "Prof153",
+    "name": "○○○",
+    "wideField": [
+      "중국어학"
+    ],
+    "detailedField": [
+      "기타중국어학"
+    ]
+  },
+  {
+    "no": 154,
+    "class": "Professor",
+    "id": "Prof154",
+    "name": "○○○",
+    "wideField": [
+      "중문학"
+    ],
+    "detailedField": [
+      "기타중문학"
+    ]
+  },
+  {
+    "no": 155,
+    "class": "Professor",
+    "id": "Prof155",
+    "name": "○○○",
+    "wideField": [
+      "중국어학"
+    ],
+    "detailedField": [
+      "기타중국어학"
+    ]
+  },
+  {
+    "no": 156,
+    "class": "Professor",
+    "id": "Prof156",
+    "name": "○○○",
+    "wideField": [
+      "중문학"
+    ],
+    "detailedField": [
+      "중국시"
+    ]
+  },
+  {
+    "no": 157,
+    "class": "Professor",
+    "id": "Prof157",
+    "name": "○○○",
+    "wideField": [
+      "중문학"
+    ],
+    "detailedField": [
+      "중국소설",
+      "중국고전문학"
+    ]
+  },
+  {
+    "no": 158,
+    "class": "Professor",
+    "id": "Prof158",
+    "name": "○○○",
+    "wideField": [
+      "중국어학"
+    ],
+    "detailedField": [
+      "성운학"
+    ]
+  },
+  {
+    "no": 159,
+    "class": "Professor",
+    "id": "Prof159",
+    "name": "○○○",
+    "wideField": [
+      "중국어학"
+    ],
+    "detailedField": [
+      "통사론"
+    ]
+  },
+  {
+    "no": 160,
+    "class": "Professor",
+    "id": "Prof160",
+    "name": "○○○",
+    "wideField": [
+      "중문학"
+    ],
+    "detailedField": [
+      "중국고전문학"
+    ]
+  },
+  {
+    "no": 161,
+    "class": "Professor",
+    "id": "Prof161",
+    "name": "○○○",
+    "wideField": [
+      "중문학"
+    ],
+    "detailedField": [
+      "중국고전문학"
+    ]
+  },
+  {
+    "no": 162,
+    "class": "Professor",
+    "id": "Prof162",
+    "name": "○○○",
+    "wideField": [
+      "중국어학"
+    ],
+    "detailedField": [
+      "기타중국어학"
+    ]
+  },
+  {
+    "no": 163,
+    "class": "Professor",
+    "id": "Prof163",
+    "name": "○○○",
+    "wideField": [
+      "중문학"
+    ],
+    "detailedField": [
+      "중국산문",
+      "중국고전문학"
+    ]
+  },
+  {
+    "no": 164,
+    "class": "Professor",
+    "id": "Prof164",
+    "name": "○○○",
+    "wideField": [
+      "중국어학"
+    ],
+    "detailedField": [
+      "중국어사"
+    ]
+  },
+  {
+    "no": 165,
+    "class": "Professor",
+    "id": "Prof165",
+    "name": "○○○",
+    "wideField": [
+      "중문학"
+    ],
+    "detailedField": [
+      "중국현대문학"
+    ]
+  },
+  {
+    "no": 166,
+    "class": "Professor",
+    "id": "Prof166",
+    "name": "○○○",
+    "wideField": [
+      "중문학"
+    ],
+    "detailedField": [
+      "중국시"
+    ]
+  },
+  {
+    "no": 167,
+    "class": "Professor",
+    "id": "Prof167",
+    "name": "○○○",
+    "wideField": [
+      "중국어학",
+      "중문학"
+    ],
+    "detailedField": [
+      "기타중국어학",
+      "기타중문학"
+    ]
+  },
+  {
+    "no": 168,
+    "class": "Professor",
+    "id": "Prof168",
+    "name": "○○○",
+    "wideField": [
+      "중국어학"
+    ],
+    "detailedField": [
+      "의미론",
+      "통사론"
+    ]
+  },
+  {
+    "no": 169,
+    "class": "Professor",
+    "id": "Prof169",
+    "name": "○○○",
+    "wideField": [
+      "중국어학"
+    ],
+    "detailedField": [
+      "기타중국어학",
+      "대조언어"
+    ]
+  },
+  {
+    "no": 170,
+    "class": "Professor",
+    "id": "Prof170",
+    "name": "○○○",
+    "wideField": [
+      "중국어학"
+    ],
+    "detailedField": [
+      "통사론"
+    ]
+  },
+  {
+    "no": 171,
+    "class": "Professor",
+    "id": "Prof171",
+    "name": "○○○",
+    "wideField": [
+      "중문학"
+    ],
+    "detailedField": [
+      "중국산문"
+    ]
+  },
+  {
+    "no": 172,
+    "class": "Professor",
+    "id": "Prof172",
+    "name": "○○○",
+    "wideField": [
+      "중문학",
+      "기타"
+    ],
+    "detailedField": [
+      "중국문화학",
+      "문화인류학"
+    ]
+  },
+  {
+    "no": 173,
+    "class": "Professor",
+    "id": "Prof173",
+    "name": "○○○",
+    "wideField": [
+      "중국어학"
+    ],
+    "detailedField": [
+      "중국어사",
+      "기타중국어학"
+    ]
+  },
+  {
+    "no": 174,
+    "class": "Professor",
+    "id": "Prof174",
+    "name": "○○○",
+    "wideField": [
+      "중문학"
+    ],
+    "detailedField": [
+      "중국현대문학"
+    ]
+  },
+  {
+    "no": 175,
+    "class": "Professor",
+    "id": "Prof175",
+    "name": "○○○",
+    "wideField": [
+      "정치지역학",
+      "중국학"
+    ],
+    "detailedField": [
+      "기타정치외교학",
+      "중국"
+    ]
+  },
+  {
+    "no": 176,
+    "class": "Professor",
+    "id": "Prof176",
+    "name": "○○○",
+    "wideField": [
+      "중국어학"
+    ],
+    "detailedField": [
+      "어휘학",
+      "의미론"
+    ]
+  },
+  {
+    "no": 177,
+    "class": "Professor",
+    "id": "Prof177",
+    "name": "○○○",
+    "wideField": [
+      "철학사상",
+      "중국학"
+    ],
+    "detailedField": [
+      "중국철학",
+      "중국"
+    ]
+  },
+  {
+    "no": 178,
+    "class": "Professor",
+    "id": "Prof178",
+    "name": "○○○",
+    "wideField": [
+      "중문학",
+      "중국학"
+    ],
+    "detailedField": [
+      "중국문화학",
+      "중국"
+    ]
+  },
+  {
+    "no": 179,
+    "class": "Professor",
+    "id": "Prof179",
+    "name": "○○○",
+    "wideField": [
+      "중문학"
+    ],
+    "detailedField": [
+      "중국문화학",
+      "기타중문학"
+    ]
+  },
+  {
+    "no": 180,
+    "class": "Professor",
+    "id": "Prof180",
+    "name": "○○○",
+    "wideField": [
+      "중문학"
+    ],
+    "detailedField": [
+      "중국시",
+      "중국고전문학"
+    ]
+  },
+  {
+    "no": 181,
+    "class": "Professor",
+    "id": "Prof181",
+    "name": "○○○",
+    "wideField": [
+      "중문학"
+    ],
+    "detailedField": [
+      "중국소설",
+      "중국고전문학"
+    ]
+  },
+  {
+    "no": 182,
+    "class": "Professor",
+    "id": "Prof182",
+    "name": "○○○",
+    "wideField": [
+      "중국어학"
+    ],
+    "detailedField": [
+      "음성/음운론",
+      "성운학"
+    ]
+  },
+  {
+    "no": 183,
+    "class": "Professor",
+    "id": "Prof183",
+    "name": "○○○",
+    "wideField": [
+      "중문학"
+    ],
+    "detailedField": [
+      "중국현대문학"
+    ]
+  },
+  {
+    "no": 184,
+    "class": "Professor",
+    "id": "Prof184",
+    "name": "○○○",
+    "wideField": [
+      "미분류"
+    ],
+    "detailedField": null
+  },
+  {
+    "no": 185,
+    "class": "Professor",
+    "id": "Prof185",
+    "name": "○○○",
+    "wideField": [
+      "미분류"
+    ],
+    "detailedField": null
+  },
+  {
+    "no": 186,
+    "class": "Professor",
+    "id": "Prof186",
+    "name": "○○○",
+    "wideField": [
+      "문화"
+    ],
+    "detailedField": [
+      "중국사회문화"
+    ]
+  },
+  {
+    "no": 187,
+    "class": "Professor",
+    "id": "Prof187",
+    "name": "○○○",
+    "wideField": [
+      "중국어학"
+    ],
+    "detailedField": [
+      "중국어평가론",
+      "어휘론",
+      "응용언어학"
+    ]
+  },
+  {
+    "no": 188,
+    "class": "Professor",
+    "id": "Prof188",
+    "name": "○○○",
+    "wideField": [
+      "중문학"
+    ],
+    "detailedField": [
+      "고전서사",
+      "신선서사/신선도상"
+    ]
+  },
+  {
+    "no": 189,
+    "class": "Professor",
+    "id": "Prof189",
+    "name": "○○○",
+    "wideField": [
+      "중국어학"
+    ],
+    "detailedField": [
+      "고문자학",
+      "고대한자학",
+      "현대한자학",
+      "중국어음운론"
+    ]
+  },
+  {
+    "no": 190,
+    "class": "Professor",
+    "id": "Prof190",
+    "name": "○○○",
+    "wideField": [
+      "중문학"
+    ],
+    "detailedField": [
+      "중국어문학"
+    ]
+  },
+  {
+    "no": 191,
+    "class": "Professor",
+    "id": "Prof191",
+    "name": "○○○",
+    "wideField": [
+      "중국어학"
+    ],
+    "detailedField": [
+      "한어언문자학",
+      "중국어어휘의미론"
+    ]
+  },
+  {
+    "no": 192,
+    "class": "Professor",
+    "id": "Prof192",
+    "name": "○○○",
+    "wideField": [
+      "중문학"
+    ],
+    "detailedField": null
+  },
+  {
+    "no": 193,
+    "class": "Professor",
+    "id": "Prof193",
+    "name": "○○○",
+    "wideField": [
+      "정치지역학"
+    ],
+    "detailedField": [
+      "도시사회",
+      "지역",
+      "민족"
+    ]
+  },
+  {
+    "no": 194,
+    "class": "Professor",
+    "id": "Prof194",
+    "name": "○○○",
+    "wideField": [
+      "역사일반"
+    ],
+    "detailedField": [
+      "중국사회"
+    ]
+  },
+  {
+    "no": 195,
+    "class": "Professor",
+    "id": "Prof195",
+    "name": "○○○",
+    "wideField": [
+      "문화"
+    ],
+    "detailedField": [
+      "중국지역"
+    ]
+  },
+  {
+    "no": 196,
+    "class": "Professor",
+    "id": "Prof196",
+    "name": "○○○",
+    "wideField": [
+      "정치지역학"
+    ],
+    "detailedField": null
+  },
+  {
+    "no": 197,
+    "class": "Professor",
+    "id": "Prof197",
+    "name": "○○○",
+    "wideField": [
+      "경제경영"
+    ],
+    "detailedField": [
+      "경제",
+      "통상"
+    ]
+  },
+  {
+    "no": 198,
+    "class": "Professor",
+    "id": "Prof198",
+    "name": "○○○",
+    "wideField": [
+      "중국어학"
+    ],
+    "detailedField": [
+      "현대중국어학"
+    ]
+  },
+  {
+    "no": 199,
+    "class": "Professor",
+    "id": "Prof199",
+    "name": "○○○",
+    "wideField": [
+      "중국어학"
+    ],
+    "detailedField": [
+      "중국어문법",
+      "언어학"
+    ]
+  },
+  {
+    "no": 200,
+    "class": "Professor",
+    "id": "Prof200",
+    "name": "○○○",
+    "wideField": [
+      "중국어학"
+    ],
+    "detailedField": [
+      "고전시",
+      "음운학"
+    ]
+  },
+  {
+    "no": 201,
+    "class": "Professor",
+    "id": "Prof201",
+    "name": "○○○",
+    "wideField": [
+      "중문학"
+    ],
+    "detailedField": [
+      "현대중국문학"
+    ]
+  },
+  {
+    "no": 202,
+    "class": "Professor",
+    "id": "Prof202",
+    "name": "○○○",
+    "wideField": [
+      "중국어학"
+    ],
+    "detailedField": [
+      "중국고전문헌",
+      "문자학"
+    ]
+  },
+  {
+    "no": 203,
+    "class": "Professor",
+    "id": "Prof203",
+    "name": "○○○",
+    "wideField": [
+      "중국어학"
+    ],
+    "detailedField": [
+      "현대중국어문법"
+    ]
+  },
+  {
+    "no": 204,
+    "class": "Professor",
+    "id": "Prof204",
+    "name": "○○○",
+    "wideField": [
+      "중국어학",
+      "중국어교육",
+      "문화"
+    ],
+    "detailedField": [
+      "중국어교육",
+      "문화교류"
+    ]
+  },
+  {
+    "no": 205,
+    "class": "Professor",
+    "id": "Prof205",
+    "name": "○○○",
+    "wideField": [
+      "중문학",
+      "중국어교육"
+    ],
+    "detailedField": [
+      "중국문학",
+      "교육학"
+    ]
+  },
+  {
+    "no": 206,
+    "class": "Professor",
+    "id": "Prof206",
+    "name": "○○○",
+    "wideField": [
+      "중국어학"
+    ],
+    "detailedField": [
+      "통사론"
+    ]
+  },
+  {
+    "no": 207,
+    "class": "Professor",
+    "id": "Prof207",
+    "name": "○○○",
+    "wideField": [
+      "중국어학"
+    ],
+    "detailedField": [
+      "언어학"
+    ]
+  },
+  {
+    "no": 208,
+    "class": "Professor",
+    "id": "Prof208",
+    "name": "○○○",
+    "wideField": [
+      "철학사상"
+    ],
+    "detailedField": [
+      "중국근현대사",
+      "중국도시사",
+      "중국사상사"
+    ]
+  },
+  {
+    "no": 209,
+    "class": "Professor",
+    "id": "Prof209",
+    "name": "○○○",
+    "wideField": [
+      "중문학",
+      "문화"
+    ],
+    "detailedField": [
+      "고전산문"
+    ]
+  },
+  {
+    "no": 210,
+    "class": "Professor",
+    "id": "Prof210",
+    "name": "○○○",
+    "wideField": [
+      "중문학"
+    ],
+    "detailedField": [
+      "명청전기",
+      "희곡이론사"
+    ]
+  },
+  {
+    "no": 211,
+    "class": "Professor",
+    "id": "Prof211",
+    "name": "○○○",
+    "wideField": [
+      "중문학"
+    ],
+    "detailedField": [
+      "현대중국문학"
+    ]
+  },
+  {
+    "no": 212,
+    "class": "Professor",
+    "id": "Prof212",
+    "name": "○○○",
+    "wideField": [
+      "중문학"
+    ],
+    "detailedField": [
+      "고전시가"
+    ]
+  },
+  {
+    "no": 213,
+    "class": "Professor",
+    "id": "Prof213",
+    "name": "○○○",
+    "wideField": [
+      "중국어학",
+      "중국어교육"
+    ],
+    "detailedField": [
+      "중국어교육",
+      "현대문법",
+      "통사론"
+    ]
+  },
+  {
+    "no": 214,
+    "class": "Professor",
+    "id": "Prof214",
+    "name": "○○○",
+    "wideField": [
+      "중국어학"
+    ],
+    "detailedField": [
+      "현대어법"
+    ]
+  },
+  {
+    "no": 215,
+    "class": "Professor",
+    "id": "Prof215",
+    "name": "○○○",
+    "wideField": [
+      "경제경영"
+    ],
+    "detailedField": [
+      "중국경제성장",
+      "중국무역",
+      "중국산업구조",
+      "중국재정정책"
+    ]
+  },
+  {
+    "no": 216,
+    "class": "Professor",
+    "id": "Prof216",
+    "name": "○○○",
+    "wideField": [
+      "중국어학"
+    ],
+    "detailedField": [
+      "중국문학",
+      "중국문화",
+      "중한번역",
+      "중국어교육"
+    ]
+  },
+  {
+    "no": 217,
+    "class": "Professor",
+    "id": "Prof217",
+    "name": "○○○",
+    "wideField": [
+      "중국어학"
+    ],
+    "detailedField": [
+      "국제관계",
+      "한반도",
+      "동북아지정학",
+      "중국어문화",
+      "중국방언학"
+    ]
+  },
+  {
+    "no": 218,
+    "class": "Professor",
+    "id": "Prof218",
+    "name": "○○○",
+    "wideField": [
+      "문화"
+    ],
+    "detailedField": [
+      "중국사",
+      "중국문화사",
+      "한중관계사",
+      "명청외교사",
+      "명청문화사"
+    ]
+  },
+  {
+    "no": 219,
+    "class": "Professor",
+    "id": "Prof219",
+    "name": "○○○",
+    "wideField": [
+      "중국어학"
+    ],
+    "detailedField": [
+      "중국어학",
+      "중국어교육"
+    ]
+  },
+  {
+    "no": 220,
+    "class": "Professor",
+    "id": "Prof220",
+    "name": "○○○",
+    "wideField": [
+      "중국어학"
+    ],
+    "detailedField": [
+      "현대중국어",
+      "고전중국어"
+    ]
+  },
+  {
+    "no": 221,
+    "class": "Professor",
+    "id": "Prof221",
+    "name": "○○○",
+    "wideField": [
+      "중문학"
+    ],
+    "detailedField": [
+      "고전산문"
+    ]
+  },
+  {
+    "no": 222,
+    "class": "Professor",
+    "id": "Prof222",
+    "name": "○○○",
+    "wideField": [
+      "중국어학"
+    ],
+    "detailedField": [
+      "언어학",
+      "고대문법",
+      "고대문자"
+    ]
+  },
+  {
+    "no": 223,
+    "class": "Professor",
+    "id": "Prof223",
+    "name": "○○○",
+    "wideField": [
+      "중문학"
+    ],
+    "detailedField": [
+      "현대여성소설"
+    ]
+  },
+  {
+    "no": 224,
+    "class": "Professor",
+    "id": "Prof224",
+    "name": "○○○",
+    "wideField": [
+      "중국어학",
+      "중국어교육"
+    ],
+    "detailedField": [
+      "언어학",
+      "중국어교육"
+    ]
+  },
+  {
+    "no": 225,
+    "class": "Professor",
+    "id": "Prof225",
+    "name": "○○○",
+    "wideField": [
+      "중문학"
+    ],
+    "detailedField": [
+      "현대소설",
+      "대만문학"
+    ]
+  },
+  {
+    "no": 226,
+    "class": "Professor",
+    "id": "Prof226",
+    "name": "○○○",
+    "wideField": [
+      "중문학"
+    ],
+    "detailedField": [
+      "문학비평",
+      "고대문학이론비평"
+    ]
+  },
+  {
+    "no": 227,
+    "class": "Professor",
+    "id": "Prof227",
+    "name": "○○○",
+    "wideField": [
+      "중문학"
+    ],
+    "detailedField": [
+      "중국시"
+    ]
+  },
+  {
+    "no": 228,
+    "class": "Professor",
+    "id": "Prof228",
+    "name": "○○○",
+    "wideField": [
+      "문화"
+    ],
+    "detailedField": [
+      "현대중국문화"
+    ]
+  },
+  {
+    "no": 229,
+    "class": "Professor",
+    "id": "Prof229",
+    "name": "○○○",
+    "wideField": [
+      "중국어학"
+    ],
+    "detailedField": [
+      "중국어사"
+    ]
+  },
+  {
+    "no": 230,
+    "class": "Professor",
+    "id": "Prof230",
+    "name": "○○○",
+    "wideField": [
+      "중문학"
+    ],
+    "detailedField": [
+      "문학비평"
+    ]
+  },
+  {
+    "no": 231,
+    "class": "Professor",
+    "id": "Prof231",
+    "name": "○○○",
+    "wideField": [
+      "중문학"
+    ],
+    "detailedField": [
+      "고전소설"
+    ]
+  },
+  {
+    "no": 232,
+    "class": "Professor",
+    "id": "Prof232",
+    "name": "○○○",
+    "wideField": [
+      "중국어학"
+    ],
+    "detailedField": [
+      "현대중국어문법"
+    ]
+  },
+  {
+    "no": 233,
+    "class": "Professor",
+    "id": "Prof233",
+    "name": "○○○",
+    "wideField": [
+      "중문학"
+    ],
+    "detailedField": [
+      "현대중국문학"
+    ]
+  },
+  {
+    "no": 234,
+    "class": "Professor",
+    "id": "Prof234",
+    "name": "○○○",
+    "wideField": [
+      "중국어학"
+    ],
+    "detailedField": [
+      "현대중국어문법",
+      "통사론"
+    ]
+  },
+  {
+    "no": 235,
+    "class": "Professor",
+    "id": "Prof235",
+    "name": "○○○",
+    "wideField": [
+      "중국어학"
+    ],
+    "detailedField": [
+      "음성학",
+      "음운학",
+      "형태론"
+    ]
+  },
+  {
+    "no": 236,
+    "class": "Professor",
+    "id": "Prof236",
+    "name": "○○○",
+    "wideField": [
+      "중국어학"
+    ],
+    "detailedField": [
+      "문화언어학"
+    ]
+  },
+  {
+    "no": 237,
+    "class": "Professor",
+    "id": "Prof237",
+    "name": "○○○",
+    "wideField": [
+      "경제경영"
+    ],
+    "detailedField": [
+      "정치경제"
+    ]
+  },
+  {
+    "no": 238,
+    "class": "Professor",
+    "id": "Prof238",
+    "name": "○○○",
+    "wideField": [
+      "철학사상"
+    ],
+    "detailedField": null
+  },
+  {
+    "no": 239,
+    "class": "Professor",
+    "id": "Prof239",
+    "name": "○○○",
+    "wideField": [
+      "정치지역학"
+    ],
+    "detailedField": null
+  },
+  {
+    "no": 240,
+    "class": "Professor",
+    "id": "Prof240",
+    "name": "○○○",
+    "wideField": [
+      "정치지역학"
+    ],
+    "detailedField": null
+  },
+  {
+    "no": 241,
+    "class": "Professor",
+    "id": "Prof241",
+    "name": "○○○",
+    "wideField": [
+      "경제경영"
+    ],
+    "detailedField": null
+  },
+  {
+    "no": 242,
+    "class": "Professor",
+    "id": "Prof242",
+    "name": "○○○",
+    "wideField": [
+      "문화"
+    ],
+    "detailedField": [
+      "이민학",
+      "발전사회학",
+      "중국사회",
+      "중국문화",
+      "재외한인사회"
+    ]
+  },
+  {
+    "no": 243,
+    "class": "Professor",
+    "id": "Prof243",
+    "name": "○○○",
+    "wideField": [
+      "중문학"
+    ],
+    "detailedField": null
+  },
+  {
+    "no": 244,
+    "class": "Professor",
+    "id": "Prof244",
+    "name": "○○○",
+    "wideField": [
+      "중국어학",
+      "중국어교육",
+      "문화"
+    ],
+    "detailedField": [
+      "사회언어학",
+      "중국사회",
+      "중국문화",
+      "중국어학습",
+      "중국어교수법"
+    ]
+  },
+  {
+    "no": 245,
+    "class": "Professor",
+    "id": "Prof245",
+    "name": "○○○",
+    "wideField": [
+      "정치지역학"
+    ],
+    "detailedField": [
+      "대외관계",
+      "영토분쟁",
+      "소수민족",
+      "민족주의"
+    ]
+  },
+  {
+    "no": 246,
+    "class": "Professor",
+    "id": "Prof246",
+    "name": "○○○",
+    "wideField": [
+      "중문학"
+    ],
+    "detailedField": [
+      "고전소설"
+    ]
+  },
+  {
+    "no": 247,
+    "class": "Professor",
+    "id": "Prof247",
+    "name": "○○○",
+    "wideField": [
+      "경제경영"
+    ],
+    "detailedField": [
+      "중국지역학"
+    ]
+  },
+  {
+    "no": 248,
+    "class": "Professor",
+    "id": "Prof248",
+    "name": "○○○",
+    "wideField": [
+      "중문학"
+    ],
+    "detailedField": [
+      "근현대정치사상",
+      "근현대학술사상",
+      "대만문학사"
+    ]
+  },
+  {
+    "no": 249,
+    "class": "Professor",
+    "id": "Prof249",
+    "name": "○○○",
+    "wideField": [
+      "문화"
+    ],
+    "detailedField": [
+      "동양미학"
+    ]
+  },
+  {
+    "no": 250,
+    "class": "Professor",
+    "id": "Prof250",
+    "name": "○○○",
+    "wideField": [
+      "중국어학",
+      "중국어교육"
+    ],
+    "detailedField": [
+      "통사론",
+      "의미론",
+      "중국어교육"
+    ]
+  },
+  {
+    "no": 251,
+    "class": "Professor",
+    "id": "Prof251",
+    "name": "○○○",
+    "wideField": [
+      "중문학"
+    ],
+    "detailedField": [
+      "기타국문학",
+      "국어국문"
+    ]
+  },
+  {
+    "no": 252,
+    "class": "Professor",
+    "id": "Prof252",
+    "name": "○○○",
+    "wideField": [
+      "중국어학"
+    ],
+    "detailedField": [
+      "통사론",
+      "통사의미론"
+    ]
+  },
+  {
+    "no": 253,
+    "class": "Professor",
+    "id": "Prof253",
+    "name": "○○○",
+    "wideField": [
+      "중문학"
+    ],
+    "detailedField": null
+  },
+  {
+    "no": 254,
+    "class": "Professor",
+    "id": "Prof254",
+    "name": "○○○",
+    "wideField": [
+      "중문학"
+    ],
+    "detailedField": [
+      "현당대문학"
+    ]
+  },
+  {
+    "no": 255,
+    "class": "Professor",
+    "id": "Prof255",
+    "name": "○○○",
+    "wideField": [
+      "중국어학"
+    ],
+    "detailedField": [
+      "통사론"
+    ]
+  },
+  {
+    "no": 256,
+    "class": "Professor",
+    "id": "Prof256",
+    "name": "○○○",
+    "wideField": [
+      "중문학"
+    ],
+    "detailedField": [
+      "한국어와문학",
+      "한국어"
+    ]
+  },
+  {
+    "no": 257,
+    "class": "Professor",
+    "id": "Prof257",
+    "name": "○○○",
+    "wideField": [
+      "중국어학"
+    ],
+    "detailedField": [
+      "현대중국어문법"
+    ]
+  },
+  {
+    "no": 258,
+    "class": "Professor",
+    "id": "Prof258",
+    "name": "○○○",
+    "wideField": [
+      "중문학"
+    ],
+    "detailedField": null
+  },
+  {
+    "no": 259,
+    "class": "Professor",
+    "id": "Prof259",
+    "name": "○○○",
+    "wideField": [
+      "중문학"
+    ],
+    "detailedField": [
+      "현대중국문학"
+    ]
+  },
+  {
+    "no": 260,
+    "class": "Professor",
+    "id": "Prof260",
+    "name": "○○○",
+    "wideField": [
+      "중문학"
+    ],
+    "detailedField": [
+      "고전소설"
+    ]
+  },
+  {
+    "no": 261,
+    "class": "Professor",
+    "id": "Prof261",
+    "name": "○○○",
+    "wideField": [
+      "경제경영"
+    ],
+    "detailedField": [
+      "산업경제학"
+    ]
+  },
+  {
+    "no": 262,
+    "class": "Professor",
+    "id": "Prof262",
+    "name": "○○○",
+    "wideField": [
+      "중문학"
+    ],
+    "detailedField": [
+      "당대전기문학",
+      "중국신화"
+    ]
+  },
+  {
+    "no": 263,
+    "class": "Professor",
+    "id": "Prof263",
+    "name": "○○○",
+    "wideField": [
+      "중문학"
+    ],
+    "detailedField": [
+      "현대소설"
+    ]
+  },
+  {
+    "no": 264,
+    "class": "Professor",
+    "id": "Prof264",
+    "name": "○○○",
+    "wideField": [
+      "중국어학"
+    ],
+    "detailedField": [
+      "언어학",
+      "현대중국어문법"
+    ]
+  },
+  {
+    "no": 265,
+    "class": "Professor",
+    "id": "Prof265",
+    "name": "○○○",
+    "wideField": [
+      "중국어학"
+    ],
+    "detailedField": [
+      "언어학",
+      "문자학"
+    ]
+  },
+  {
+    "no": 266,
+    "class": "Professor",
+    "id": "Prof266",
+    "name": "○○○",
+    "wideField": [
+      "중국어학"
+    ],
+    "detailedField": [
+      "언어학",
+      "현대중국어",
+      "전산언어학"
+    ]
+  },
+  {
+    "no": 267,
+    "class": "Professor",
+    "id": "Prof267",
+    "name": "○○○",
+    "wideField": [
+      "경제경영"
+    ],
+    "detailedField": [
+      "지역학",
+      "중국경제"
+    ]
+  },
+  {
+    "no": 268,
+    "class": "Professor",
+    "id": "Prof268",
+    "name": "○○○",
+    "wideField": [
+      "경제경영"
+    ],
+    "detailedField": [
+      "지역학",
+      "중국경제법"
+    ]
+  },
+  {
+    "no": 269,
+    "class": "Professor",
+    "id": "Prof269",
+    "name": "○○○",
+    "wideField": [
+      "중국어학"
+    ],
+    "detailedField": [
+      "지역학",
+      "중국어회화"
+    ]
+  },
+  {
+    "no": 270,
+    "class": "Professor",
+    "id": "Prof270",
+    "name": "○○○",
+    "wideField": [
+      "중문학"
+    ],
+    "detailedField": [
+      "시가"
+    ]
+  },
+  {
+    "no": 271,
+    "class": "Professor",
+    "id": "Prof271",
+    "name": "○○○",
+    "wideField": [
+      "중문학"
+    ],
+    "detailedField": [
+      "문학비평"
+    ]
+  },
+  {
+    "no": 272,
+    "class": "Professor",
+    "id": "Prof272",
+    "name": "○○○",
+    "wideField": [
+      "중문학"
+    ],
+    "detailedField": null
+  },
+  {
+    "no": 273,
+    "class": "Professor",
+    "id": "Prof273",
+    "name": "○○○",
+    "wideField": [
+      "중국어학"
+    ],
+    "detailedField": [
+      "한어문자학"
+    ]
+  },
+  {
+    "no": 274,
+    "class": "Professor",
+    "id": "Prof274",
+    "name": "○○○",
+    "wideField": [
+      "중문학"
+    ],
+    "detailedField": [
+      "루쉰"
+    ]
+  },
+  {
+    "no": 275,
+    "class": "Professor",
+    "id": "Prof275",
+    "name": "○○○",
+    "wideField": [
+      "정치지역학"
+    ],
+    "detailedField": [
+      "국제관계/협력",
+      "동북아국제관계",
+      "중국정치"
+    ]
+  },
+  {
+    "no": 276,
+    "class": "Professor",
+    "id": "Prof276",
+    "name": "○○○",
+    "wideField": [
+      "중문학"
+    ],
+    "detailedField": [
+      "현대시"
+    ]
+  },
+  {
+    "no": 277,
+    "class": "Professor",
+    "id": "Prof277",
+    "name": "○○○",
+    "wideField": [
+      "중문학"
+    ],
+    "detailedField": [
+      "당대문학"
+    ]
+  },
+  {
+    "no": 278,
+    "class": "Professor",
+    "id": "Prof278",
+    "name": "○○○",
+    "wideField": [
+      "중문학"
+    ],
+    "detailedField": null
+  },
+  {
+    "no": 279,
+    "class": "Professor",
+    "id": "Prof279",
+    "name": "○○○",
+    "wideField": [
+      "중문학"
+    ],
+    "detailedField": [
+      "고전산문"
+    ]
+  },
+  {
+    "no": 280,
+    "class": "Professor",
+    "id": "Prof280",
+    "name": "○○○",
+    "wideField": [
+      "경제경영"
+    ],
+    "detailedField": [
+      "경제",
+      "통상",
+      "MonetaryFinancing"
+    ]
+  },
+  {
+    "no": 281,
+    "class": "Professor",
+    "id": "Prof281",
+    "name": "○○○",
+    "wideField": [
+      "경제경영"
+    ],
+    "detailedField": [
+      "정치",
+      "경제"
+    ]
+  },
+  {
+    "no": 282,
+    "class": "Professor",
+    "id": "Prof282",
+    "name": "○○○",
+    "wideField": [
+      "중국어학"
+    ],
+    "detailedField": [
+      "중국어회화"
+    ]
+  },
+  {
+    "no": 283,
+    "class": "Professor",
+    "id": "Prof283",
+    "name": "○○○",
+    "wideField": [
+      "중국어학"
+    ],
+    "detailedField": [
+      "수사학"
+    ]
+  },
+  {
+    "no": 284,
+    "class": "Professor",
+    "id": "Prof284",
+    "name": "○○○",
+    "wideField": [
+      "중문학"
+    ],
+    "detailedField": [
+      "근현대문학"
+    ]
+  },
+  {
+    "no": 285,
+    "class": "Professor",
+    "id": "Prof285",
+    "name": "○○○",
+    "wideField": [
+      "문화"
+    ],
+    "detailedField": [
+      "현대문화",
+      "근대문화"
+    ]
+  },
+  {
+    "no": 286,
+    "class": "Professor",
+    "id": "Prof286",
+    "name": "○○○",
+    "wideField": [
+      "중문학",
+      "문화"
+    ],
+    "detailedField": [
+      "현당대문학",
+      "현당대문화"
+    ]
+  },
+  {
+    "no": 287,
+    "class": "Professor",
+    "id": "Prof287",
+    "name": "○○○",
+    "wideField": [
+      "중문학",
+      "문화"
+    ],
+    "detailedField": [
+      "중세문화",
+      "중국어문학"
+    ]
+  },
+  {
+    "no": 288,
+    "class": "Professor",
+    "id": "Prof288",
+    "name": "○○○",
+    "wideField": [
+      "경제경영"
+    ],
+    "detailedField": [
+      "정치",
+      "경제"
+    ]
+  },
+  {
+    "no": 289,
+    "class": "Professor",
+    "id": "Prof289",
+    "name": "○○○",
+    "wideField": [
+      "중문학"
+    ],
+    "detailedField": [
+      "중국고전문학이론",
+      "위진남북조문학이론"
+    ]
+  },
+  {
+    "no": 290,
+    "class": "Professor",
+    "id": "Prof290",
+    "name": "○○○",
+    "wideField": [
+      "중문학"
+    ],
+    "detailedField": [
+      "문학비평",
+      "중국학"
+    ]
+  },
+  {
+    "no": 291,
+    "class": "Professor",
+    "id": "Prof291",
+    "name": "○○○",
+    "wideField": [
+      "중국어학"
+    ],
+    "detailedField": [
+      "현대중국어어법"
+    ]
+  },
+  {
+    "no": 292,
+    "class": "Professor",
+    "id": "Prof292",
+    "name": "○○○",
+    "wideField": [
+      "중문학"
+    ],
+    "detailedField": null
+  },
+  {
+    "no": 293,
+    "class": "Professor",
+    "id": "Prof293",
+    "name": "○○○",
+    "wideField": [
+      "중문학"
+    ],
+    "detailedField": [
+      "고전시가"
+    ]
+  },
+  {
+    "no": 294,
+    "class": "Professor",
+    "id": "Prof294",
+    "name": "○○○",
+    "wideField": [
+      "중문학"
+    ],
+    "detailedField": [
+      "중국소설"
+    ]
+  },
+  {
+    "no": 295,
+    "class": "Professor",
+    "id": "Prof295",
+    "name": "○○○",
+    "wideField": [
+      "중국어학"
+    ],
+    "detailedField": [
+      "중국어사",
+      "중국어어법사"
+    ]
+  },
+  {
+    "no": 296,
+    "class": "Professor",
+    "id": "Prof296",
+    "name": "○○○",
+    "wideField": [
+      "중국어학"
+    ],
+    "detailedField": [
+      "한어사",
+      "중국어사",
+      "문헌학",
+      "한국한문문헌",
+      "한중교통문헌"
+    ]
+  },
+  {
+    "no": 297,
+    "class": "Professor",
+    "id": "Prof297",
+    "name": "○○○",
+    "wideField": [
+      "중문학"
+    ],
+    "detailedField": null
+  },
+  {
+    "no": 298,
+    "class": "Professor",
+    "id": "Prof298",
+    "name": "○○○",
+    "wideField": [
+      "중문학"
+    ],
+    "detailedField": null
+  },
+  {
+    "no": 299,
+    "class": "Professor",
+    "id": "Prof299",
+    "name": "○○○",
+    "wideField": [
+      "정치지역학"
+    ],
+    "detailedField": null
+  },
+  {
+    "no": 300,
+    "class": "Professor",
+    "id": "Prof300",
+    "name": "○○○",
+    "wideField": [
+      "중국어학"
+    ],
+    "detailedField": null
+  },
+  {
+    "no": 301,
+    "class": "Professor",
+    "id": "Prof301",
+    "name": "○○○",
+    "wideField": [
+      "중국어학"
+    ],
+    "detailedField": [
+      "대외한어"
+    ]
+  },
+  {
+    "no": 302,
+    "class": "Professor",
+    "id": "Prof302",
+    "name": "○○○",
+    "wideField": [
+      "중문학"
+    ],
+    "detailedField": [
+      "현당대문학",
+      "현당대문화"
+    ]
+  },
+  {
+    "no": 303,
+    "class": "Professor",
+    "id": "Prof303",
+    "name": "○○○",
+    "wideField": [
+      "중문학"
+    ],
+    "detailedField": [
+      "현당대문학"
+    ]
+  },
+  {
+    "no": 304,
+    "class": "Professor",
+    "id": "Prof304",
+    "name": "○○○",
+    "wideField": [
+      "중국어학",
+      "중문학",
+      "중국어교육"
+    ],
+    "detailedField": [
+      "중국문학",
+      "중국어교육",
+      "문법",
+      "사곡"
+    ]
+  },
+  {
+    "no": 305,
+    "class": "Professor",
+    "id": "Prof305",
+    "name": "○○○",
+    "wideField": [
+      "중국어학"
+    ],
+    "detailedField": [
+      "응용언어학",
+      "중국어학"
+    ]
+  },
+  {
+    "no": 306,
+    "class": "Professor",
+    "id": "Prof306",
+    "name": "○○○",
+    "wideField": [
+      "중문학"
+    ],
+    "detailedField": [
+      "중국신화",
+      "소설"
+    ]
+  },
+  {
+    "no": 307,
+    "class": "Professor",
+    "id": "Prof307",
+    "name": "○○○",
+    "wideField": [
+      "문화"
+    ],
+    "detailedField": [
+      "스토리텔링",
+      "미디어",
+      "한중문화콘텐츠"
+    ]
+  },
+  {
+    "no": 308,
+    "class": "Professor",
+    "id": "Prof308",
+    "name": "○○○",
+    "wideField": [
+      "중국어학",
+      "중국어교육"
+    ],
+    "detailedField": null
+  },
+  {
+    "no": 309,
+    "class": "Professor",
+    "id": "Prof309",
+    "name": "○○○",
+    "wideField": [
+      "중국어학",
+      "중국어교육"
+    ],
+    "detailedField": [
+      "중국어교육",
+      "한국어교육",
+      "통번역학"
+    ]
+  },
+  {
+    "no": 310,
+    "class": "Professor",
+    "id": "Prof310",
+    "name": "○○○",
+    "wideField": [
+      "중문학"
+    ],
+    "detailedField": [
+      "시"
+    ]
+  },
+  {
+    "no": 311,
+    "class": "Professor",
+    "id": "Prof311",
+    "name": "○○○",
+    "wideField": [
+      "기타"
+    ],
+    "detailedField": [
+      "관광학",
+      "항공서비스"
+    ]
+  },
+  {
+    "no": 312,
+    "class": "Professor",
+    "id": "Prof312",
+    "name": "○○○",
+    "wideField": [
+      "중국어학"
+    ],
+    "detailedField": [
+      "성운학",
+      "중국어학",
+      "고대중국어"
+    ]
+  },
+  {
+    "no": 313,
+    "class": "Professor",
+    "id": "Prof313",
+    "name": "○○○",
+    "wideField": [
+      "중문학"
+    ],
+    "detailedField": [
+      "현대소설"
+    ]
+  },
+  {
+    "no": 314,
+    "class": "Professor",
+    "id": "Prof314",
+    "name": "○○○",
+    "wideField": [
+      "중문학"
+    ],
+    "detailedField": [
+      "중국문학이론",
+      "중국문화"
+    ]
+  },
+  {
+    "no": 315,
+    "class": "Professor",
+    "id": "Prof315",
+    "name": "○○○",
+    "wideField": [
+      "중문학"
+    ],
+    "detailedField": [
+      "고전서사",
+      "소설"
+    ]
+  },
+  {
+    "no": 316,
+    "class": "Professor",
+    "id": "Prof316",
+    "name": "○○○",
+    "wideField": [
+      "중문학"
+    ],
+    "detailedField": [
+      "현당대대중문화",
+      "현당대소설"
+    ]
+  },
+  {
+    "no": 317,
+    "class": "Professor",
+    "id": "Prof317",
+    "name": "○○○",
+    "wideField": [
+      "경제경영"
+    ],
+    "detailedField": [
+      "경영전략",
+      "정책"
+    ]
+  },
+  {
+    "no": 318,
+    "class": "Professor",
+    "id": "Prof318",
+    "name": "○○○",
+    "wideField": [
+      "중국어학"
+    ],
+    "detailedField": null
+  },
+  {
+    "no": 319,
+    "class": "Professor",
+    "id": "Prof319",
+    "name": "○○○",
+    "wideField": [
+      "중국어학"
+    ],
+    "detailedField": [
+      "대외한어",
+      "의미론",
+      "현대중국어어법"
+    ]
+  },
+  {
+    "no": 320,
+    "class": "Professor",
+    "id": "Prof320",
+    "name": "○○○",
+    "wideField": [
+      "중문학"
+    ],
+    "detailedField": [
+      "소설",
+      "명청소설"
+    ]
+  },
+  {
+    "no": 321,
+    "class": "Professor",
+    "id": "Prof321",
+    "name": "○○○",
+    "wideField": [
+      "중국어학"
+    ],
+    "detailedField": [
+      "고문자학",
+      "서주시기금문연구"
+    ]
+  },
+  {
+    "no": 322,
+    "class": "Professor",
+    "id": "Prof322",
+    "name": "○○○",
+    "wideField": [
+      "중문학"
+    ],
+    "detailedField": [
+      "현당대문학"
+    ]
+  },
+  {
+    "no": 323,
+    "class": "Professor",
+    "id": "Prof323",
+    "name": "○○○",
+    "wideField": [
+      "중국어학"
+    ],
+    "detailedField": [
+      "성운학"
+    ]
+  },
+  {
+    "no": 324,
+    "class": "Professor",
+    "id": "Prof324",
+    "name": "○○○",
+    "wideField": [
+      "중국어학"
+    ],
+    "detailedField": [
+      "통사론",
+      "의미론",
+      "중국어사",
+      "논리언어학"
+    ]
+  },
+  {
+    "no": 325,
+    "class": "Professor",
+    "id": "Prof325",
+    "name": "○○○",
+    "wideField": [
+      "중문학"
+    ],
+    "detailedField": [
+      "현대문학",
+      "당대문학",
+      "사회와문화"
+    ]
+  },
+  {
+    "no": 326,
+    "class": "Professor",
+    "id": "Prof326",
+    "name": "○○○",
+    "wideField": [
+      "중문학"
+    ],
+    "detailedField": [
+      "고대소설",
+      "스토리텔링",
+      "중국문헌학"
+    ]
+  },
+  {
+    "no": 327,
+    "class": "Professor",
+    "id": "Prof327",
+    "name": "○○○",
+    "wideField": [
+      "중문학"
+    ],
+    "detailedField": [
+      "문학비평",
+      "중문학",
+      "현당대문학"
+    ]
+  },
+  {
+    "no": 328,
+    "class": "Professor",
+    "id": "Prof328",
+    "name": "○○○",
+    "wideField": [
+      "중문학"
+    ],
+    "detailedField": [
+      "고전산문"
+    ]
+  },
+  {
+    "no": 329,
+    "class": "Professor",
+    "id": "Prof329",
+    "name": "○○○",
+    "wideField": [
+      "중문학"
+    ],
+    "detailedField": [
+      "산문"
+    ]
+  },
+  {
+    "no": 330,
+    "class": "Professor",
+    "id": "Prof330",
+    "name": "○○○",
+    "wideField": [
+      "문화"
+    ],
+    "detailedField": [
+      "문예학"
+    ]
+  },
+  {
+    "no": 331,
+    "class": "Professor",
+    "id": "Prof331",
+    "name": "○○○",
+    "wideField": [
+      "정치지역학"
+    ],
+    "detailedField": null
+  },
+  {
+    "no": 332,
+    "class": "Professor",
+    "id": "Prof332",
+    "name": "○○○",
+    "wideField": [
+      "정치지역학"
+    ],
+    "detailedField": null
+  },
+  {
+    "no": 333,
+    "class": "Professor",
+    "id": "Prof333",
+    "name": "○○○",
+    "wideField": [
+      "중문학"
+    ],
+    "detailedField": [
+      "중국문화학"
+    ]
+  },
+  {
+    "no": 334,
+    "class": "Professor",
+    "id": "Prof334",
+    "name": "○○○",
+    "wideField": [
+      "중국어학",
+      "중국어교육"
+    ],
+    "detailedField": [
+      "중국어교육"
+    ]
+  },
+  {
+    "no": 335,
+    "class": "Professor",
+    "id": "Prof335",
+    "name": "○○○",
+    "wideField": [
+      "경제경영"
+    ],
+    "detailedField": [
+      "산업사회학",
+      "중국지역학"
+    ]
+  },
+  {
+    "no": 336,
+    "class": "Professor",
+    "id": "Prof336",
+    "name": "○○○",
+    "wideField": [
+      "통역번역학"
+    ],
+    "detailedField": [
+      "통번역",
+      "중국어교육",
+      "문학"
+    ]
+  },
+  {
+    "no": 337,
+    "class": "Professor",
+    "id": "Prof337",
+    "name": "○○○",
+    "wideField": [
+      "경제경영"
+    ],
+    "detailedField": [
+      "국제경영전략",
+      "해외직접투자"
+    ]
+  },
+  {
+    "no": 338,
+    "class": "Professor",
+    "id": "Prof338",
+    "name": "○○○",
+    "wideField": [
+      "중국어학",
+      "중국어교육"
+    ],
+    "detailedField": [
+      "중국어문법",
+      "중국어교육"
+    ]
+  },
+  {
+    "no": 339,
+    "class": "Professor",
+    "id": "Prof339",
+    "name": "○○○",
+    "wideField": [
+      "중문학"
+    ],
+    "detailedField": [
+      "명청소설",
+      "중국소설"
+    ]
+  },
+  {
+    "no": 340,
+    "class": "Professor",
+    "id": "Prof340",
+    "name": "○○○",
+    "wideField": [
+      "중국어학"
+    ],
+    "detailedField": [
+      "현대어법"
+    ]
+  },
+  {
+    "no": 341,
+    "class": "Professor",
+    "id": "Prof341",
+    "name": "○○○",
+    "wideField": [
+      "중국어교육"
+    ],
+    "detailedField": null
+  },
+  {
+    "no": 342,
+    "class": "Professor",
+    "id": "Prof342",
+    "name": "○○○",
+    "wideField": [
+      "중문학"
+    ],
+    "detailedField": null
+  },
+  {
+    "no": 343,
+    "class": "Professor",
+    "id": "Prof343",
+    "name": "○○○",
+    "wideField": [
+      "중국어학"
+    ],
+    "detailedField": [
+      "한어문자학",
+      "중한언어대조"
+    ]
+  },
+  {
+    "no": 344,
+    "class": "Professor",
+    "id": "Prof344",
+    "name": "○○○",
+    "wideField": [
+      "중국어학"
+    ],
+    "detailedField": [
+      "한중번역",
+      "한중통역",
+      "코퍼스언어학"
+    ]
+  },
+  {
+    "no": 345,
+    "class": "Professor",
+    "id": "Prof345",
+    "name": "○○○",
+    "wideField": [
+      "중국학"
+    ],
+    "detailedField": [
+      "중국학"
+    ]
+  },
+  {
+    "no": 346,
+    "class": "Professor",
+    "id": "Prof346",
+    "name": "○○○",
+    "wideField": [
+      "중국어학",
+      "중국어교육"
+    ],
+    "detailedField": [
+      "중국어교육"
+    ]
+  },
+  {
+    "no": 347,
+    "class": "Professor",
+    "id": "Prof347",
+    "name": "○○○",
+    "wideField": [
+      "중국어학"
+    ],
+    "detailedField": [
+      "중국어교학문법"
+    ]
+  },
+  {
+    "no": 348,
+    "class": "Professor",
+    "id": "Prof348",
+    "name": "○○○",
+    "wideField": [
+      "중문학"
+    ],
+    "detailedField": [
+      "고전산곡"
+    ]
+  },
+  {
+    "no": 349,
+    "class": "Professor",
+    "id": "Prof349",
+    "name": "○○○",
+    "wideField": [
+      "중국어학"
+    ],
+    "detailedField": null
+  },
+  {
+    "no": 350,
+    "class": "Professor",
+    "id": "Prof350",
+    "name": "○○○",
+    "wideField": [
+      "중국어학",
+      "중문학",
+      "중국어교육"
+    ],
+    "detailedField": null
+  },
+  {
+    "no": 351,
+    "class": "Professor",
+    "id": "Prof351",
+    "name": "○○○",
+    "wideField": [
+      "중문학"
+    ],
+    "detailedField": [
+      "문학비평"
+    ]
+  },
+  {
+    "no": 352,
+    "class": "Professor",
+    "id": "Prof352",
+    "name": "○○○",
+    "wideField": [
+      "중문학"
+    ],
+    "detailedField": [
+      "현당대문학"
+    ]
+  },
+  {
+    "no": 353,
+    "class": "Professor",
+    "id": "Prof353",
+    "name": "○○○",
+    "wideField": [
+      "중문학"
+    ],
+    "detailedField": null
+  },
+  {
+    "no": 354,
+    "class": "Professor",
+    "id": "Prof354",
+    "name": "○○○",
+    "wideField": [
+      "경제경영"
+    ],
+    "detailedField": [
+      "정치경제학"
+    ]
+  },
+  {
+    "no": 355,
+    "class": "Professor",
+    "id": "Prof355",
+    "name": "○○○",
+    "wideField": [
+      "정치지역학"
+    ],
+    "detailedField": [
+      "정치",
+      "양안관계"
+    ]
+  },
+  {
+    "no": 356,
+    "class": "Professor",
+    "id": "Prof356",
+    "name": "○○○",
+    "wideField": [
+      "미분류"
+    ],
+    "detailedField": null
+  },
+  {
+    "no": 357,
+    "class": "Professor",
+    "id": "Prof357",
+    "name": "○○○",
+    "wideField": [
+      "중문학"
+    ],
+    "detailedField": [
+      "중국문학"
+    ]
+  },
+  {
+    "no": 358,
+    "class": "Professor",
+    "id": "Prof358",
+    "name": "○○○",
+    "wideField": [
+      "경제경영"
+    ],
+    "detailedField": [
+      "경제",
+      "통상",
+      "금융"
+    ]
+  },
+  {
+    "no": 359,
+    "class": "Professor",
+    "id": "Prof359",
+    "name": "○○○",
+    "wideField": [
+      "경제경영"
+    ],
+    "detailedField": [
+      "정치경제",
+      "지역학"
+    ]
+  },
+  {
+    "no": 360,
+    "class": "Professor",
+    "id": "Prof360",
+    "name": "○○○",
+    "wideField": [
+      "중국어학",
+      "중국어교육"
+    ],
+    "detailedField": null
+  },
+  {
+    "no": 361,
+    "class": "Professor",
+    "id": "Prof361",
+    "name": "○○○",
+    "wideField": [
+      "중국어학"
+    ],
+    "detailedField": [
+      "중국어휘",
+      "통번역"
+    ]
+  },
+  {
+    "no": 362,
+    "class": "Professor",
+    "id": "Prof362",
+    "name": "○○○",
+    "wideField": [
+      "중문학",
+      "문화"
+    ],
+    "detailedField": [
+      "중국영화"
+    ]
+  },
+  {
+    "no": 363,
+    "class": "Professor",
+    "id": "Prof363",
+    "name": "○○○",
+    "wideField": [
+      "문화"
+    ],
+    "detailedField": [
+      "지역학",
+      "문화산업"
+    ]
+  },
+  {
+    "no": 364,
+    "class": "Professor",
+    "id": "Prof364",
+    "name": "○○○",
+    "wideField": [
+      "중국어학"
+    ],
+    "detailedField": null
+  },
+  {
+    "no": 365,
+    "class": "Professor",
+    "id": "Prof365",
+    "name": "○○○",
+    "wideField": [
+      "중국어학"
+    ],
+    "detailedField": [
+      "중국어휘",
+      "통번역"
+    ]
+  },
+  {
+    "no": 366,
+    "class": "Professor",
+    "id": "Prof366",
+    "name": "○○○",
+    "wideField": [
+      "중국어학",
+      "중국어교육"
+    ],
+    "detailedField": null
+  },
+  {
+    "no": 367,
+    "class": "Professor",
+    "id": "Prof367",
+    "name": "○○○",
+    "wideField": [
+      "중국어학"
+    ],
+    "detailedField": [
+      "전자상거래"
+    ]
+  },
+  {
+    "no": 368,
+    "class": "Professor",
+    "id": "Prof368",
+    "name": "○○○",
+    "wideField": [
+      "중국어학"
+    ],
+    "detailedField": null
+  },
+  {
+    "no": 369,
+    "class": "Professor",
+    "id": "Prof369",
+    "name": "○○○",
+    "wideField": [
+      "중문학"
+    ],
+    "detailedField": [
+      "청대궁중희곡"
+    ]
+  },
+  {
+    "no": 370,
+    "class": "Professor",
+    "id": "Prof370",
+    "name": "○○○",
+    "wideField": [
+      "중국어학"
+    ],
+    "detailedField": [
+      "의미론"
+    ]
+  },
+  {
+    "no": 371,
+    "class": "Professor",
+    "id": "Prof371",
+    "name": "○○○",
+    "wideField": [
+      "중국어학"
+    ],
+    "detailedField": [
+      "고문자학",
+      "갑골문자"
+    ]
+  },
+  {
+    "no": 372,
+    "class": "Professor",
+    "id": "Prof372",
+    "name": "○○○",
+    "wideField": [
+      "중국어학"
+    ],
+    "detailedField": [
+      "통사학",
+      "근대중국어어법"
+    ]
+  },
+  {
+    "no": 373,
+    "class": "Professor",
+    "id": "Prof373",
+    "name": "○○○",
+    "wideField": [
+      "중국어학"
+    ],
+    "detailedField": [
+      "어휘학",
+      "중국어사"
+    ]
+  },
+  {
+    "no": 374,
+    "class": "Professor",
+    "id": "Prof374",
+    "name": "○○○",
+    "wideField": [
+      "중국어학"
+    ],
+    "detailedField": null
+  },
+  {
+    "no": 375,
+    "class": "Professor",
+    "id": "Prof375",
+    "name": "○○○",
+    "wideField": [
+      "중문학"
+    ],
+    "detailedField": [
+      "고전희곡"
+    ]
+  },
+  {
+    "no": 376,
+    "class": "Professor",
+    "id": "Prof376",
+    "name": "○○○",
+    "wideField": [
+      "중문학"
+    ],
+    "detailedField": [
+      "고전문학",
+      "고전희곡"
+    ]
+  },
+  {
+    "no": 377,
+    "class": "Professor",
+    "id": "Prof377",
+    "name": "○○○",
+    "wideField": [
+      "중문학"
+    ],
+    "detailedField": [
+      "중국문화",
+      "현대사회",
+      "지역연구",
+      "근대소설"
+    ]
+  },
+  {
+    "no": 378,
+    "class": "Professor",
+    "id": "Prof378",
+    "name": "○○○",
+    "wideField": [
+      "중국어학"
+    ],
+    "detailedField": [
+      "응용언어학"
+    ]
+  },
+  {
+    "no": 379,
+    "class": "Professor",
+    "id": "Prof379",
+    "name": "○○○",
+    "wideField": [
+      "중문학"
+    ],
+    "detailedField": null
+  },
+  {
+    "no": 380,
+    "class": "Professor",
+    "id": "Prof380",
+    "name": "○○○",
+    "wideField": [
+      "중문학"
+    ],
+    "detailedField": null
+  },
+  {
+    "no": 381,
+    "class": "Professor",
+    "id": "Prof381",
+    "name": "○○○",
+    "wideField": [
+      "중문학"
+    ],
+    "detailedField": [
+      "근대문학",
+      "문화학"
+    ]
+  },
+  {
+    "no": 382,
+    "class": "Professor",
+    "id": "Prof382",
+    "name": "○○○",
+    "wideField": [
+      "중국어학",
+      "중국어교육"
+    ],
+    "detailedField": [
+      "현대중국어어법"
+    ]
+  },
+  {
+    "no": 383,
+    "class": "Professor",
+    "id": "Prof383",
+    "name": "○○○",
+    "wideField": [
+      "중문학"
+    ],
+    "detailedField": [
+      "문화학",
+      "비교문학형상학",
+      "비교영화학"
+    ]
+  },
+  {
+    "no": 384,
+    "class": "Professor",
+    "id": "Prof384",
+    "name": "○○○",
+    "wideField": [
+      "경제경영"
+    ],
+    "detailedField": [
+      "국제경영/전략",
+      "중국어"
+    ]
+  },
+  {
+    "no": 385,
+    "class": "Professor",
+    "id": "Prof385",
+    "name": "○○○",
+    "wideField": [
+      "경제경영"
+    ],
+    "detailedField": null
+  },
+  {
+    "no": 386,
+    "class": "Professor",
+    "id": "Prof386",
+    "name": "○○○",
+    "wideField": [
+      "경제경영"
+    ],
+    "detailedField": [
+      "국제경제",
+      "국제통상"
+    ]
+  },
+  {
+    "no": 387,
+    "class": "Professor",
+    "id": "Prof387",
+    "name": "○○○",
+    "wideField": [
+      "경제경영"
+    ],
+    "detailedField": [
+      "기업재무",
+      "거시경제",
+      "국제금융"
+    ]
+  },
+  {
+    "no": 388,
+    "class": "Professor",
+    "id": "Prof388",
+    "name": "○○○",
+    "wideField": [
+      "경제경영"
+    ],
+    "detailedField": [
+      "중국경영",
+      "국제통상"
+    ]
+  },
+  {
+    "no": 389,
+    "class": "Professor",
+    "id": "Prof389",
+    "name": "○○○",
+    "wideField": [
+      "중국어학"
+    ],
+    "detailedField": [
+      "제2언어습득"
+    ]
+  },
+  {
+    "no": 390,
+    "class": "Professor",
+    "id": "Prof390",
+    "name": "○○○",
+    "wideField": [
+      "중국어학"
+    ],
+    "detailedField": [
+      "어휘"
+    ]
+  },
+  {
+    "no": 391,
+    "class": "Professor",
+    "id": "Prof391",
+    "name": "○○○",
+    "wideField": [
+      "중문학"
+    ],
+    "detailedField": [
+      "문학비평",
+      "비교문학"
+    ]
+  },
+  {
+    "no": 392,
+    "class": "Professor",
+    "id": "Prof392",
+    "name": "○○○",
+    "wideField": [
+      "중국어학",
+      "중국어교육"
+    ],
+    "detailedField": null
+  },
+  {
+    "no": 393,
+    "class": "Professor",
+    "id": "Prof393",
+    "name": "○○○",
+    "wideField": [
+      "중국어학",
+      "중국어교육"
+    ],
+    "detailedField": null
+  },
+  {
+    "no": 394,
+    "class": "Professor",
+    "id": "Prof394",
+    "name": "○○○",
+    "wideField": [
+      "중문학"
+    ],
+    "detailedField": null
+  },
+  {
+    "no": 395,
+    "class": "Professor",
+    "id": "Prof395",
+    "name": "○○○",
+    "wideField": [
+      "경제경영"
+    ],
+    "detailedField": [
+      "경영학",
+      "중국기업"
+    ]
+  },
+  {
+    "no": 396,
+    "class": "Professor",
+    "id": "Prof396",
+    "name": "○○○",
+    "wideField": [
+      "중국어학"
+    ],
+    "detailedField": [
+      "한중대조언어학",
+      "문화인류학"
+    ]
+  },
+  {
+    "no": 397,
+    "class": "Professor",
+    "id": "Prof397",
+    "name": "○○○",
+    "wideField": [
+      "경제경영",
+      "중국어학"
+    ],
+    "detailedField": [
+      "경제",
+      "중국어"
+    ]
+  },
+  {
+    "no": 398,
+    "class": "Professor",
+    "id": "Prof398",
+    "name": "○○○",
+    "wideField": [
+      "역사일반"
+    ],
+    "detailedField": [
+      "현대사회"
+    ]
+  },
+  {
+    "no": 399,
+    "class": "Professor",
+    "id": "Prof399",
+    "name": "○○○",
+    "wideField": [
+      "경제경영"
+    ],
+    "detailedField": null
+  },
+  {
+    "no": 400,
+    "class": "Professor",
+    "id": "Prof400",
+    "name": "○○○",
+    "wideField": [
+      "중국어학"
+    ],
+    "detailedField": null
+  },
+  {
+    "no": 401,
+    "class": "Professor",
+    "id": "Prof401",
+    "name": "○○○",
+    "wideField": [
+      "중문학"
+    ],
+    "detailedField": null
+  },
+  {
+    "no": 402,
+    "class": "Professor",
+    "id": "Prof402",
+    "name": "○○○",
+    "wideField": [
+      "중국어학"
+    ],
+    "detailedField": null
+  },
+  {
+    "no": 403,
+    "class": "Professor",
+    "id": "Prof403",
+    "name": "○○○",
+    "wideField": [
+      "경제경영"
+    ],
+    "detailedField": [
+      "경제",
+      "비즈니스"
+    ]
+  },
+  {
+    "no": 404,
+    "class": "Professor",
+    "id": "Prof404",
+    "name": "○○○",
+    "wideField": [
+      "중국어학",
+      "중국어교육"
+    ],
+    "detailedField": null
+  },
+  {
+    "no": 405,
+    "class": "Professor",
+    "id": "Prof405",
+    "name": "○○○",
+    "wideField": [
+      "중국학"
+    ],
+    "detailedField": [
+      "중국학"
+    ]
+  },
+  {
+    "no": 406,
+    "class": "Professor",
+    "id": "Prof406",
+    "name": "○○○",
+    "wideField": [
+      "중국어학"
+    ],
+    "detailedField": [
+      "중국어문법",
+      "언어학"
+    ]
+  },
+  {
+    "no": 407,
+    "class": "Professor",
+    "id": "Prof407",
+    "name": "○○○",
+    "wideField": [
+      "중국어학",
+      "중국어교육"
+    ],
+    "detailedField": [
+      "중국어형태론",
+      "의미론"
+    ]
+  },
+  {
+    "no": 408,
+    "class": "Professor",
+    "id": "Prof408",
+    "name": "○○○",
+    "wideField": [
+      "중문학"
+    ],
+    "detailedField": [
+      "고대문화",
+      "고대소설",
+      "중국문헌학",
+      "중국불교문화"
+    ]
+  },
+  {
+    "no": 409,
+    "class": "Professor",
+    "id": "Prof409",
+    "name": "○○○",
+    "wideField": [
+      "경제경영"
+    ],
+    "detailedField": [
+      "무역",
+      "국제통상법"
+    ]
+  },
+  {
+    "no": 410,
+    "class": "Professor",
+    "id": "Prof410",
+    "name": "○○○",
+    "wideField": [
+      "중문학",
+      "문화"
+    ],
+    "detailedField": [
+      "당송시사"
+    ]
+  },
+  {
+    "no": 411,
+    "class": "Professor",
+    "id": "Prof411",
+    "name": "○○○",
+    "wideField": [
+      "중문학",
+      "문화"
+    ],
+    "detailedField": [
+      "고전산문",
+      "문헌학"
+    ]
+  },
+  {
+    "no": 412,
+    "class": "Professor",
+    "id": "Prof412",
+    "name": "○○○",
+    "wideField": [
+      "중국어학"
+    ],
+    "detailedField": [
+      "한어사",
+      "중국문헌",
+      "군사언어학"
+    ]
+  },
+  {
+    "no": 413,
+    "class": "Professor",
+    "id": "Prof413",
+    "name": "○○○",
+    "wideField": [
+      "중문학"
+    ],
+    "detailedField": [
+      "현대화극",
+      "대중문학",
+      "대중문화"
+    ]
+  },
+  {
+    "no": 414,
+    "class": "Professor",
+    "id": "Prof414",
+    "name": "○○○",
+    "wideField": [
+      "중국어학",
+      "중국어교육"
+    ],
+    "detailedField": [
+      "시"
+    ]
+  },
+  {
+    "no": 415,
+    "class": "Professor",
+    "id": "Prof415",
+    "name": "○○○",
+    "wideField": [
+      "중문학"
+    ],
+    "detailedField": [
+      "현대시"
+    ]
+  },
+  {
+    "no": 416,
+    "class": "Professor",
+    "id": "Prof416",
+    "name": "○○○",
+    "wideField": [
+      "중문학"
+    ],
+    "detailedField": [
+      "고대문학",
+      "고전산문"
+    ]
+  },
+  {
+    "no": 417,
+    "class": "Professor",
+    "id": "Prof417",
+    "name": "○○○",
+    "wideField": [
+      "철학사상"
+    ],
+    "detailedField": [
+      "원시유가인성론",
+      "초간학"
+    ]
+  },
+  {
+    "no": 418,
+    "class": "Professor",
+    "id": "Prof418",
+    "name": "○○○",
+    "wideField": [
+      "역사일반"
+    ],
+    "detailedField": [
+      "근현대사",
+      "서양인의중국인식"
+    ]
+  },
+  {
+    "no": 419,
+    "class": "Professor",
+    "id": "Prof419",
+    "name": "○○○",
+    "wideField": [
+      "경제경영"
+    ],
+    "detailedField": [
+      "경영학",
+      "생산관리"
+    ]
+  },
+  {
+    "no": 420,
+    "class": "Professor",
+    "id": "Prof420",
+    "name": "○○○",
+    "wideField": [
+      "경제경영"
+    ],
+    "detailedField": [
+      "중국경영",
+      "기업관리",
+      "국유기업"
+    ]
+  },
+  {
+    "no": 421,
+    "class": "Professor",
+    "id": "Prof421",
+    "name": "○○○",
+    "wideField": [
+      "경제경영"
+    ],
+    "detailedField": [
+      "중국사회학",
+      "스마트관광",
+      "기업윤리"
+    ]
+  },
+  {
+    "no": 422,
+    "class": "Professor",
+    "id": "Prof422",
+    "name": "○○○",
+    "wideField": [
+      "중문학"
+    ],
+    "detailedField": [
+      "고대문학",
+      "중국인문"
+    ]
+  },
+  {
+    "no": 423,
+    "class": "Professor",
+    "id": "Prof423",
+    "name": "○○○",
+    "wideField": [
+      "중국어학",
+      "문화"
+    ],
+    "detailedField": [
+      "문자학"
+    ]
+  },
+  {
+    "no": 424,
+    "class": "Professor",
+    "id": "Prof424",
+    "name": "○○○",
+    "wideField": [
+      "중국어학",
+      "문화"
+    ],
+    "detailedField": [
+      "응용언어학"
+    ]
+  },
+  {
+    "no": 425,
+    "class": "Professor",
+    "id": "Prof425",
+    "name": "○○○",
+    "wideField": [
+      "중국어학"
+    ],
+    "detailedField": [
+      "현대중국어"
+    ]
+  },
+  {
+    "no": 426,
+    "class": "Professor",
+    "id": "Prof426",
+    "name": "○○○",
+    "wideField": [
+      "중국어학"
+    ],
+    "detailedField": [
+      "문법"
+    ]
+  },
+  {
+    "no": 427,
+    "class": "Professor",
+    "id": "Prof427",
+    "name": "○○○",
+    "wideField": [
+      "중문학"
+    ],
+    "detailedField": [
+      "현당대문학"
+    ]
+  },
+  {
+    "no": 428,
+    "class": "Professor",
+    "id": "Prof428",
+    "name": "○○○",
+    "wideField": [
+      "중국어학"
+    ],
+    "detailedField": [
+      "문법"
+    ]
+  },
+  {
+    "no": 429,
+    "class": "Professor",
+    "id": "Prof429",
+    "name": "○○○",
+    "wideField": [
+      "중문학"
+    ],
+    "detailedField": null
+  },
+  {
+    "no": 430,
+    "class": "Professor",
+    "id": "Prof430",
+    "name": "○○○",
+    "wideField": [
+      "중국어학"
+    ],
+    "detailedField": [
+      "음운학"
+    ]
+  },
+  {
+    "no": 431,
+    "class": "Professor",
+    "id": "Prof431",
+    "name": "○○○",
+    "wideField": [
+      "중문학"
+    ],
+    "detailedField": null
+  },
+  {
+    "no": 432,
+    "class": "Professor",
+    "id": "Prof432",
+    "name": "○○○",
+    "wideField": [
+      "중국학"
+    ],
+    "detailedField": null
+  },
+  {
+    "no": 433,
+    "class": "Professor",
+    "id": "Prof433",
+    "name": "○○○",
+    "wideField": [
+      "역사일반"
+    ],
+    "detailedField": [
+      "중국근현대역사",
+      "화교화인역사",
+      "동아시아사"
+    ]
+  },
+  {
+    "no": 434,
+    "class": "Professor",
+    "id": "Prof434",
+    "name": "○○○",
+    "wideField": [
+      "철학사상",
+      "중국학"
+    ],
+    "detailedField": [
+      "중국철학",
+      "중국사상",
+      "중국문화",
+      "중국신화전설",
+      "중국인문지리",
+      "실크로드"
+    ]
+  },
+  {
+    "no": 435,
+    "class": "Professor",
+    "id": "Prof435",
+    "name": "○○○",
+    "wideField": [
+      "중국어학"
+    ],
+    "detailedField": [
+      "중국어학",
+      "대외한어"
+    ]
+  }
+]

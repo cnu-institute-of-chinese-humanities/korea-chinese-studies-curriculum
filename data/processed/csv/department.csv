@@ -1,0 +1,59 @@
+no,class,id,name,sort,eYear,homepageURL
+1,Department,Depa001,가천대_중국어문학과,어문학,1988,https://www.gachon.ac.kr/sites/zhongwen/index.do
+2,Department,Depa002,가톨릭대_중국언어문화학과,어문학,1979,https://cn.catholic.ac.kr/cn/index.do
+3,Department,Depa003,강남대_중국콘텐츠비즈니스학과,콘텐츠학,2004,https://kcc.kangnam.ac.kr/menu/0f9152ddde49f58b93e7f3f39e7485dc.do
+4,Department,Depa004,건국대_중어중문학과,어문학,1981,https://www.konkuk.ac.kr/sites/china/index.do
+5,Department,Depa005,경북대_중어중문학과,어문학,1979,https://home.knu.ac.kr/HOME/humanities/sub.htm?nav_code=hum1623213510
+6,Department,Depa006,경상국립대_중어중문학과,어문학,1979,https://www.gnu.ac.kr/china/main.do
+7,Department,Depa007,경성대_중국학과,중국학,1980,https://kscms.ks.ac.kr/china/Main.do
+8,Department,Depa008,경희대_중국어학과,언어학,1972,https://zhongwen.khu.ac.kr/zhongwen/user/main/view.do
+9,Department,Depa009,계명대_중국어중국학과,"어문학, 중국학",1979,https://chinesechina.kmu.ac.kr/sites/chinesechina/index.do
+10,Department,Depa010,고려대_중어중문학과,어문학,1972,https://kuchinese.korea.ac.kr/kuchinese/index.do
+11,Department,Depa011,국립강릉원주대_중어중문학과,어문학,1994,
+12,Department,Depa012,국립공주대_중어중문학과,어문학,1982,https://chinese.kongju.ac.kr/sites/ZB0240/index.do
+13,Department,Depa013,국립군산대_중어중문학과,어문학,1994,https://www.kunsan.ac.kr/chinese/index.kunsan
+14,Department,Depa014,국립부경대_중국학과,중국학,1997,https://chinese.pknu.ac.kr/chinese/1
+15,Department,Depa015,국립창원대_중국학과,중국학,1993,https://www.changwon.ac.kr/china/main.do
+16,Department,Depa016,국립한밭대_중국어과,언어학,1991,https://www.hanbat.ac.kr/chinese/index.do
+17,Department,Depa017,동국대_중어중문학과,어문학,1995,https://china.dongguk.edu/main
+18,Department,Depa018,동국대_중어중문학과(W),어문학,1979,https://china.dongguk.ac.kr/HOME/china/index.htm
+19,Department,Depa019,동서대_중국어학과,언어학,개설 정보 없음,https://uni.dongseo.ac.kr/chinese/
+20,Department,Depa020,동아대_중국학과,중국학,1982,https://cms.donga.ac.kr/chinastudies/Main.do
+21,Department,Depa021,동의대_중어중국학과,"어문학, 중국학",1983,https://china.deu.ac.kr/chi/index.do
+22,Department,Depa022,부산대_중어중문학과,어문학,1979,https://china.pusan.ac.kr/china/index.do
+23,Department,Depa023,서강대_중국문화학과,어문학,1993,https://china.sogang.ac.kr/china/index_new.html
+24,Department,Depa024,서울대_중어중문학과,어문학,1946,https://snucll.snu.ac.kr/
+25,Department,Depa025,서울시립대_중국어문화학과,어문학,2007,https://liberalarts.uos.ac.kr/liberalarts/main.do?cate_id2=000011580&identified=anonymous
+26,Department,Depa026,서울신학대_중국언어문화콘텐츠학과,콘텐츠학,2005,https://china.stu.ac.kr/
+27,Department,Depa027,서울여자대_중어중문학과,어문학,1992,https://www.swu.ac.kr/www/liberale_1.html
+28,Department,Depa028,성결대_중어중문학과,어문학,1998,https://www.sungkyul.ac.kr/sites/skuchina/index.do
+29,Department,Depa029,성균관대_중어중문학과,어문학,1955,https://skb.skku.edu/chinese/index.do
+30,Department,Depa030,성신여자대_중국어문·문화학과,어문학,1981,https://www.sungshin.ac.kr/chinese/index..do
+31,Department,Depa031,숙명여자대_중어중문학부,어문학,1972,http://chinese.sookmyung.ac.kr/
+32,Department,Depa032,순천향대_중국학과,중국학,2017,https://home.sch.ac.kr/china/
+33,Department,Depa033,숭실대_중어중문학과,어문학,1992,https://chilan.ssu.ac.kr/
+34,Department,Depa034,안양대_중국언어문화학과,어문학,1998,https://www.anyang.ac.kr/chinese/index.do
+35,Department,Depa035,연세대_중어중문학과,어문학,1974,https://ycll.yonsei.ac.kr/yonseicll/index.do
+36,Department,Depa036,영남대_중국언어문화학과,어문학,1976,https://www.yu.ac.kr/china/index.do
+37,Department,Depa037,용인대_중국학과,중국학,1996,https://www.instagram.com/yiu_china
+38,Department,Depa038,이화여자대_중어중문학과,어문학,1981,https://zhongwen.ewha.ac.kr/zhongwen/index.do
+39,Department,Depa039,인천대_중어중국학과,중국학,2002,https://inuchina.inu.ac.kr/sites/inuchina/index.do?epTicket=LOG
+40,Department,Depa040,인하대_중국학과,중국학,1980,https://chinese.inha.ac.kr/chinese/index.do
+41,Department,Depa041,전남대_중어중문학과,어문학,1979,https://china.jnu.ac.kr/sites/china/index.do
+42,Department,Depa042,전북대_중어중문학과,어문학,1979,https://chinese.jbnu.ac.kr/sites/chinese1/index.do
+43,Department,Depa043,전주대_중국어중국학과,중국학,1995,https://chinese.jj.ac.kr/chinese/index.do
+44,Department,Depa044,제주대_중어중문학과,어문학,1992,https://chinese.jejunu.ac.kr/
+45,Department,Depa045,창신대_중국비즈니스학과,통상학,2013,https://chinese.cs.ac.kr/main
+46,Department,Depa046,충남대_중어중문학과,어문학,1977,https://cnucn.cnu.ac.kr/cnuch/index.do
+47,Department,Depa047,충북대_중어중문학과,어문학,1980,https://humanum.chungbuk.ac.kr/chinese/index.do
+48,Department,Depa048,한국교원대_중국어교육과,교육학,2015,https://www.knue.ac.kr/chinese/index.do
+49,Department,Depa049,국립한국교통대_중국어학과,언어학,1996,https://www.ut.ac.kr/chinese.do
+50,Department,Depa050,한남대_중국경제통상학과,통상학,1997,https://china.hannam.ac.kr/
+51,Department,Depa051,한림대_중국학과,중국학,1985,https://www.hallym.ac.kr/sites/china/index.do
+52,Department,Depa052,한서대_항공외국어학과,통상학,2024,https://global.hanseo.ac.kr/main.do
+53,Department,Depa053,한세대_중국어학과,언어학,2014,https://www.hansei.ac.kr/kor/507/subview.do
+54,Department,Depa054,한신대_중국어문화콘텐츠학,콘텐츠학,개설 정보 없음,https://www.hs.ac.kr/kor/5085/subview.do
+55,Department,Depa055,한신대_동아시아통상학,통상학,개설 정보 없음,https://www.hs.ac.kr/sites/eact/index.do
+56,Department,Depa056,한양대_중어중문학과,어문학,1981,https://humanities.hanyang.ac.kr/-01-4-2a
+57,Department,Depa057,협성대_중국어문화학과,어문학,1997,https://www.uhs.ac.kr/uhs/384/subview.do
+58,Department,Depa058,호서대_중국학과,중국학,1991,https://china.hoseo.ac.kr/Home/Main.mbz

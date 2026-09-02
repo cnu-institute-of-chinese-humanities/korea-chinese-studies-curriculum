@@ -1,0 +1,57 @@
+# CITATION.cff — GitHub가 이 파일을 읽어 "Cite this repository" 버튼을 만듭니다.
+# 공식 규격: https://citation-file-format.github.io/
+
+cff-version: 1.2.0
+message: "이 데이터를 사용하실 경우 아래 정보로 인용해 주십시오."
+type: dataset
+title: "한국 대학의 중국학 유관 학과 교과과정 데이터셋"
+version: "1.0.0"
+date-released: "2026-09-03"
+abstract: >-
+  한국 4년제 대학 78곳의 중국학 유관 학과·전공·트랙 94개와 그 2025학년도 교과목 4,012건,
+  교원 435명, 교육목표 88건을 개체–관계 구조(지식그래프)로 정리한 데이터셋. 대학·캠퍼스·
+  단과대학·학부·학과·전공·트랙·교육목표·교과목·교원 10종의 개체 4,894건과 소속·개설·담당
+  등 관계 5,393건으로 구성되며 CSV·JSON·그래프·GeoJSON 형식으로 제공한다. 교원 성명은
+  익명화되어 있다. 교육목표와 교과목 개요 원문은 각 대학의 저작물로 출처를 밝혀 인용하였다.
+license: CC-BY-4.0
+# Zenodo 릴리스 후 발급된 DOI를 기재
+# doi: "10.5281/zenodo.{번호}"
+url: "https://github.com/cnu-institute-of-chinese-humanities/korea-chinese-studies-curriculum"
+repository-code: "https://github.com/cnu-institute-of-chinese-humanities/korea-chinese-studies-curriculum"
+
+# 저자는 기관 명의입니다. 개인 저자를 추가하려면 아래 형식으로 항목을 덧붙이십시오.
+#   - family-names: "홍"
+#     given-names: "길동"
+#     affiliation: "중국인문연구소"
+#     orcid: "https://orcid.org/0000-0000-0000-0000"
+authors:
+  - name: "중국인문연구소 (Institute of Chinese Humanities)"
+    email: "instituteofchinesehumanitie@gmail.com"
+
+keywords:
+  - "중국학"
+  - "교육과정"
+  - "교과과정"
+  - "한국 대학"
+  - "지식그래프"
+  - "Chinese studies"
+  - "curriculum"
+  - "higher education"
+  - "Korea"
+  - "knowledge graph"
+  - "digital humanities"
+  - "research data"
+
+# 이 데이터로 출판된 논문이 있다면 아래를 채우십시오.
+# preferred-citation:
+#   type: article
+#   title: "{논문 제목}"
+#   journal: "{학술지명}"
+#   year: {연도}
+#   volume: {권}
+#   start: {시작쪽}
+#   end: {끝쪽}
+#   doi: "{논문 DOI}"
+#   authors:
+#     - family-names: "{성}"
+#       given-names: "{이름}"
