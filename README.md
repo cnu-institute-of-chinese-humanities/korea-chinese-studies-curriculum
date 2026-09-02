@@ -18,7 +18,8 @@
 
 ## 저자 👨‍🏫
 
-- 중국인문연구소 (Institute of Chinese Humanities) — instituteofchinesehumanitie@gmail.com
+- 정선한 · 홍승현 · 유인태 — 전남대학교 중어중문학과
+- 문의: 중국인문연구소 (Institute of Chinese Humanities), instituteofchinesehumanitie@gmail.com
 
 ## 폴더 설명 📁
 
@@ -82,7 +83,7 @@ python scripts/preprocess.py
 
 이 데이터를 사용하실 경우 다음과 같이 인용해 주십시오.
 
-> 중국인문연구소. (2026). *한국 대학의 중국학 유관 학과 교과과정 데이터셋* (Version 1.0.0) [Data set]. https://github.com/cnu-institute-of-chinese-humanities/korea-chinese-studies-curriculum
+> 정선한, 홍승현, 유인태. (2026). *한국 대학의 중국학 유관 학과 교과과정 데이터셋* (Version 1.0.0) [Data set]. 중국인문연구소. https://github.com/cnu-institute-of-chinese-humanities/korea-chinese-studies-curriculum
 
 <!-- Zenodo DOI 발급 후 위 URL을 https://doi.org/{DOI} 로 교체 -->
 

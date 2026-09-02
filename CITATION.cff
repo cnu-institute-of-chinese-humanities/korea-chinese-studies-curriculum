@@ -19,12 +19,22 @@ license: CC-BY-4.0
 url: "https://github.com/cnu-institute-of-chinese-humanities/korea-chinese-studies-curriculum"
 repository-code: "https://github.com/cnu-institute-of-chinese-humanities/korea-chinese-studies-curriculum"
 
-# 저자는 기관 명의입니다. 개인 저자를 추가하려면 아래 형식으로 항목을 덧붙이십시오.
-#   - family-names: "홍"
-#     given-names: "길동"
-#     affiliation: "중국인문연구소"
-#     orcid: "https://orcid.org/0000-0000-0000-0000"
 authors:
+  - family-names: "정"
+    given-names: "선한"
+    affiliation: "전남대학교 중어중문학과"
+    # orcid: "https://orcid.org/0000-0000-0000-0000"
+  - family-names: "홍"
+    given-names: "승현"
+    affiliation: "전남대학교 중어중문학과"
+    # orcid: "https://orcid.org/0000-0000-0000-0000"
+  - family-names: "유"
+    given-names: "인태"
+    affiliation: "전남대학교 중어중문학과"
+    # orcid: "https://orcid.org/0000-0000-0000-0000"
+
+# 문의처 (인용 저자와 별개)
+contact:
   - name: "중국인문연구소 (Institute of Chinese Humanities)"
     email: "instituteofchinesehumanitie@gmail.com"
 
