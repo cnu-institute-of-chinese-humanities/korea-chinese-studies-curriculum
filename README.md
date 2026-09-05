@@ -31,7 +31,10 @@
 
 ## 논문 📝
 
-- 준비 중입니다. 게재되면 서지정보와 링크를 여기에 올립니다.
+이 데이터셋의 편찬 과정과 분석 결과는 아래 논문에 실려 있습니다. 데이터를 인용하실 때는 이 논문을 함께 인용해 주십시오.
+
+- 정선한·홍승현·유인태 (2026). 「지식그래프로 보는 한국 대학의 중국 유관 교육 — 2025학년도 교육과정 시맨틱 데이터 편찬과 분석」. 『중국인문과학』 93, 279–325. https://doi.org/10.35955/JCH.2026.08.93.279
+- Jeong, S., Hong, S., & Ryu, I. T. (2026). China-related education at Korean universities through a knowledge graph: Compilation and analysis of semantic curriculum data for the 2025 academic year. *Journal of Chinese Humanities*, 93, 279–325. https://doi.org/10.35955/JCH.2026.08.93.279
 
 ---
 

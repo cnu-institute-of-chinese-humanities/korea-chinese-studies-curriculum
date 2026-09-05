@@ -52,16 +52,30 @@ keywords:
   - "digital humanities"
   - "research data"
 
-# 이 데이터로 출판된 논문이 있다면 아래를 채우십시오.
-# preferred-citation:
-#   type: article
-#   title: "{논문 제목}"
-#   journal: "{학술지명}"
-#   year: {연도}
-#   volume: {권}
-#   start: {시작쪽}
-#   end: {끝쪽}
-#   doi: "{논문 DOI}"
-#   authors:
-#     - family-names: "{성}"
-#       given-names: "{이름}"
+# 이 데이터로 출판된 논문. GitHub의 "Cite this repository"는 이 항목을 우선 보여줍니다.
+preferred-citation:
+  type: article
+  title: "지식그래프로 보는 한국 대학의 중국 유관 교육 — 2025학년도 교육과정 시맨틱 데이터 편찬과 분석"
+  journal: "중국인문과학 (Journal of Chinese Humanities)"
+  publisher:
+    name: "중국인문학회 (The Society for Chinese Humanities in Korea)"
+  issn: "1225-3499"
+  year: 2026
+  month: 8
+  volume: 93
+  start: 279
+  end: 325
+  doi: "10.35955/JCH.2026.08.93.279"
+  url: "https://doi.org/10.35955/JCH.2026.08.93.279"
+  languages:
+    - kor
+  authors:
+    - family-names: "정"
+      given-names: "선한"
+      affiliation: "전남대학교 중어중문학과"
+    - family-names: "홍"
+      given-names: "승현"
+      affiliation: "전남대학교 중어중문학과"
+    - family-names: "유"
+      given-names: "인태"
+      affiliation: "전남대학교 중어중문학과"
